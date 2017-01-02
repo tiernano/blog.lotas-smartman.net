@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="vvCvFaO1zN32fL-kE_vCmlE2uHEETLnUjrarsVFRWD4" />
+  <title>New Backup plan&#8230; out with Jungle Disk and ZManda Cloud Backup, in with CrashPlan, MySQLBF and SqlBF&#8230;</title>
+  <meta name="description" content="[UPDATE: After a few days, i tried CrashPlan Pro on a 30 day trial… Now i find out that its not available outsite the US and Canada… Its a bit hiden in their...">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://blog.lotas-smartman.net/new-backup-plan-out-with-jungle-disk-and-zmanda-cloud-backup-in-with-crashplan-mysqlbf-and-sqlbf/">
+  <link rel="alternate" type="application/rss+xml" title="Tiernans Comms Closet" href="http://blog.lotas-smartman.net/feed.xml" />
+</head>
+
+
+  <body>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new 
+	Date();a=s.createElement(o), 
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-220614-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="/">Tiernans Comms Closet</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        <a class="page-link" href="/about-2/">About</a>
+	<a class="page-link" href="/siteinfo.html">Site Info</a>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">New Backup plan&#8230; out with Jungle Disk and ZManda Cloud Backup, in with CrashPlan, MySQLBF and SqlBF&#8230;</h1>
+    <p class="post-meta">Nov 10, 2011 • admin</p>
+  </header>
+<script async 
+src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 
+468x60, created 8/4/09 --><ins class="adsbygoogle"     
+style="display:inline-block;width:468px;height:60px"     
+data-ad-client="ca-pub-6435972961836580"     
+data-ad-slot="4204114040"></ins><script>(adsbygoogle = 
+window.adsbygoogle || []).push({});</script>
+  <article class="post-content">
+    <p>[<strong>UPDATE</strong>: After a few days, i tried CrashPlan Pro on a 30 day trial… Now i find out that its not available outsite the US and Canada… Its a bit hiden in their FAQ… So, back in search i go!]</p>
+
+<p>My current backup strategy is a long and convoluted one, but it did work… until i shut a lot of stuff down… now i am starting to re-think my plan… first the existing “plan”…</p>
+
+<ul>
+  <li>my main laptop, a Mac Book Pro, is backed up to my Main Workstation (AKA the GodBox) via iSCSI. The <a href="http://blog.lotas-smartman.net/category/workstation-v-next">GodBox</a> is running Windows 2008 R2 Server, and has the <a href="http://blogs.technet.com/b/virtualization/archive/2011/04/04/free-microsoft-iscsi-target.aspx">free Microsoft iSCSI Target</a> installed. I am sharing 2 300Gb VHDs to the MacBook Pro, and those are in RAID 1 on the laptop. Time Machine then backs up to this drive. Also, the iTunes Music, Movies, Apps and TV Shows, and also photos from my camera are also backed up to Jungle Disk. Currently this weighs in at about 160Gb…</li>
+  <li>The GodBox itself has a couple of RAIDed Drives (I know, i know… RAID is not backup…). So, my Photos are stored on a RAID 1 array, which is then backed up using Jungle Disk. The photos college is weighing in at about 180Gb or so… probably more.</li>
+  <li>I have a dedicated server in Germany (this is where this site is being served from… Hello from Germany) and that has the actual contents of the site, database, images, etc. these are currently backed up regularly (every 3 hours for a incremental backup, nightly for a Full backup). I am using <a href="http://www.zmanda.com/cloud-backup.html">ZManda Cloud Backup</a> for this. ZManda has the advantage of backing up SQL and MySQL server, as well as SharePoint and Exchange.</li>
+  <li>There is a machine in the house which acts as an internal Git server (Linux, SSH, Git… simple). <a href="http://www.jugneldisk.com">JungleDisk</a> was installed on this and backed up the folder where Git lived. works grand…</li>
+</ul>
+
+<p>So, there are a couple of outstanding issues with this setup:</p>
+
+<ul>
+  <li>for the amount of data i am storing (About 500Gb give or take) with JungleDisk, its costing me about $80 a month. Its costing me about the same for a Dedicated Server, and it is <strong>about the same cost of a 1Tb drive, every month</strong>!</li>
+  <li>I have logged into the Dedicated server a few times over the last while and found that ZManda was using 900Mb of RAM. Restarting the service solves the issue, but its still a bit of a pain to restart every few days. ZManda released a Version 4 of their ZCB software. I am still on 3.x since MySQL backup was not added to Version 4 yet…</li>
+  <li>If i want to use the same software to backup files around the house, but not in the cloud, ZManda can do it, but JungleDisk cannot.</li>
+  <li>I am using 2 different backup systems…</li>
+  <li>JungleDisk charge $2 per client machine per month, and $4 per server per month (includes some storage with that price… check their site for the latest). Storage is then either charged at about $0.15 per month if you use their API key, or if you use your own, Amazon will charge you… They also use with Amazon S3 or RackSpace Cloud for storage.</li>
+  <li>ZManda is a one off fee per month ($4.95) and you can use that one license to backup as many machines you want. storage is charged at $0.15 per GB, and they are offering 25Gb free… the 25Gb is based on each AWS Region giving you 5Gb free… I suppose since a <a href="http://aws.amazon.com/about-aws/whats-new/2011/11/08/Announcing-new-us-west-oregon-region/">new Region just opened in Oregon</a>, that could now be 30Gb…</li>
+</ul>
+
+<p>So, i went looking, and i think I found a solution… Some investigation still needed, but we are getting there… here is the plan.</p>
+
+<ul>
+  <li>The MacBook Pro will still be using TimeMachine to backup to the GodBox using iSCSI, but the plan will be the GodBox gives it 500Gb of storage already RAIDed… Music, Movies, Photos and Apps will be backed up to <a href="http://www.crashplan.com">CrashPlan</a>. They plan i am looking at will cost me about $12 per month and give me the ability to backup up to 10 machines and gives me Unlimited space… We all know what Unlimited means, but it should be enough… Also, CrashPlan gives me the option to backup to my own machines. So, these files will also get backed up to the GodBox.</li>
+  <li>The Photos and important files on the GodBox will also be backed up to CrashPlan. Less important files, but files i want “safe” will be backed up to my <a href="http://www.drobo.com">Drobo</a>, which currently has about 4Tb usable. The MacBook Pro files will also be dropped in here.</li>
+  <li>The Server in Germany will get backed up to CrashPlan too…. I am liking this idea already… Very simple. I am going to use 2 pieces of software to backup SQL and MySQL: <a href="http://sqlbackupandftp.com/">SQL Backup and FTP</a> and <a href="http://mysqlbackupftp.com/">MySQL Backup and FTP</a>. Been using the free version for a while, and they do a nice job. Would need to go for the Pro Version (About $50 for MySQL edition and $60 for the MSSQL Edition) but that will backup to a location that CrashPlan will watch, and all the magic will be done then. Any files i want backed up will also end up in CrashPlan.</li>
+  <li>Since CrashPlan allows me to backup up to 10 machines in the cloud, i can add more as needed. Also, machines in the house that would not require cloud or offsite backup can be backed up to other machines in the house without any issues.</li>
+</ul>
+
+<p>This should save me a bit of money over time… My first months outlay will be a little more than my usual JungleDisk bill…. After next month, things should start paying for themself…</p>
+
+<p>Ohhh, and while i am at it, the FREE CrashPlan software allows you to do 95% of what i mentioned above… Actually, more than 95%… the only things it wont do is Cloud Backup (you can still backup to your own machine offsite or a friends machine somewhere) and Backup Sets (Say you want your <strong>Documents in the Cloud, but your Music on internal machines, they could be different backup sets</strong>).</p>
+
+<p>[<strong>Full Disclosure</strong> I am paying full price for the service and software above at the moment (on a 30 day trial for CrashPlan, and looking into the SQL and MySQL backup software currently) so this is just what i am planning on doing, not an advertisement…]</p>
+
+<table>
+  <tr>
+    <td>
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+    </td>
+    
+    <td>
+    </td>
+    
+    <td>
+    </td>
+  </tr>
+</table>
+
+
+  </article>
+
+<div class="comments">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'tiernanscommscloset'; 
+    var disqus_url = 'http://blog.lotas-smartman.net/new-backup-plan-out-with-jungle-disk-and-zmanda-cloud-backup-in-with-crashplan-mysqlbf-and-sqlbf/';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; 
+dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || 
+document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a 
+href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span 
+class="logo-disqus">Disqus</span></a>
+</div>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Tiernans Comms Closet</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>Tiernans Comms Closet</li>
+          <li><a href="mailto:tiernan@tiernanotoole.ie">tiernan@tiernanotoole.ie</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/tiernano">
+              <span class="icon  icon--github">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+                </svg>
+              </span>
+
+              <span class="username">tiernano</span>
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/tiernano">
+              <span class="icon  icon--twitter">
+                <svg viewBox="0 0 16 16">
+                  <path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                  c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+                </svg>
+              </span>
+
+              <span class="username">tiernano</span>
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+        <p class="text">
+Copyright (c) 2016 <a href="https://blog.lotas-smartman.net">Tiernan 
+OToole</a>. Page generated at:  2017-01-02 18:21:54 +0000 </p>
+<!-- end #footer -->
+<script type="text/javascript">
+  var vglnk = { api_url: '//api.viglink.com/api',
+                key: 'aecb90add8b6f7192e42ddfa3e65b611' };
+
+  (function(d, t) {
+    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+    s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+             '//cdn.viglink.com/api') + '/vglnk.js';
+    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+  }(document, 'script'));
+
+</script>
+	</div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
