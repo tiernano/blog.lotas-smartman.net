@@ -1,0 +1,29 @@
+---
+title: Tiny URL V Huge URL!
+author: admin
+layout: post
+permalink: /tiny-url-v-huge-url/
+dsq_thread_id:
+  - 26008703
+dsq_needs_sync:
+  - 1
+categories:
+  - Uncategorized
+---
+> Just when you thought [TinyURL][1] was cool, now you can take a look at [HugeURL][2] and decide which is better. [Via [Dennis Cheung][3]]
+
+*[Via [Weblogs @ ASP.NET][4]]*
+
+ [1]: http://www.tinyurl.com
+ [2]: http://www.hugeurl.com
+ [3]: http://www.hugeurl.com/?OTc5ODYwNjZiZDRhMTcyYjkzNWUxOGYwNjYwOWQ0NDQmMTAmVm0wd2QyVkhVWGhUV0docFVtMVNXVll3WkRSV1ZsbDNXa2M1V0ZKc2JETlhhMXBQVmxVeFYyTkljRmhoTWsweFZtcEtTMU5IVmtkWGJGcHBW</p>
+<p>MFpHTTFacVFtRlRNazE1VTJ0V1ZXSklRbGhXYlhoM1ZWWmFkRTFZY0d4U2JHdzFWa2QwYTFkSFNrZGpTRUpYVFVkU2RscFdXbUZqYkZaeVdrWndWMDFFUlRCV01uUnZVakZXZEZOcmJGSmlWR3hXVm0weGIxSkdiSEZTYlhSWVVqRktTVlZ0</p>
+<p>ZUhkV01ERkZWbGhrVjJFeVVYZFdha1pYWkVaT2NtRkdXbWxTTW1odlZtMXdUMVV4V1hoalJWWlRZbGhTV0ZSV1pGTk5SbkJHVjJ4T1ZXSkdjREZWVjNoelZqSkdjbUV6YUZkaGExcDZWbXBHVDJSV1duTlRiV3hvWld4YWIxWnRjRU5pTVVW</p>
+<p>NFdrVmtXR0pyTlZsWmJHaFRWMFpTVjFwRVFrOWlSM2hYVmpKek5WWlhTa2RqUmxwWFlsaFNlbFpxU2tkamJVVjZZVVphYUdFeGNGaFhiRnBoVkRKTmVWSnJhR3hTYkVwVVZteG9RMWRzV1hoWGJYUk9VbXR3TUZaV2FHOWhiRXB6WTBac1dt</p>
+<p>RXlhRVJaZWtaWFpFZFdTRkp0ZUZkaVdGRjZWbTE0VTFZeFdYZE5WVlpUWWtkU1lWUlZXbUZrYkZsM1YyMUdVMkpGTlRCWlZWcHJZVWRGZUdOSE9WZFdSVXBvVlhwR2ExZEdUbkphUm1ocFZqTm9XVlp0TURGUk1rbDRWMWhvWVZKRlNtOVVW</p>
+<p>M1J6VGxaYVdFNVZPVmRpVlhCSldWVm9UMVp0Um5KT1ZsSmFUVzVvYUZreFdrZGtWbkJIVld4T2FWSXpZM2hXYTFwaFZURlZlRmRZWkU1WFJYQllXVmQ0ZDFZeFduUk5WemxxWWtad2VGVnRNVWRVTWtwR1YyeHdXbFpXY0ROWmEyUkdaVWRP</p>
+<p>U1dKR2FGZFNXRUV5VjJ4V1lXRXhXWGhYYmxaV1lsZG9WRmxyVm5kV1ZscEhWMnhrYTAxc1NucFdNalZQVjIxV2NsZHVTbFZXYkZwNlZHdGFhMk5zV25Sa1IyaHBVbGhCZDFkV1ZtOVRNVnB5VFZWb1ZtSkdTbGhVVlZwM1lVWndSbHBGT1U5</p>
+<p>aVJYQXdXbFZhYTJGV1duSmlla1pYWWxSRk1GWlVSa3BsUm1SMVUyczFWMkpJUW5oV1Z6QjRWVEZrUjFWc1pHRlNlbXhQVkZaYWQyVkdWblJrUkVKb1lYcEdlVlJzVm05V01WbDZZVWRvV2xac2NISlZiWE40VmxaV2MxcEhiRmRTVld0M1Zt</p>
+<p>MHhkMUl4VVhoWFdHaFlZbXhhVjFsc1pHOVdSbXhaWTBaa1YxWnNjREJhVldNMVZXc3hSVkZxVWxkTmFsWlVWa2Q0YTFOR1ZuTlhiRlpYVFRGS2IxZHNXbUZWYlZaSFdraEthMUpzY0ZoWmEyaERVakZhVjFkc1RtcGlSVXBUVlVaUmQxQlJQ</p>
+<p>VDA9
+ [4]: http://weblogs.asp.net/rholloway/archive/2004/03/27/100495.aspx
