@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/tiernano
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.lotas-smartman.net
+  * I am tiernano (https://keybase.io/tiernano) on keybase.
+  * I have a public key with fingerprint 21A3 589B D237 9DE0 4423  5381 2583 50A8 CE93 9AF5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.18"
+        },
+        "key": {
+            "eldest_kid": "01014b9b9b2ddbab97ef3d260cb2fa29b4f27eaefdbc37af1f81c730c813c53832830a",
+            "fingerprint": "21a3589bd2379de044235381258350a8ce939af5",
+            "host": "keybase.io",
+            "key_id": "258350a8ce939af5",
+            "kid": "01014b9b9b2ddbab97ef3d260cb2fa29b4f27eaefdbc37af1f81c730c813c53832830a",
+            "uid": "581cf37b774b05815cede917e4c1b719",
+            "username": "tiernano"
+        },
+        "service": {
+            "hostname": "blog.lotas-smartman.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1440933350,
+    "expire_in": 157680000,
+    "prev": "61bac15f71a1f328bf4a3f6a7cf8612190363efa5c3eceebab29baf902c0e435",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtkn1QFGUcx++OQEBewv5xyAZcu5ka8dq325erYLCCahAyM4HOzn15FhaO3WN3
+vSSBKUlMDQTRiwEkLl7ipdHQKaOYORhNK6awUYMaEaxwcFBQRDFNapehmZrpz3b/
+eXafz+/7+/6+z1MVGWQKNVvLXmr/vqbulnngCmva+Mv41HaIlfkiyLEd4twikDRj
+JTEFAHJA+aCIZVRgE+V4SeaBLU+NX2QSIC9QVFGWdAq2UTaEgkoSDN6oBm4eqJor
+X+SNXQRGcJbWX5TnWYalSSBgPErAHIsKDEqzuICSgAECz3IYyQiIQCEcicEchWCc
+HaMwlMJgRm8oiFIOUDyKaFiEUITB7BTN8ihG0jyAcRzFdBpB7RRmhxmKAzRGM4Jd
+L8yVVe1fw0ALTl0L9v6D/599b12Qs+u7AkayJImzsP5h5wAPaIQEOIewJEIboAqU
+xeA10VhKshGq/tcrcsAI1phkkWDdco7NLWuMukYtYBStgJFsEjAOxqPImszJbh3K
+1TSP6jBEtCKPUfUGYF2Lei5WbJZ4PdN/niWio5wmGh0QHIdpDNPDSYDANo+oAJdo
+EHaSoGD9MRoBr65JICzDIXaBRBhE0KdmBZzBBIIhOYEiEBShYYzAgMDYOQxwAOhR
+6uExAg2jHAxwzEhcBYX6rA5S98nk6JKqmCMx2lYFQCW7LSseMJlDTSHBFuOymsLD
+Hvz7BgdT0X++EHi1jIidL79MPCdatHFzzJKhsdODMa6GpJxux0l8QEXqk7+Fhq6l
++VuHInpTJ33bGl+ZmPioCvvV3xTb8P7TJd+0KMiFwuHM5um1E2fM2T30nUAtOnt1
+ffGNDmfSE94Cz2e7NuDvhsEH8N0nLW/5TrW3+Ruo1P1xPa+3nGd/qswzm86UED/k
+7kw5deLa2R6iP39998qnfNSlO44rgeLScrbiVmF+RFbqa2NObFO/L9v5Iv5Me/oe
+KbuyOP3HJx8pOpYUEfV86cBSZnZw7WlplY/68lPl+Nz+0IOOhrSaFcqat614uJfN
+arv/6JKCzjSr5/iJTR3+7tUP35gKmwupnzlfZV2eFbl0OqMn2vyzN817MTHWWTmb
+3Ep0sV9M4pGtEey+AzvLco+MbN4nV5QddD8eGTF6oWzDJ8lUHnd242D19Dvnam4+
+lnG4tGHw3vztLUcCd1F/fMDaYXnTaru5zL8q7eXQ3yaih+br9ngvruvb9cGyTGdt
+3uShwr7f63vD4MS9FVuI5Z0jHz/bRY+N9HVd/1pqrK4PUoaJh2aq5+bDI8XarvCQ
+zJbx4bZ+3BcSaE+hphLFw5tXn9sx429cF5TeW1c3a9k7MLey+ahz7OrRjLjk3g9T
+a4+FioOjO5o6o5uo+5/HTETFRzkvJ9LipdtdX6Xc+648bk7b817w3dHr8X/MHvoL
+=3IPS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tiernano
+
+==================================================================
