@@ -7,7 +7,7 @@ baseurl: ""
 markdown: kramdown
 twitter_username: tiernano
 github_username:  tiernano 
-url: "http://blog.lotas-smartman.net"
+url: "https://blog.lotas-smartman.net"
 paginate: 5
 plugins: 
   -  jekyll-paginate
