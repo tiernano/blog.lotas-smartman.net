@@ -16,8 +16,3 @@ I have been thinking of moving this site to Jekyll. Would just then be html bein
 So, let&#8217;s see what happens. Might get pissed off upgrading WordPress and managing the servers and move sooner rather than later. What could possibly go wrong?&nbsp;
 
 [update] this is what happens when you don&#8217;t post a lot. My caching has gone nuts and that image, which was put up as an after though, won&#8217;t resize&#8230; Feck it anyway!
-
- [1]: http://blog.lotas-smartman.net/wp-content/uploads/2015/04/IMG_0252.jpg
- [2]: http://tiernanotoole.ie
- [3]: http://jekyllrb.com
- [4]: http://www.geekphotographer.com

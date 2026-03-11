@@ -11,7 +11,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-[Borland][1], the guys who brought you [Delphi][2], [JBuilder][3], [C++Builder][4], [Kylix][5], etc, have just released [C++BuilderX][6]. Its available for Windows, Linux and solaris! Cool. And theres a free [personal Edition][7] too. Well actually i think there is. Borland have a lot of Free Personal Editions availabe ([Kylix][8], [Jbuilder][9] [and others you will find on their downloads site.][10]) so in theory C++BuilderX Personal would be free. I hope! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[Borland][1], the guys who brought you [Delphi][2], [JBuilder][3], [C++Builder][4], [Kylix][5], etc, have just released [C++BuilderX][6]. Its available for Windows, Linux and solaris! Cool. And theres a free [personal Edition][7] too. Well actually i think there is. Borland have a lot of Free Personal Editions availabe ([Kylix][8], [Jbuilder][9] [and others you will find on their downloads site.][10]) so in theory C++BuilderX Personal would be free. I hope! :P
 
  [1]: http://www.borland.com
  [2]: http://www.borland.com/delphi/index.html

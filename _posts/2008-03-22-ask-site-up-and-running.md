@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Check out [Ask the hairy bloke][1]! Its my ask site. any questions to be asked by you, just ask. All techie questions please! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> Cost per question: EUR7.50. Check it out! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Check out [Ask the hairy bloke][1]! Its my ask site. any questions to be asked by you, just ask. All techie questions please! :P Cost per question: EUR7.50. Check it out! :)
 
  [1]: http://www.lotas-smartman.net/ask

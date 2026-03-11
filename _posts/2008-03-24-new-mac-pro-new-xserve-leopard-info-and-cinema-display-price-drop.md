@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[well, i was right][1]. the new mac pro will have 64 bit Xeons in them, and they are dual core too. [More info here][2], [TUAW has some info here][3] and [engadget has some photos here][4]. Next, XServe got upgraded to Xeons too. [TUAW has some info here][5] and the [apple site has more][6]. Next Lepoard. [The apple site has stuff][7], but havent gotten into it much. finally, Cinema displays have dropped in price. see [here][8]. Still waiting on a video of this&#8230; 
+[well, i was right][1]. the new mac pro will have 64 bit Xeons in them, and they are dual core too. [More info here][2], [TUAW has some info here][3] and [engadget has some photos here][4]. Next, XServe got upgraded to Xeons too. [TUAW has some info here][5] and the [apple site has more][6]. Next Lepoard. [The apple site has stuff][7], but havent gotten into it much. finally, Cinema displays have dropped in price. see [here][8]. Still waiting on a video of this&#8230;
 
 [update] [Video now live!][9]  
 bk_keywords: apple

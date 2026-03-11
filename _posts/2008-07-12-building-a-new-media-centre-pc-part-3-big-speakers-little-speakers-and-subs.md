@@ -12,9 +12,9 @@ i have been meaning to write this article up for a while now, but with one thing
 
 So, Home Cinema Choice.com has an [article talk about what to look for][1]. they include their tips, including some specs to look for. they even talk about cabling! a friend of mine told me not to use just normal "phone cable" (cheap 2 wire cable) with your speakers. use proper stuff. So, this is a tip i am taking. for another interesting read, HDTVOrg.co.uk have a [guide around speakers, amps, placement and audio standards][2], which is a definate read. No point getting great speakers, and not knowing where to place them&#8230; its a bit silly!
 
-So, on to what i am looking at. Well, after some thinking, i am looking at keeping the standard speakers i have at the moment as my souround speakers. There are Yahama speakers which i will talk about later. but the new speakers i am looking at are [2 nice Floor Standing speakers][3]. the Amp i talked about in [Part 2][4], the Onkyo TX-SR606, has 2 sound zones: one for sorround sound and one for stereo. the plan is using the 5.1 for movies, tv, etc, and the stereo for music. Or at least thats the plan. 
+So, on to what i am looking at. Well, after some thinking, i am looking at keeping the standard speakers i have at the moment as my souround speakers. There are Yahama speakers which i will talk about later. but the new speakers i am looking at are [2 nice Floor Standing speakers][3]. the Amp i talked about in [Part 2][4], the Onkyo TX-SR606, has 2 sound zones: one for sorround sound and one for stereo. the plan is using the 5.1 for movies, tv, etc, and the stereo for music. Or at least thats the plan.
 
-For Reference, the Yahama speaker kit i have currently is the [NSP110][5], or at least they look very simular&#8230;. 
+For Reference, the Yahama speaker kit i have currently is the [NSP110][5], or at least they look very simular&#8230;.
 
 So, in the next part, which should be the second last post, i will talk about Media Sources: where i am getting my content, how it gets into the house and how it gets from the Media to the Screen and speakers. The final post will be on the setup. Weather the PC will be in at this stage or not is yet to be seen, but the rest should be ready!
 

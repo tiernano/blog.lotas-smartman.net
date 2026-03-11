@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Bink has more][1]. downloading now! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[Bink has more][1]. downloading now! :)
 
  [1]: http://bink.nu/Article8225.bink

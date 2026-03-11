@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-its been [over a year and a half since i posted about the rasterbator][1], but now its [downloadable as a dotNET App][2]! This is really cool, and a reason i want a printer! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+its been [over a year and a half since i posted about the rasterbator][1], but now its [downloadable as a dotNET App][2]! This is really cool, and a reason i want a printer! :)
 
  [1]: http://blog.lotas-smartman.net/archive/2004/03/12/TheRasterbator.aspx
  [2]: http://arje.net/rasterbator

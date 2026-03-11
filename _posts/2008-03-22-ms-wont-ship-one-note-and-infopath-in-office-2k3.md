@@ -14,33 +14,33 @@ Neowin&nbsp;&#8211; Microsoft will disclose on Wednesday, April 3 that retail an
 
 InfoPath, a program that helps generate form-like documents, or OneNote, a &#8230;
 
-Microsoft Sets</p> 
+Microsoft Sets</p>
 
 Office 2003 Lineup, But Leaves Out OneNote</a> TechWeb
 
-Office 2003 to Come</p> 
+Office 2003 to Come</p>
 
 in Six Flavors</a> eWeek
 
 [CNET News.com][1]&nbsp;&#8211;
 
-</p> 
+</p>
 
 InternetNews.com</a>&nbsp;&#8211;
 
-</p> 
+</p>
 
 InternetWeek.com</a>&nbsp;&#8211;
 
 [PC World][2]&nbsp;&#8211;
 
-</p> 
+</p>
 
 **and&nbsp;32&nbsp;related&nbsp;Â»**</a>
 
-</p> 
+</p>
 
-http://www.neowin.net/comments.php?id=10000&category=main</a>
+<http://www.neowin.net/comments.php?id=10000&category=main></a>
 
 Its a pity. There in the beta, and work pretty well. only thing I don&#8217;t like
 

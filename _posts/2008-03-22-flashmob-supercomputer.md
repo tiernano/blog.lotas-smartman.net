@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.flashmobcomputing.org/\">Flash mob computing</a> was sucessfull. I originally posted about this <a href=\"http://blog.lotas-smartman.net/archives/2004/02/25/1429/flashmobcomputing/\">in febuary</a>. interesting idea.
+<a href=\"<http://www.flashmobcomputing.org/\">Flash> mob computing</a> was sucessfull. I originally posted about this <a href=\"<http://blog.lotas-smartman.net/archives/2004/02/25/1429/flashmobcomputing/\">in> febuary</a>. interesting idea.

@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Tom&#8217;s Hardware Guide Mass Storage: Decision at 250 GB: Maxtor MaXLine Plus II vs. Western Digital WD2500JB &#8211; Fat Storage: 250 GB Hard Drives from Maxtor and Western Digital][1]. Sweet! now 1Tb is an easy thing with no extra controlers! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[Tom&#8217;s Hardware Guide Mass Storage: Decision at 250 GB: Maxtor MaXLine Plus II vs. Western Digital WD2500JB &#8211; Fat Storage: 250 GB Hard Drives from Maxtor and Western Digital][1]. Sweet! now 1Tb is an easy thing with no extra controlers! :P
 
  [1]: http://www17.tomshardware.com/storage/20030402/index.html "Tom's Hardware Guide Mass Storage: Decision at 250 GB: Maxtor MaXLine Plus II vs. Western Digital WD2500JB - Fat Storage: 250 GB Hard Drives from Maxtor and Western Digital"

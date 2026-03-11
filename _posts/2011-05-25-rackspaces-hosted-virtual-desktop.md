@@ -18,10 +18,10 @@ Racksapce announced a while back (Few days ago) that there where releasing somet
 
 The idea sounds interesting&#8230; and i am actually managing to write this post from a Rackspace HVD test environment (The current machine is a Quad Core Opteron with 15.5Gb of RAM, 160Gb HDD, hosted in the US with a very nice interest connection. Its running Windows 2008 R2 Server Enterprise Edition, and has a copy of Office 2010). FireFox and IE are installed, and, as a basic machine, its nice&#8230; I am not an Admin on the box, so I wouldn&#8217;t be able to install Visual Studio or anything like that, which would make testing this a bit more interesting, but then again, there is a bit of LAAAAGGGG&#8230;..
 
-  * Firstly, by my calculations, the VM is about 180ms away from my house in Dublin, Ireland, which means you can notice the lag while typing&#8230;
-  * There is a feature for making this work quicker, but its an admin feature and i cant seem to enable it&#8230; don&#8217;t know if it would make a difference&#8230;
-  * In the Rackspace white paper, there is mention of using [Akamai][2] as an Application Accelerator&#8230; Wondering if that would that make a difference&#8230;
-  * [YouTube][3], as you can probably guess, is not usable&#8230; Video is very buggy&#8230; one thing to node though: a Full 1080P HD video on YouTube does load Very Quickly!
+* Firstly, by my calculations, the VM is about 180ms away from my house in Dublin, Ireland, which means you can notice the lag while typing&#8230;
+* There is a feature for making this work quicker, but its an admin feature and i cant seem to enable it&#8230; don&#8217;t know if it would make a difference&#8230;
+* In the Rackspace white paper, there is mention of using [Akamai][2] as an Application Accelerator&#8230; Wondering if that would that make a difference&#8230;
+* [YouTube][3], as you can probably guess, is not usable&#8230; Video is very buggy&#8230; one thing to node though: a Full 1080P HD video on YouTube does load Very Quickly!
 
 Now, why would you need this? That&#8217;s a bit of a though question&#8230; If you are a company with a massive internet pipe, and have low ping times to either an Akamai pop or a Rackspace Data center, this could allow you to reduce hardware costs&#8230; buy a couple of thin client boxes, connect them to some monitors, and your good to go&#8230; no need to have dedicated hardware&#8230;
 

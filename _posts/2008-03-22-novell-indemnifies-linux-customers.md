@@ -6,8 +6,7 @@ permalink: /novell-indemnifies-linux-customers/
 categories:
   - Uncategorized
 ---
-[the reg is reporting][1] that *Novell is to indemnify enterprise customers of SUSE Linux against legal action undertaken on IP grounds by &#8220;third parties&#8221; &#8211; i.e. SCO. *. best quote:  
-
+[the reg is reporting][1] that *Novell is to indemnify enterprise customers of SUSE Linux against legal action undertaken on IP grounds by &#8220;third parties&#8221; &#8211; i.e. SCO.*. best quote:  
 
 > It is beginning to look like an awful amount of firepower is arraigned against SCO.</p>
 Ready, aim, FIRE!

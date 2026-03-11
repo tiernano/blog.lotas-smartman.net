@@ -13,7 +13,7 @@ Found this though [Connected Internet][1], and though I would check out some of 
 
 [lotas-smartman.net][2]: $6020!
 
-[the-hairy-one.com][3]: nothing! 0! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" />
+[the-hairy-one.com][3]: nothing! 0! :(
 
 [TheHairyOne.net][4]: $115
 

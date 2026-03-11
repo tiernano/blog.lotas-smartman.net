@@ -8,7 +8,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-So, you may have noticed that the site has been up and down a bit for the last day or so... And now its over SSL. Well, thats because now this site is hosted 
+So, you may have noticed that the site has been up and down a bit for the last day or so... And now its over SSL. Well, thats because now this site is hosted
 behind [CloudFlare][1] with SSL and [SPDY][2] enabled. But thats just one part of this post...
 
 Looking at the sites i run, i have decided to make some changes. The sites running are:
@@ -22,8 +22,8 @@ Looking at the sites i run, i have decided to make some changes. The sites runni
 
 there are a few more (well, 30 or so domains!) but it would take too long to explain, and i cant even remember what half of them are or where...
 
-So, this site, going forward, will be more "Long Form" posts, much like the [5+ Screens and a Cloud][8] post from 2011. future posts like the [Using Dropbox 
-as a personal Git and Mercurial Storage area][9] post will probably go to [tiernanotoole.ie][3] and then shorter quick posts will live on the 
+So, this site, going forward, will be more "Long Form" posts, much like the [5+ Screens and a Cloud][8] post from 2011. future posts like the [Using Dropbox
+as a personal Git and Mercurial Storage area][9] post will probably go to [tiernanotoole.ie][3] and then shorter quick posts will live on the
 [miniblog.tiernanotoole.ie][10].
 
 all the blogs have RSS feeds to subscribe to, so if you want to subscribe, go forth and do so... Thanks.

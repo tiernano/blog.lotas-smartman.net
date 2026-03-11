@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Sonyâs 1TB digital video recorder with seven TV tuners &#8211; Engadget &#8211; www.engadget.com][1]. SWEET. now all i need is a good TV! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[Sonyâs 1TB digital video recorder with seven TV tuners &#8211; Engadget &#8211; www.engadget.com][1]. SWEET. now all i need is a good TV! :P
 
  [1]: http://www.engadget.com/entry/5697251958315683/

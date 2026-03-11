@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-http://wap.ubique.ch/wapblogger/ is the place to post stuff to your blog through your wap enabled phone!
+<http://wap.ubique.ch/wapblogger/> is the place to post stuff to your blog through your wap enabled phone!

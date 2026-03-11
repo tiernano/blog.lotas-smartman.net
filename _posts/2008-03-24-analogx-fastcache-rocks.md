@@ -6,7 +6,7 @@ permalink: /analogx-fastcache-rocks/
 categories:
   - Uncategorized
 ---
-I am using [AnalogX FastCache][1] to cache my DNS requests to make my internet connection faster, and i can tell you, its a LOT faster! I have it installed for the 1hr 58min (well, in the photo anyway) and i have saved 8 and a half minuites in DNS requests. [RSS Bandit][2] is working faster, so is IE and FireFox. everything works well. this is very cool.   
+I am using [AnalogX FastCache][1] to cache my DNS requests to make my internet connection faster, and i can tell you, its a LOT faster! I have it installed for the 1hr 58min (well, in the photo anyway) and i have saved 8 and a half minuites in DNS requests. [RSS Bandit][2] is working faster, so is IE and FireFox. everything works well. this is very cool.
 ![AnalogX FastCache][3]
 
  [1]: http://www.analogx.com/contents/download/network/fc.htm

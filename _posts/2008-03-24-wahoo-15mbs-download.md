@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-My 1mb cable modem connection has been upgraded to 1.5mb. i can now download at 180Kbytes/s insted of 120kbytes/s. so, i can finish downloading stuff 50% faster! i like getting stuff like that free!! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+My 1mb cable modem connection has been upgraded to 1.5mb. i can now download at 180Kbytes/s insted of 120kbytes/s. so, i can finish downloading stuff 50% faster! i like getting stuff like that free!! :)

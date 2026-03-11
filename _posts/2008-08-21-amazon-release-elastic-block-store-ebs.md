@@ -12,14 +12,14 @@ categories:
 ---
 Its taken a while, but amazon have finally released the [Elastic Block Store][1], their presistant data store for [EC2][2]. The way it works is as follows:
 
-  * you create an EC2 instance as normal
-  * you create a EBS Volume, ranging from 1Gb to 1Tb. this costs 10c per gb allocated per month.
-  * you mount the EBS Volume on the EC2 instance, do your work, and your sorted.
-  * if your Ec2 instance goes down, your EBS volume is still there and so is your data. just mount it on a new EC2 instance and Bobs your uncle.
+* you create an EC2 instance as normal
+* you create a EBS Volume, ranging from 1Gb to 1Tb. this costs 10c per gb allocated per month.
+* you mount the EBS Volume on the EC2 instance, do your work, and your sorted.
+* if your Ec2 instance goes down, your EBS volume is still there and so is your data. just mount it on a new EC2 instance and Bobs your uncle.
 
-there is already a post on the developer connection center showing you [how to get MySQL working with EBS][3]. 
+there is already a post on the developer connection center showing you [how to get MySQL working with EBS][3].
 
-another feature is snapshots. you can backup your EBS volume to S3 using their snapshot system. you are charged the usual S3 costs for the snapshot hosting, but everything is compressed before it gets to S3. so, say you have a 20Gb volume with only 4 gb of files. this could be compressed to only 3gb or less, depending on the compression. 
+another feature is snapshots. you can backup your EBS volume to S3 using their snapshot system. you are charged the usual S3 costs for the snapshot hosting, but everything is compressed before it gets to S3. so, say you have a 20Gb volume with only 4 gb of files. this could be compressed to only 3gb or less, depending on the compression.
 
 Anyway, this is very cool stuff. more info and pricing is [available here][4].
 

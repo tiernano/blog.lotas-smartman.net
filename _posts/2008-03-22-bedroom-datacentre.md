@@ -6,7 +6,7 @@ permalink: /bedroom-datacentre/
 categories:
   - Uncategorized
 ---
-I am about quarter way there to my bedroom datacentre! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> read extended entry for more!
+I am about quarter way there to my bedroom datacentre! :P read extended entry for more!
 
 <!--more-->
 

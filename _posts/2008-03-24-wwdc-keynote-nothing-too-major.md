@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<img src="http://images.lotas-smartman.net/image.ashx?id=5003b04e-2883-4dda-8d3e-20b1553b7518" align="right" /> Well, The WWDC keynote is just over, and no new hardware <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" /> Engadget has some stuff for you to read up on:
+<img src="http://images.lotas-smartman.net/image.ashx?id=5003b04e-2883-4dda-8d3e-20b1553b7518" align="right" /> Well, The WWDC keynote is just over, and no new hardware :( Engadget has some stuff for you to read up on:
 
 [Apple&#8217;s Mac OS X Leopard fully unveiled][1]
 

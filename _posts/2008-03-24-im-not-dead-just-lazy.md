@@ -18,7 +18,7 @@ Right, been extreamly bust with both Work and non work Life. Its been one of tho
 
 [Asynchronous pages in ASP.NET 2.0][4]. this is cool. I have to use this for something&#8230;
 
-Thats about everything for a while. Hopefully i will get my life back soon&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Ohhhh, and i got a [Zune][5]! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Thats about everything for a while. Hopefully i will get my life back soon&#8230; :) Ohhhh, and i got a [Zune][5]! :)
 
  [1]: http://keithhill.spaces.live.com/blog/cns!5A8D2641E0963A97!512.entry
  [2]: http://www.codeproject.com/dotnet/perfcounter.asp

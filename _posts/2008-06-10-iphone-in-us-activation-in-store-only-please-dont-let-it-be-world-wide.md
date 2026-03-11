@@ -12,9 +12,9 @@ Looks like [one of my theories][1] has come to fruition, and i was really hoping
 
 To qute AT&T From the Engadget site:
 
-*"There is no question that many enjoyed the convenience of at-home activation, but we also found that many others wanted to complete purchase and activation in one step so they could walk out of the AT&T store with their iPhone up and running. We have decided to take the latter approach and we think customers will like it. It will be especially helpful if any questions or issues arise during activation. They can be resolved on the spot and in-person.</p> 
+*"There is no question that many enjoyed the convenience of at-home activation, but we also found that many others wanted to complete purchase and activation in one step so they could walk out of the AT&T store with their iPhone up and running. We have decided to take the latter approach and we think customers will like it. It will be especially helpful if any questions or issues arise during activation. They can be resolved on the spot and in-person.</p>
 
-This is the way our wireless phones have been activated for years and customers have been very happy with it. 
+This is the way our wireless phones have been activated for years and customers have been very happy with it.
 
 And, activation should take just a few minutes."</em>
 

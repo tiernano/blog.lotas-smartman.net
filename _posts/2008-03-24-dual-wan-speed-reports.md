@@ -10,13 +10,13 @@ categories:
 ---
 A few days ago I [mentioned that I was running on Dual WAN connections][1] at home. Well, here are some screen shots of the Speeds I am getting:
 
-this is from [PRTG][2], which is showing my [RV042][3] with SNMP enabled. 
+this is from [PRTG][2], which is showing my [RV042][3] with SNMP enabled.
 
 ![][4]&nbsp;
 
 This one is showing [FlashGet][5] downloading a DVD Image ([Ubuntu][6]) from a HTTP server.
 
-![][7] 
+![][7]
 
 At the moment, that is about the fastest I have seen both connections run. So far, so good!
 

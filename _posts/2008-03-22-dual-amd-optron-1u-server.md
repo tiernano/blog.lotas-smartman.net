@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-AMD Zone has </p> 
+AMD Zone has </p>
 
 this article</a> previewing dual Opteron servers in a 1U server. Hmmm sounds
 

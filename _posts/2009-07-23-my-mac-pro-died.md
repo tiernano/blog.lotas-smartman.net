@@ -24,7 +24,7 @@ Since the machine is now dead, i have started to look at my next workstation&#82
 
 Some options:
 
-· New [New MacPro][1]: though i am thinking i don’t want to buy a Mac again, since i can’t really upgrade it (other than memory or HDD). The graphics are Mac Only (PC cards wont work) and there are only 4 drive bays for HDDs anyway&#8230; 
+· New [New MacPro][1]: though i am thinking i don’t want to buy a Mac again, since i can’t really upgrade it (other than memory or HDD). The graphics are Mac Only (PC cards wont work) and there are only 4 drive bays for HDDs anyway&#8230;
 
 · [Dell Precision workstation][2]: this is not a cheap option! Configured with just 2 2.66Gz Quad Core Xeons, this is just under 4 grand, BEFORE TAX!!! And i haven’t even done anything else!
 

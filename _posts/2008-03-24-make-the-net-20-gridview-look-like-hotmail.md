@@ -10,7 +10,7 @@ categories:
 ---
 Check out this MSDN article showing you [how  
 to make the GridView look like Hotmail][1]. [[via  
-ScottGu][2]] 
+ScottGu][2]]
 
 Technorati Tags:&nbsp; <a href="http://www.technorati.com/tag/Programming" rel="tag">Programming</a>&nbsp;  
 <a href="http://www.technorati.com/tag/.net" rel="tag">.net</a>&nbsp; <a href="http://www.technorati.com/tag/hotmail" rel="tag">hotmail</a>&nbsp;

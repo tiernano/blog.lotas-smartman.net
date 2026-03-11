@@ -12,6 +12,6 @@ A while back engadget posted info about a posible 30&#8243; monitor from Dell. [
 
 <img height=333 alt=3007wfp src="http://tiernan.cachefly.net/3007wfp.jpg" width=425 border=0 />
 
-I definatly want one! Actually, in an ideal world, i would have 2&nbsp;<img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+I definatly want one! Actually, in an ideal world, i would have 2&nbsp;:)
 
  [1]: http://www.engadget.com/2005/12/21/the-dell-3007wfp-to-drop-jan-5th/

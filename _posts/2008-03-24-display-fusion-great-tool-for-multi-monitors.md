@@ -12,7 +12,7 @@ categories:
 ---
 Do you rock multi monitors on your workstation at home or work? I have 2 20&#8243; Dell wide screen monitors at home, and, if I can ever get a graphics card upgrade in work, will have 2 19&#8243; monitors in there (hoping the hardware fairies come soon, though our hardware rep may not like being called a fairy&#8230;). Anyway, on a Windows Vista box, you cannot set different backgrounds for different monitors. you select one, and its used on both. also, if you have one large wallpaper, you cant spread it over 2 monitors (or more). Well, [DisplayFusion][1] allows you to do both, and more.
 
-I have only being using it for the 2 different wallpapers on 2 different monitors, but it works very well. and a nice extra feature is the ability to search Flickr for photos you want on your desktop! 
+I have only being using it for the 2 different wallpapers on 2 different monitors, but it works very well. and a nice extra feature is the ability to search Flickr for photos you want on your desktop!
 
 there is a lot of stuff in this that I haven&#8217;t found, and wont go into yet, but check it out, especially if you have multiple monitors.
 

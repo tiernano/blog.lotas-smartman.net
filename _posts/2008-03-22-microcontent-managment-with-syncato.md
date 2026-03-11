@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.xml.com/pub/a/2004/03/17/syncato.html\">This oreillynet article talks about microcontent and Syncato</a>. looks like an interesting idea. since its powered by XML, you can get a lot of things talking to it immediatly, or maybe after a few hours anyway.
+<a href=\"<http://www.xml.com/pub/a/2004/03/17/syncato.html\">This> oreillynet article talks about microcontent and Syncato</a>. looks like an interesting idea. since its powered by XML, you can get a lot of things talking to it immediatly, or maybe after a few hours anyway.

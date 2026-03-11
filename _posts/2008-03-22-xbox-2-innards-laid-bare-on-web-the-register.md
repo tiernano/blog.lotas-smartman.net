@@ -10,7 +10,6 @@ categories:
 ---
 [Xbox 2 innards laid bare on web | The Register][1]. sweet sounding system:  
 
-
 > &#8230;three-core 3.5GHz CPU backed by 256MB of main memory and a 500MHz graphics chip</p>
 i would love that as a workstation never mind as a games console, well maybe with a bit more ram. more at the link.
 

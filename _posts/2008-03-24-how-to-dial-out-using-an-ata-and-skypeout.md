@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Nice interesting text document showing you [how to use Skype and a Phone ATA][1]. Very interesting stuff. very cool stuff. While reading this, they link to [Axon PBX][2], a PBX for Windows, which is very cool! And, if you already have a SIP system, they also have [SIP to Skype][3]. which is nice. 
+Nice interesting text document showing you [how to use Skype and a Phone ATA][1]. Very interesting stuff. very cool stuff. While reading this, they link to [Axon PBX][2], a PBX for Windows, which is very cool! And, if you already have a SIP system, they also have [SIP to Skype][3]. which is nice.
 
 bk_keywords: VOIP; skype
 

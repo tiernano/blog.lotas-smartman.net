@@ -14,7 +14,7 @@ categories:
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
       <a class="black" href="http://dotnetguy.techieswithcats.com/"><b>Feed: </b>The .NET Guy</a><br />&nbsp;<a class="black" href="http://dotnetguy.techieswithcats.com/archives/003094.shtml"><b>Title: </b>Today is No Pants Day</a>
     </td>
-    
+
     <td align="right" style="font-family: Verdana,Sans-serif; font-size: 10pt">
       <b>Author: </b>The .NET Guy&nbsp;<br /><a class="black" href="http://dotnetguy.techieswithcats.com/archives/003094.shtml#comments">Comments</a>&nbsp;
     </td>
@@ -35,4 +35,4 @@ categories:
   </tr>
 </table>
 
-Wahoo!! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> I have decided not to where pants for the rest of the night. mainly cause im going to bed, but if i ware not going to bed, i would still be wearing no pants! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+Wahoo!! :P I have decided not to where pants for the rest of the night. mainly cause im going to bed, but if i ware not going to bed, i would still be wearing no pants! :P

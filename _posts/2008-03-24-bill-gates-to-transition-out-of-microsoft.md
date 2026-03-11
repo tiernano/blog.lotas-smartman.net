@@ -6,7 +6,7 @@ permalink: /bill-gates-to-transition-out-of-microsoft/
 categories:
   - Uncategorized
 ---
-[Bill Gates to transition out of Microsoft][1]. Not sure what else to say&#8230;&nbsp; 
+[Bill Gates to transition out of Microsoft][1]. Not sure what else to say&#8230;&nbsp;
 
 bk_keywords:Microsoft
 

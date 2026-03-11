@@ -8,7 +8,6 @@ categories:
 ---
 [Ars Technica reports][1] that apple has pulled the apple G5 Ads that say its the worlds fastest desktop computer.  
 
-
 > The UK&#8217;s Independent Television Commission has decided that Apple&#8217;s claim that the G5 is the &#8220;the world&#8217;s fastest, most powerful personal computer&#8221; does not meet their standards for truth in advertising. The ITC is an independant entity that oversees advertising on commercial TV networks (ergo, not the BBC). This came about by some circuitous developments: apparently before the ad ever even aired, a technical advisor had wondered about its validity. However, Apple, or at least its advertising agency, was able to temporarily alleviate the &#8220;expert&#8217;s&#8221; view, but not for long.</p>
 Hmmmm. [slashdot have an article here too][2]. They also say that *Apple&#8217;s sales in the UK [are up 36%][3], so far, this year*.
 

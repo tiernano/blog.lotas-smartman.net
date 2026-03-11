@@ -13,11 +13,11 @@ categories:
 ---
 A couple of weeks back, I mentioned I wanted to become a better developer. I even blogged about it [here][1]. Well, I&nbsp;mentioned this to my manager, and he had some suggestions that I&nbsp;should do to help me become a better developer. one of these was learning the .NET Framework, fully, including knowing&nbsp;what the compiler does to my C# code when I click compile.
 
-I liked this suggestion (by the way, he did just say &#8220;Learn a Framework&#8221;, not specifically the .NET Framework. but since I work for Microsoft, and target the .NET Framework in 99% of my code (the other 1% being scripts) I think the .NET Framework is a perfect choice&#8230;). 
+I liked this suggestion (by the way, he did just say &#8220;Learn a Framework&#8221;, not specifically the .NET Framework. but since I work for Microsoft, and target the .NET Framework in 99% of my code (the other 1% being scripts) I think the .NET Framework is a perfect choice&#8230;).
 
-Anyway, on the the point of the post. Granville Barnett has [posted an article][2] over at [Channel 8][3] (yep, news to me too actually! I knew about [Channel 9][4] (hell I even have a couple of 9 Guys lying around the house and in work) and [on10][5], but where did Channel 8 come from?) about MSIL (Microsoft Intermediate Language) and explaining why you would learn it, what it does, etc. Very cool. 
+Anyway, on the the point of the post. Granville Barnett has [posted an article][2] over at [Channel 8][3] (yep, news to me too actually! I knew about [Channel 9][4] (hell I even have a couple of 9 Guys lying around the house and in work) and [on10][5], but where did Channel 8 come from?) about MSIL (Microsoft Intermediate Language) and explaining why you would learn it, what it does, etc. Very cool.
 
-By the way: Channel 8 is like Channel 9, but more aimed at Students who want to code, connect and create technology (borrowed from their [About page][6]). Cool stuff! 
+By the way: Channel 8 is like Channel 9, but more aimed at Students who want to code, connect and create technology (borrowed from their [About page][6]). Cool stuff!
 
 If you like the article, [Kick it&nbsp;here][7].
 

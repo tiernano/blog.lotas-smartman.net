@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Robert Burke ][1]has more on his  
+[Robert Burke][1]has more on his  
 blog about the developers.ie code party. its going well over here. we gained an  
 extra team, and now we have a total of 4 teams. i think we have more onlookers  
 then team members, but thats life. anyway, lots of fun, and lots of photos  

@@ -16,8 +16,8 @@ categories:
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
   <p>
-    ngpostlinks&#8221;><a title="http://www.thinksecret.com/news/aprillaptops.html" href="http://www.thinksecret.com/news/aprillaptops.html">http://www.thinksecret.com/news/aprillaptops.html</a> 
-    
+    ngpostlinks&#8221;><a title="http://www.thinksecret.com/news/aprillaptops.html" href="http://www.thinksecret.com/news/aprillaptops.html">http://www.thinksecret.com/news/aprillaptops.html</a>
+
     <div>
       Apple will announce new laptops on Monday, sources confirmed to Think Secret. While exact specifications and feature sets are unclear, sources solidly contended the Monday, April 19 announcement date for new PowerBooks and iBooks.
     </div>

@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.mozilla.org\">Mozilla</a> 1.7BETA has been released. <a href=\"http://www.mozilla.org/releases/mozilla1.7b/\">Change log here</a>.
+<a href=\"<http://www.mozilla.org\">Mozilla></a> 1.7BETA has been released. <a href=\"<http://www.mozilla.org/releases/mozilla1.7b/\">Change> log here</a>.

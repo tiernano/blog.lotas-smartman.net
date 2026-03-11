@@ -9,4 +9,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-135Tera Flops! Pretty impressive! <a href=http://www.betanews.com/article/IBM\_Breaks\_Own\_Supercomputer\_Record/1111715517">More here</a>.
+135Tera Flops! Pretty impressive! <a href=<http://www.betanews.com/article/IBM\_Breaks\_Own\_Supercomputer\_Record/1111715517">More> here</a>.

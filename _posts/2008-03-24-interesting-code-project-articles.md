@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I get an email every week with a list of new and updated&nbsp;[code project][1] articles. So, of this weeks articles, here are the interesting ones, or at least the ones i though where interesting&#8230; 
+I get an email every week with a list of new and updated&nbsp;[code project][1] articles. So, of this weeks articles, here are the interesting ones, or at least the ones i though where interesting&#8230;
 
 [Querying Microsoft Active Directory using Microsoft .NET Framework Library][2]
 
@@ -20,7 +20,7 @@ I get an email every week with a list of new and updated&nbsp;[code project][1] 
 
 [Fast Diff Algorithm in Visual Basic .NET][6]
 
-[An expression evaluator written in VB][7] 
+[An expression evaluator written in VB][7]
 
 [Import/Export registry sections as XML][8]
 

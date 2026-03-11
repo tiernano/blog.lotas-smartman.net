@@ -6,7 +6,7 @@ permalink: /ms-releases-win2k3-to-oems/
 categories:
   - Uncategorized
 ---
-VNUNet&nbsp;&#8211; Microsoft has released its Windows Server 2003 operating system to manufacturers, along with the 64-bit version of its SQL Server 2000 database. [Microsoft server ready; are buyers?][1] Seattle&nbsp;Times [Manufacturers Get Latest Windows Server, SQL Server][2] eWeek [The Register][3]&nbsp;&#8211; [InfoWorld][4]&nbsp;&#8211; [InternetNews.com][5]&nbsp;&#8211; [Tacoma News Tribune][6]&nbsp;&#8211; [**and&nbsp;47&nbsp;related&nbsp;Â»**][7][ http://www.vnunet.com/News/1139829][8] [[Google News][9]] Was on the [MSDN][10] a few days ago.
+VNUNet&nbsp;&#8211; Microsoft has released its Windows Server 2003 operating system to manufacturers, along with the 64-bit version of its SQL Server 2000 database. [Microsoft server ready; are buyers?][1] Seattle&nbsp;Times [Manufacturers Get Latest Windows Server, SQL Server][2] eWeek [The Register][3]&nbsp;&#8211; [InfoWorld][4]&nbsp;&#8211; [InternetNews.com][5]&nbsp;&#8211; [Tacoma News Tribune][6]&nbsp;&#8211; [**and&nbsp;47&nbsp;related&nbsp;Â»**][7][http://www.vnunet.com/News/1139829][8] [[Google News][9]] Was on the [MSDN][10] a few days ago.
 
  [1]: http://seattletimes.nwsource.com/html/businesstechnology/134665510_windowsserver31.html
  [2]: http://www.eweek.com/article2/0,3959,981752,00.asp

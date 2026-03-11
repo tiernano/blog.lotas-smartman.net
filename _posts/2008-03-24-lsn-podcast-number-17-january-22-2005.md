@@ -10,6 +10,6 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-Podcast for January 22 2005 is available <a href=http://209.97.203.81/podcast/lsnpodcast-20050122-01.mp3 rel="enclosure">here</a>. Photos i talk about are available on my backup blog [here][1].
+Podcast for January 22 2005 is available <a href=<http://209.97.203.81/podcast/lsnpodcast-20050122-01.mp3> rel="enclosure">here</a>. Photos i talk about are available on my backup blog [here][1].
 
  [1]: http://209.97.203.81/backupblog/

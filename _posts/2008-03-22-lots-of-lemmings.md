@@ -10,4 +10,4 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.utahdesign.com/lemmings/downloads.html\">Check out this page for lemmings</a> for nearly every computer system you can think of! Got lemmings for windows and have been playing for the last few hours!
+<a href=\"<http://www.utahdesign.com/lemmings/downloads.html\">Check> out this page for lemmings</a> for nearly every computer system you can think of! Got lemmings for windows and have been playing for the last few hours!

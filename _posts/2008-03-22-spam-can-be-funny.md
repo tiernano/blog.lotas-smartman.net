@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I just got spamassassin and got it working properly last night. so far it has cought 7 spam messages. i dont usually get LOTS, but this is enough for about 10 hours. anyway, of the 7 spam messages, 2 where fast IDs, mainly because i droped my minimum to 2. probabably should fix that cause one of them was 2 exactly, and the other was 5.10, but i supose it was really half spam (yahoo groups with loads of crap on it). anyway, here are some of the results its gotten back!!! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+I just got spamassassin and got it working properly last night. so far it has cought 7 spam messages. i dont usually get LOTS, but this is enough for about 10 hours. anyway, of the 7 spam messages, 2 where fast IDs, mainly because i droped my minimum to 2. probabably should fix that cause one of them was 2 exactly, and the other was 5.10, but i supose it was really half spam (yahoo groups with loads of crap on it). anyway, here are some of the results its gotten back!!! :P
 
 Content analysis details: (**16.00 points, 2 required**)
 
@@ -36,7 +36,7 @@ REMOVE_PAGE (0.3 points) URI: URL of page called &#8220;remove&#8221;
 
 MSG\_ID\_ADDED\_BY\_MTA_2 (0.4 points) &#8216;Message-Id&#8217; was added by a relay (2)
 
-RCVD\_IN\_SBL (1.0 points) RBL: Received via SBLed relay, see http://www.spamhaus.org/sbl/
+RCVD\_IN\_SBL (1.0 points) RBL: Received via SBLed relay, see <http://www.spamhaus.org/sbl/>
 
 [RBL check: found 80.217.230.66.sbl.spamhaus.org.] RCVD\_IN\_OSIRUSOFT_COM (0.6 points) RBL: Received via a relay in relays.osirusoft.com
 
@@ -78,7 +78,7 @@ REMOVE_PAGE (0.3 points) URI: URL of page called &#8220;remove&#8221;
 
 MSG\_ID\_ADDED\_BY\_MTA_2 (0.4 points) &#8216;Message-Id&#8217; was added by a relay (2)
 
-RCVD\_IN\_SBL (1.0 points) RBL: Received via SBLed relay, see http://www.spamhaus.org/sbl/
+RCVD\_IN\_SBL (1.0 points) RBL: Received via SBLed relay, see <http://www.spamhaus.org/sbl/>
 
 [RBL check: found 80.217.230.66.sbl.spamhaus.org.] RCVD\_IN\_OSIRUSOFT_COM (0.6 points) RBL: Received via a relay in relays.osirusoft.com
 

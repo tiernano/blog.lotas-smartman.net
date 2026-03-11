@@ -16,9 +16,9 @@ If you use the following command:
 
 It works!
 
-![][2] 
+![][2]
 
-I dropped him an email, since comments are disabled. So, there you have it! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> [update] would have been a good idea to add a link! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p> 
+I dropped him an email, since comments are disabled. So, there you have it! :) [update] would have been a good idea to add a link! :)</p>
 
 <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:219d7215-370b-44db-b276-988364b47775" style="padding-right:0px;display:inline;padding-left:0px;float:none;padding-bottom:0px;margin:0px;padding-top:0px;">
   Technorati Tags: <a href="http://technorati.com/tags/safari%20for%20windows" rel="tag">safari for windows</a>, <a href="http://technorati.com/tags/Visual%20Studio" rel="tag">Visual Studio</a>, <a href="http://technorati.com/tags/Shawn%20Burke" rel="tag">Shawn Burke</a>, <a href="http://technorati.com/tags/Safari" rel="tag">Safari</a>

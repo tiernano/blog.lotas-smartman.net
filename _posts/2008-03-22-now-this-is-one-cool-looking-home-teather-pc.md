@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[check this out][1]!!! cool!! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[check this out][1]!!! cool!! :)
 
  [1]: http://www.bit-tech.net/article/115/

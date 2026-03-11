@@ -12,7 +12,7 @@ The computer could send the file to the phone via Bluetooth, or maybe just &#822
 
 Cool.
 
--Russ 
+-Russ
 
 <p align="right">
   <a href="http://www.russellbeattie.com/notebook/1005582.html" target="_blank">Comment</a>

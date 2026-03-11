@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[check out this questionare][1]. i just got 210 as my Digital IQ. i am a geek! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[check out this questionare][1]. i just got 210 as my Digital IQ. i am a geek! :P
 
  [1]: http://www.msnbc.com/news/987180.asp?cp1=1

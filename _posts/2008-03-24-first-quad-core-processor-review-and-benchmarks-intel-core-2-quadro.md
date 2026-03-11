@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I was wondering what they where going to call it, and Quadro doesent sound too bad. Toms Hardware got their hands on a [Quad Core Core 2 processor and benchmarked it][1]. Very interesting stuff. next questions: When can i get a Quad Core Dual Proc (or quad proc, for that matter) workstation? <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> And when (or if) apple stick these in their Mac Pros, what will they call it? Mac Pro Octo? <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+I was wondering what they where going to call it, and Quadro doesent sound too bad. Toms Hardware got their hands on a [Quad Core Core 2 processor and benchmarked it][1]. Very interesting stuff. next questions: When can i get a Quad Core Dual Proc (or quad proc, for that matter) workstation? :) And when (or if) apple stick these in their Mac Pros, what will they call it? Mac Pro Octo? :)
 
  [1]: http://www.tomshardware.com/2006/09/10/four_cores_on_the_rampage/

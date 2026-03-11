@@ -20,7 +20,7 @@ categories:
       <p>
         The&nbsp;<a href="http://msdn.microsoft.com/Longhorn/productinfo/conceptvid/default.aspx#manufacturing" title="http://msdn.microsoft.com/Longhorn/productinfo/conceptvid/default.aspx#manufacturing">Longhorn in Manufacturing demo</a> highlights Avalon, Indigo and Fundamentals in plant floor operations, business intelligence, and system integration.&nbsp; The scenarios in the demo are based on early work with our partner <a href="http://www.wonderware.com/" title="http://www.wonderware.com/">Invensys Wonderware</a>.&nbsp; Their innovative work in real-time visualizations of plant operations will surely push Avalon and Indigo hard.
       </p>
-      
+
       <p class="MsoNormal">
         <img border="0" width="1" height="1" id="_x0000_i1025" src="http://blogs.msdn.com/jcmaslan/aggbug/110645.aspx" />
       </p>

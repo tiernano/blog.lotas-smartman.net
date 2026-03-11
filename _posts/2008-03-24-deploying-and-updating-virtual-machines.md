@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Interesting post over at David Wang&#8217;s blog with info on [updating and deploying Virtual machines][1]. Very cool stuff. 
+Interesting post over at David Wang&#8217;s blog with info on [updating and deploying Virtual machines][1]. Very cool stuff.
 
 bk_keywords: virtual machine, virtual server, virtual pc
 

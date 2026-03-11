@@ -22,11 +22,11 @@ Why would they come? Not just because of the salaries, not just because of the f
 
 An Institute would also give Mr. Bill something to build in his &#8220;second life.&#8221; (I like noting that we&#8217;re the same age, 48.) He would have something to flog to his billionaire friends, like Warren Buffett, something really worthwhile. We need basic research desperately in this country, if we&#8217;re to even compete with China and India. What better legacy could a billionaire have than that? I see a [Paul Allen][3] Music School on campus, a [Steve Ballmer][4] Business School, don&#8217;t you? (How about a [Marc Canter][5] chair in computer graphic art?)
 
-Eventually, of course, the Gates Institute might grow. It might add a literature department (Professor [Rowling][6], meet Professor [Bear][7] and Professor [Steele][8]), a public policy school, whatever seems needed. 
+Eventually, of course, the Gates Institute might grow. It might add a literature department (Professor [Rowling][6], meet Professor [Bear][7] and Professor [Steele][8]), a public policy school, whatever seems needed.
 
 And someday, maybe after Bill and I are gone, they might have enough undergraduates to field a football team. The Fighting Nerds.
 
-[Dana Blankenhorn ][9]&nbsp;[[Corante: Moore&#8217;s Lore][1]]
+[Dana Blankenhorn][9]&nbsp;[[Corante: Moore&#8217;s Lore][1]]
 
 OK -I accept.&nbsp; Here&#8217;s my speech:
 

@@ -10,13 +10,13 @@ categories:
 ---
 [The March 06 CTP of XNA Build has been released][1]. This allows you to do some interesting stuff, and to show off, the Microsoft Game Studios has released the source code to [Microsoft MechCommander 2 as a shared code release][2]. This can be built with the help of Visual C++ 2005 and the XNA Build tools. Brian Keller, Product Manager for XNA [has info on his blog here][3]. System Requirements for the Build are:
 
-<span></p> <div class=downloadInfo> 
+<span></p> <div class=downloadInfo>
 
 <ul>
   <li>
     <b>Supported Operating Systems: </b>Windows XP Service Pack 2
   </li>
-</ul></div> 
+</ul></div>
 
 <p>
   Microsoft Visual C++ 2005<br />Microsoft MSBuild 2.0<br />4.5 GB of disk space is required during installation.

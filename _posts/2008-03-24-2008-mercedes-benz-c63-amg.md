@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<img height="293" src="http://images.lotas-smartman.net/image.ashx?id=cc9c4e72-1c6d-4271-bdfd-ef855106b90c" width="450" /> 
+<img height="293" src="http://images.lotas-smartman.net/image.ashx?id=cc9c4e72-1c6d-4271-bdfd-ef855106b90c" width="450" />
 
 As a bit of a car nut, I like to read [Autoblog][1] for all the latest car news. Well, this morning, I found [this post][2] about the new Merc C63 AMG (pictured above). This is a pretty impressive looking car, and Autoblog are touting it as an [M3][3] killer, but, look at the power details:
 

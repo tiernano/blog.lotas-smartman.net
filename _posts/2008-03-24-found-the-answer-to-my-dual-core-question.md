@@ -10,7 +10,7 @@ categories:
 ---
 [Slasdot  
 has answered my question][1] about dual core chips. each core will run at the  
-processor speed. so a dual core 3.2Gz chip with have 2 3.2Gz cores. 
+processor speed. so a dual core 3.2Gz chip with have 2 3.2Gz cores.
 
 [  
 Nothing Playing. ]

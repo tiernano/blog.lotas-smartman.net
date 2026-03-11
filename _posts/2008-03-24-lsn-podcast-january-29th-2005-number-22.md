@@ -10,7 +10,7 @@ categories:
 ---
 LSN PodCast January 29th 2005: Number 22
 
-Available to download [here][1]. 
+Available to download [here][1].
 
 [Ireland .Net Developers Ireland &#8211; We are on the starting blocks!][2]
 

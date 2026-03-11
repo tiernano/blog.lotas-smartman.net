@@ -9,6 +9,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[this bloke][1] has info on running unsigned code on a PS2. all you need is a memory card and a valid PS1 game. hehe. even more reason to buy one! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[this bloke][1] has info on running unsigned code on a PS2. all you need is a memory card and a valid PS1 game. hehe. even more reason to buy one! :P
 
  [1]: http://www.0xd6.org/ps2-independence.html

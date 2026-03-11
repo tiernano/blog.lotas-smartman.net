@@ -18,7 +18,7 @@ First, I have to get my data out of Community Server and into a format that DasB
   2. next, I migrate the blog posts, comments and categories/tags to [BlogML][1]. This is a XML format for storing your the content of your entire blog in. this allows easy migration from one blog to another. To do so, I used Keyvan Nayyeri&#8217;s [Community Server 2007 BlogML converter][2]. this allows me to export all my data easily.
   3. Finally, I import the data into DasBlog, which is quite simple too. I uses [Tam Tam Weblogs DasBlog BlogML importer][3] for this. This works great.
 
-Now, in between part 2 and 3, there should be a 2a. I have noticed that there are spaces before and after the category names in the BlogML that is generated. this is causing a problem with the import, and when you click a category link, the URL returns a 400 error message. So, I have to preprocess the BlogML before importing into DasBlog. 
+Now, in between part 2 and 3, there should be a 2a. I have noticed that there are spaces before and after the category names in the BlogML that is generated. this is causing a problem with the import, and when you click a category link, the URL returns a 400 error message. So, I have to preprocess the BlogML before importing into DasBlog.
 
 So far, so good. one or two little tweaks to the URL rewriting section, as I mentioned, and I will hopefully have everything working. I will post more as time goes on.
 

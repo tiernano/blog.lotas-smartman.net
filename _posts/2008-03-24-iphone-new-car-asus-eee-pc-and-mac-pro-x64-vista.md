@@ -10,7 +10,7 @@ categories:
 ---
 its been a hectic couple of days. Some of the highlights are as follows:
 
-I bought an [iPhone][1]. I wont go into details about this, but lets say its a little bigger and heavier then I was expecting&#8230; 
+I bought an [iPhone][1]. I wont go into details about this, but lets say its a little bigger and heavier then I was expecting&#8230;
 
 I bought a new Car. on the 12th January I mentioned I was sitting in my &#8220;[Mobile Office][2]&#8220;, a 1996 523i BMW. Well, it got upgraded. That night I found a car on one of the car sales sites, test drove it on the Sunday, Organized money and got the car checked out on Monday and the car was mine on Tuesday. Its a 2000 523i automatic. More on that later.
 

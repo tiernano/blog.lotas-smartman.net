@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://news.zdnet.co.uk/software/applications/0,39020384,39149277,00.htm\">ZDNet is reporting</a> that MySQL are to add SubSecond fail over to their SQL Server with in a month.
+<a href=\"<http://news.zdnet.co.uk/software/applications/0,39020384,39149277,00.htm\">ZDNet> is reporting</a> that MySQL are to add SubSecond fail over to their SQL Server with in a month.

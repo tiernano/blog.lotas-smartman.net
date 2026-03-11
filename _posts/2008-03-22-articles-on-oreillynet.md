@@ -13,7 +13,7 @@ categories:
 
 [Introducing LAMP Tuning Techniques][2] by Adam Pedersen &#8212; Having a successful web site can be a mixed blessing. It&#8217;s nice to reach more people, but it&#8217;s painful to run up against hardware limits. Fortunately, LAMP sites have several tuning options, from tweaking parameters to replacing components. Adam Pedersen explains.
 
-[**An Introduction to FOAF**][3]&nbsp; Friend-of-a-friend, FOAF, is an RDF vocabulary for machine-readable homepages. It enables the expression of decentralized social networks akin to the centralized ones seen in Friendster and Orkut. Leigh Dodds provides an introduction to FOAF and its use. &nbsp; [[XML.com]][4] 
+[**An Introduction to FOAF**][3]&nbsp; Friend-of-a-friend, FOAF, is an RDF vocabulary for machine-readable homepages. It enables the expression of decentralized social networks akin to the centralized ones seen in Friendster and Orkut. Leigh Dodds provides an introduction to FOAF and its use. &nbsp; [[XML.com]][4]
 
 [**Using JUnit With Eclipse IDE**][5]&nbsp; Test-driven development principles call for writing the tests before writing any code. Alexander and Olexiy Prohorenko demonstrate how this approach can be used with the JUnit testing tool and the Eclipse IDE. &nbsp; [[ONJava.com]][6]
 

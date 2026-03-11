@@ -20,7 +20,7 @@ Windows, and its now 20 years old too. Apple also showed the 1984 ad. Its the se
 
 Interesting new features in Excel and Word. and also Entourage. Technology Garintee. If you buy office X, you get a free upgrade to
 
- Office</p> 
+ Office</p>
 
 2004</a>, which is available in spring.&nbsp;
 
@@ -42,7 +42,7 @@ XServe (1U) now with up to 8gb ram ECC (Customers wanted this) , 750Gb hdd space
 
 Mac osx now too. good with 1tb, better 1.75tgb, and best with 3.5tb.
 
-[**iTunes**][3]. 30million songs! and the stream just died. DAMN! Feck! my net connection just died. CRAP! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" /> now i have to wait for it to wake back up again. this could be a few minutes. sorry fokes. right. its now still down, 2 min after and im probably missing
+[**iTunes**][3]. 30million songs! and the stream just died. DAMN! Feck! my net connection just died. CRAP! :( now i have to wait for it to wake back up again. this could be a few minutes. sorry fokes. right. its now still down, 2 min after and im probably missing
 
 iPods or something important. hope this will be re shown later, not so live. it does this sometimes. it just dies for a few minutes, and then pops back online. no reason. and we are back!
 
@@ -64,9 +64,9 @@ photo sharing. demo. this looks nice. raitings built in too. and on the fly. bet
 
 [**iMovie**][7]. import video from isight. trim clip right in place. audio scrubbing. new titles. star wars title too. easer sharing of video clips.
 
-**[iDVD][8]**** 4** updates. 20 new holywood themes, enhances menus, enhanced slide shows, dvd navigation, pro quality encoding. burn DVD on a different
+**[iDVD][8]****4** updates. 20 new holywood themes, enhances menus, enhanced slide shows, dvd navigation, pro quality encoding. burn DVD on a different
 
-Mac too. looks pretty cool. now all i need is a fast enough Mac and a DVD burner for it, ohh and the camera! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> 2 hours on a DVD.
+Mac too. looks pretty cool. now all i need is a fast enough Mac and a DVD burner for it, ohh and the camera! :P 2 hours on a DVD.
 
 **new app!** [GarageBand][9].
 
@@ -76,7 +76,7 @@ pre-recorded loops. live recording and stuff. all in one app. Hmmm. demo is nice
 
 haha **[nope! not free, $49 for iLife]**. ohhh. amp sounds. i dont know anything about gituars, but this sounds really cool. just checked software updates, and nothings there yet, other then an
 
-iPod update, but i dont have an iPod, and something else **[update for the</p> 
+iPod update, but i dont have an iPod, and something else **[update for the</p>
 
 AirPort]</b>. ohhh. export to iTunes. sweet. now thats cool. there are 50 software instruments and all you need is a midi keyboard or usb keyboard. cool.
 
@@ -84,9 +84,9 @@ working out how much would cost on windows.it would cost $306 on windows. well, 
 
 Mac for $49 in a box. Free with every new Mac too. in stores on jan 16th. companion products to
 
-iLife. lost of extras for the garage band and it will cost 99 and is called the  jam</p> 
+iLife. lost of extras for the garage band and it will cost 99 and is called the  jam</p>
 
-pack</a>. and theres a  49key usb</p> 
+pack</a>. and theres a  49key usb</p>
 
 keyboard</a> for $99.
 
@@ -106,25 +106,25 @@ Febuary ship in US, World wide by April
 
 [update] Lots of stuff around the web about this. here are some links
 
-A</p> 
+A</p>
 
 View From Home
 
-</a>Matters</p> 
+</a>Matters</p>
 
 to e.</a>
 
-Tonys</p> 
+Tonys</p>
 
 Book Spot</a>
 
-Ian</p> 
+Ian</p>
 
 CHEONG&#8217;s Weblog</a>
 
 [About portables][12]
 
-and</p> 
+and</p>
 
 more here on Feedster</a>
 

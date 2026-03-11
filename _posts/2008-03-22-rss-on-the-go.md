@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://channels.lockergnome.com/windows/backissues/20040309.phtml#20040309_7\">Found this post</a> on LockerGnomes Windows Fanatics RSS feed. Its about reading RSS on the go and tools for the Pocket PC, Palm and smart phones. very cool. have to try this out!
+<a href=\"<http://channels.lockergnome.com/windows/backissues/20040309.phtml#20040309_7\">Found> this post</a> on LockerGnomes Windows Fanatics RSS feed. Its about reading RSS on the go and tools for the Pocket PC, Palm and smart phones. very cool. have to try this out!

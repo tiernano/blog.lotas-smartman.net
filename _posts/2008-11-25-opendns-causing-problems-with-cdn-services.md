@@ -17,7 +17,7 @@ It seems that the way CDNs figure out the best place to send you is based around
 
 ![][4]
 
-Same happens with SimpleCDN… as you can see, round trip times go from between 28 and 47ms all the way up to 184… that&#8217;s not good… now thinking about not using OpenDNS anymore because of this… <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" />
+Same happens with SimpleCDN… as you can see, round trip times go from between 28 and 47ms all the way up to 184… that&#8217;s not good… now thinking about not using OpenDNS anymore because of this… :(
 
  [1]: http://www.opendns.com
  [2]: http://www.simplecdn.com

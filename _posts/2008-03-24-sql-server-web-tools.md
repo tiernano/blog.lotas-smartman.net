@@ -12,7 +12,7 @@ categories:
 ---
 Check out [SQL Server WebTools][1]. Quote from the site:
 
-*SQL Server Web Tools is a Web-based Administration tool to manage SQL Server databases. With SSWT, you can administer accounts, manage databases and tables, write and run queries and Stored Procedures, and much more. *
+*SQL Server Web Tools is a Web-based Administration tool to manage SQL Server databases. With SSWT, you can administer accounts, manage databases and tables, write and run queries and Stored Procedures, and much more.*
 
 Very handy! [[Via Dan Fay][2]]
 

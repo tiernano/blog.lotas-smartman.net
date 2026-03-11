@@ -10,8 +10,8 @@ categories:
   <tr>
     <td background="//images.slashdot.org/apslc.gif" valign="top" bgcolor="#ffffff">
       <p>
-        <img src="http://blog.lotas-smartman.net/wp-content/uploads/2008/03/filler.gif" width="17" height="2" alt align="top" /></td> 
-        
+        <img src="http://blog.lotas-smartman.net/wp-content/uploads/2008/03/filler.gif" width="17" height="2" alt align="top" /></td>
+
         <td background="//images.slashdot.org/slashbar.gif" bgcolor="#006666" width="99%">
           <p>
             <font face="arial,helvetica" size="4" color="#ffffff"><b>Apple</p> 
@@ -91,5 +91,5 @@ categories:
                             </p>
                             
                             <p>
-                              to 30Gb of space, its a real nice choice! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+                              to 30Gb of space, its a real nice choice! :P
                             </p>

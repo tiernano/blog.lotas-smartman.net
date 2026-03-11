@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Vista 5472 is now live if your a [connect.microsoft.com][1] users. Download both x86 and x64 editions now! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> [[via Bink.nu][2]]
+Vista 5472 is now live if your a [connect.microsoft.com][1] users. Download both x86 and x64 editions now! :) [[via Bink.nu][2]]
 
 bk_keywords: Vista, windows
 

@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I mentioned about [Blogshares][1] [Eirler on][2] but i have just found out that a lot of people have already bought me! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> [here is the page][3] where my shares are! Still not worth anything! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" />
+I mentioned about [Blogshares][1] [Eirler on][2] but i have just found out that a lot of people have already bought me! :P [here is the page][3] where my shares are! Still not worth anything! :(
 
  [1]: http://www.blogshares.com
  [2]: http://www.lotas-smartman.net/blog/archives/000074.html

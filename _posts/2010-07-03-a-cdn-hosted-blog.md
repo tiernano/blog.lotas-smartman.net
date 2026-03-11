@@ -15,7 +15,7 @@ tags:
   - cdn
   - wordpress
 ---
-So, with the event of [Amazon&#8217;s Cloud Front][1] and [RackSpace][2][ Cloud&#8217;s Cloud Files][2] (with the backing of [Limelight Networks][3]) the world and its mother can now use cheap and cherfull CDNs for hosting images, CSS and JS files for their blogs. but what about the rest of the blog?
+So, with the event of [Amazon&#8217;s Cloud Front][1] and [RackSpace][2][Cloud&#8217;s Cloud Files][2] (with the backing of [Limelight Networks][3]) the world and its mother can now use cheap and cherfull CDNs for hosting images, CSS and JS files for their blogs. but what about the rest of the blog?
 
 In theory, a blog is 99% static. With the help of the likes of [Disqus][4], you dont even need to manage your own comments. so, other than updates to the core template (which is probably not very often) and new blog posts (which for me is currently not very often), the rest of the site is very static. So, why cant that be hosted in a CDN? I am using a plugin on my WordPress install called [W3 Total Cache][5], and one of the options is to generate the HTML for a page, save it to disk, use a URL Rewrite to point to that HTML file for a certin amount of time, and, in theory, take some load of the server&#8230; the first time the page is generated, it should run though the PHP CGI engine (this site runs on IIS7 now) and then be built into a HTML page and passed to IIS to serve. the second time, its just served from IIS from disk, as a standard HTML page&#8230; and this got me thinking&#8230;
 

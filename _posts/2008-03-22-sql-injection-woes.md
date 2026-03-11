@@ -19,7 +19,7 @@ categories:
         <p>
           <font size="3" face="Times New Roman"><span style='font-size:12.0pt'>So I forgot to blog about the SQL Injection problems that I have come across.&nbsp; This certain one used SQL Injection to get into an admin side of a shopping cart website and made some changes to the payment parts and set the money to go to him/her.</span></font>
         </p>
-        
+
         <p>
           <font size="3" face="Times New Roman"><span style='font-size:12.0pt'>The SQL Injection related to logging into a website with forms authentication with a Username and Password box.&nbsp; In Classic ASP you could see something like</span></font>
         </p>

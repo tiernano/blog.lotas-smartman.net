@@ -9,11 +9,11 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-So last night Mark Andrews (who doesn&#8217;t have a blog yet, but i am trying to solve that&#8230;) and myself presented to [INDA][1] on [SharePoint Portal Server 2003][2]. [Paschal has a post here about the SharePoint Talk last night][3]. Here are some of the resources I referred to, or didn&#8217;t (as the case may be).</p> 
+So last night Mark Andrews (who doesn&#8217;t have a blog yet, but i am trying to solve that&#8230;) and myself presented to [INDA][1] on [SharePoint Portal Server 2003][2]. [Paschal has a post here about the SharePoint Talk last night][3]. Here are some of the resources I referred to, or didn&#8217;t (as the case may be).</p>
 
 Links:
 
-Web Parts Template for Visual Studio 2003</p> 
+Web Parts Template for Visual Studio 2003</p>
 
 </a>
 
@@ -33,19 +33,19 @@ Web Parts Template for Visual Studio 2003</p>
 
 [Windows SharePoint Services Demo][11]
 
-[Windows SharePoint Portal Server 2003&nbsp;Demo][12]</p> 
+[Windows SharePoint Portal Server 2003&nbsp;Demo][12]</p>
 
-For Further info about Microsoft in Ireland check out the <a title=http://www.microsoft.com/Ireland href="http://www.microsoft.com/Ireland">Microsoft Ireland Home Page</a>
+For Further info about Microsoft in Ireland check out the <a title=<http://www.microsoft.com/Ireland> href="<http://www.microsoft.com/Ireland">Microsoft> Ireland Home Page</a>
 
 Command to add a new web part to SharePoint:
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>**stsadm &#8211;o addwppack &#8211;filename *****<cabfilename> **</p> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>**stsadm &#8211;o addwppack &#8211;filename *****<cabfilename>**</p>
 
-</i></p> 
+</i></p>
 
-This should be in your **%programfiles%\Common Files\Microsoft Shared\Web Server Extensions\60\bin **directory. I have added it to my path to make life easer in the demo.
+This should be in your **%programfiles%\Common Files\Microsoft Shared\Web Server Extensions\60\bin**directory. I have added it to my path to make life easer in the demo.
 
-&nbsp;</p> 
+&nbsp;</p>
 
 If you have any further questions email either me (<Tiernan.OToole@Microsoft.com>) or Mark Andrews (<Mark.Andrews@Microsoft.com>).
 

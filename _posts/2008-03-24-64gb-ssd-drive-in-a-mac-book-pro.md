@@ -10,7 +10,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-the guys and gals over at SlashGear have just placed a [64Gb SSD drive into a Mac Book Pro][1], with photos and videos. the drive is rated at 57mb/s read, 32mb/s write and has less then a 1ms access time. those speeds are more than 2x the rate of a standard drive, which means a very nice boost in performance for your laptop. 
+the guys and gals over at SlashGear have just placed a [64Gb SSD drive into a Mac Book Pro][1], with photos and videos. the drive is rated at 57mb/s read, 32mb/s write and has less then a 1ms access time. those speeds are more than 2x the rate of a standard drive, which means a very nice boost in performance for your laptop.
 
 This is very cool to see this happen. I just want to see the day when i can buy 500Gb+ SATAII drives for my main workstation and servers&#8230;
 

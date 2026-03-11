@@ -10,7 +10,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-Right, so a few links before I disappear for the St Patrick&#8217;s Day Festivities&#8230; 
+Right, so a few links before I disappear for the St Patrick&#8217;s Day Festivities&#8230;
 
 First, Joe on .NET has a post with [65 links to make you an expert in Windows Communications Foundation][1]. I am OOF this week, so I will try and learn something, and WCF is one of the things I want to learn.
 

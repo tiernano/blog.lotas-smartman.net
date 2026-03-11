@@ -8,7 +8,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-Ok. So a few days ago, my site was hit with a major amount of blog spam. Now I used to be able to just delete all spam coming from a single IP address, but now because my site is going though an ISA server, everything comes from the same IP address. So if I tried that, it would kill real comments too. So, the only way to distinguish the blog spam from real comments is via the comment author URL. So, after some hacking I have this piece of code for you: 
+Ok. So a few days ago, my site was hit with a major amount of blog spam. Now I used to be able to just delete all spam coming from a single IP address, but now because my site is going though an ISA server, everything comes from the same IP address. So if I tried that, it would kill real comments too. So, the only way to distinguish the blog spam from real comments is via the comment author URL. So, after some hacking I have this piece of code for you:
 
 <p class="MsoNormal">
   <span lang="EN-IE">&nbsp;</span>

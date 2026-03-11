@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<span> 
+<span>
 
 <p>
   <span>Are you a soccer enthusiastic? Are you planning to follow the 2006 World Cup matches? </span>
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p>
-  </span> 
+  </span>
   
   <ul>
     <li>
@@ -27,7 +27,7 @@ categories:
         <a href="http://office.microsoft.com/en-gb/templates/TC101450531033.aspx" title="http://office.microsoft.com/en-gb/templates/TC101450531033.aspx" target="_blank"><span>2006 World Cup tracker (Excel)</span></a>
       </div>
     </li>
-    
+
     <li>
       <div>
         <a href="http://office.microsoft.com/en-gb/templates/TC101472361033.aspx" title="http://office.microsoft.com/en-gb/templates/TC101472361033.aspx" target="_blank"><span>2006 World Cup Game Pool (Excel)</span></a>

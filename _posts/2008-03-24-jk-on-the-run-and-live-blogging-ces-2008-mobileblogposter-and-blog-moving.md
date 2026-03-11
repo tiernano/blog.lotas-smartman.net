@@ -10,7 +10,7 @@ categories:
 ---
 James Kendrick over at JKOnTheRun has a post explaining [how he was doing Live Blogging at CES 2008][1] over the last week or so. its very cool that he can walk in somewhere, take a photo and have it live on line, in seconds! the quickest I can do it is about a minute, and that&#8217;s only if I am lucky&#8230;
 
-Anyway, since we are on the topic of Mobile Blogging, I might as well do an update in relation to the [MobileBlogPoster][2] software I started a few months back. Due to some issues, the code went missing. Don&#8217;t ask where, cause I don&#8217;t know. 
+Anyway, since we are on the topic of Mobile Blogging, I might as well do an update in relation to the [MobileBlogPoster][2] software I started a few months back. Due to some issues, the code went missing. Don&#8217;t ask where, cause I don&#8217;t know.
 
 I am currently working on getting the code back (thankfully it was compiled in Debug mode, and hopefully I can get the intent back with the help of reflector&#8230;.) and the project will hopefully start again. We will see&#8230;
 

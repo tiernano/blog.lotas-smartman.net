@@ -10,4 +10,4 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-Wahoo! got my box working again. still getting little things working again, but its up. wahoo! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+Wahoo! got my box working again. still getting little things working again, but its up. wahoo! :P

@@ -11,8 +11,8 @@ categories:
 <table cellSpacing="0" cellPadding="0" width="100%" bgColor="#cccccc" border="0" id="table1">
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
-      &nbsp;<a class="black" href="http://news.netcraft.com/"><b>Feed:</p> 
-      
+      &nbsp;<a class="black" href="http://news.netcraft.com/"><b>Feed:</p>
+
       <p>
         </b>Netcraft</a>
       </p>
@@ -50,7 +50,7 @@ categories:
               </table>
               
               <p>
-                As you can probably see, i got this from their news feed! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> just proving it
+                As you can probably see, i got this from their news feed! :P just proving it
               </p>
               
               <p>

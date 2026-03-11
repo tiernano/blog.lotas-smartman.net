@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[McAfee][1] are giving their spam software away for free today. Happy Independance Day. I think thats why their giving it away. good idea. independance from spam! hehe! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> I just got it, but dont know how many there is available for free.
+[McAfee][1] are giving their spam software away for free today. Happy Independance Day. I think thats why their giving it away. good idea. independance from spam! hehe! :P I just got it, but dont know how many there is available for free.
 
  [1]: http://www.mcafee.com

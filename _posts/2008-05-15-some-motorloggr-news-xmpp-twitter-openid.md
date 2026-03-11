@@ -15,7 +15,7 @@ First off, [Twitter][2]. I have been using Twitter for ages, and I see that the 
 
 That&#8217;s where XMPP comes in! I have been playing with AG Software&#8217;s [agsmpp-SDK][5]. with literally just a couple of lines of code, you can build an app that talks directly to XMPP. What&#8217;s [XMPP][6]? Its the protocol that [GTalk][7], [Jabber][8], etc, talk. pretty cool stuff&#8230; will be looking at a bot that you can chat to and add data. I may also look into using [Windows Live Agents for Windows Live Messenger][9]&#8230;
 
-Finally, [OpenID][10]. This is something I have been very interested in for a while now. There is a [Membership provider based on OpenID][11], which I would like to play around with&#8230; Lets see what I can actually implement&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Finally, [OpenID][10]. This is something I have been very interested in for a while now. There is a [Membership provider based on OpenID][11], which I would like to play around with&#8230; Lets see what I can actually implement&#8230; :)
 
  [1]: http://www.motorloggr.com
  [2]: http://www.twitter.com

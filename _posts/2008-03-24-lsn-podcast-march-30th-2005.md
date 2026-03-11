@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-LSN PodCast for March 30th 2005 available to download from [here][1]. enjoy! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+LSN PodCast for March 30th 2005 available to download from [here][1]. enjoy! :)
 
  [1]: http://libsyn.com/media/lotas/lsnpodcast-20050330-1.mp3

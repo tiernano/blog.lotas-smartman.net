@@ -10,9 +10,9 @@ categories:
 ---
 Randy Patterson has a post on his blog, entitled the [power of Predicate<T>][1]. this is something I was looking for a while back, and ended up building my own tools for the job.
 
-The problem was I had a list of objects, and I was looking for a particular object in that list to update. Well, the way I ended up doing this was something like &#8220;for each object in list, if object = the one I want, update, else, next&#8221; (very bad Pseudo code there). that&#8217;s grand for maybe one or 2 objects in a list, but if your talking hundreds or thousands, then performance issues occur. 
+The problem was I had a list of objects, and I was looking for a particular object in that list to update. Well, the way I ended up doing this was something like &#8220;for each object in list, if object = the one I want, update, else, next&#8221; (very bad Pseudo code there). that&#8217;s grand for maybe one or 2 objects in a list, but if your talking hundreds or thousands, then performance issues occur.
 
-Hopefully this helps someone out there. I know it will help me in my daily life! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Hopefully this helps someone out there. I know it will help me in my daily life! :)
 
 [[kick it][2]]
 

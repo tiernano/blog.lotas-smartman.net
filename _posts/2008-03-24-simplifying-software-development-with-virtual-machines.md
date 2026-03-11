@@ -10,6 +10,6 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-[Simplifying Software Development with Virtual Machines][1], very interesting article. it can help reduice the amount of hardware required for testing, etc, but then you have less hardware to play with <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[Simplifying Software Development with Virtual Machines][1], very interesting article. it can help reduice the amount of hardware required for testing, etc, but then you have less hardware to play with :)
 
  [1]: http://www.oreillynet.com/pub/a/network/2004/08/19/software_development_virtualization.html

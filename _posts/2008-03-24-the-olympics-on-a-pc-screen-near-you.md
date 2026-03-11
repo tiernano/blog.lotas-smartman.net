@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Neowin are reporting][1] that both MSNBC and BBC online will be showing the Olympics online. The BBC will be doing live coverage for broadband users. The olympics are on Aug. 13-29. wonder will the streams be viewable on a Pocket PC? <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[Neowin are reporting][1] that both MSNBC and BBC online will be showing the Olympics online. The BBC will be doing live coverage for broadband users. The olympics are on Aug. 13-29. wonder will the streams be viewable on a Pocket PC? :)
 
  [1]: http://www.neowin.net/comments.php?id=22138&category=main

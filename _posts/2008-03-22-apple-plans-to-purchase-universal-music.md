@@ -10,8 +10,8 @@ categories:
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
       <p>
-        <a style="color: #66c; text-decoration: none" href="http://slashdot.org/"></p> 
-        
+        <a style="color: #66c; text-decoration: none" href="http://slashdot.org/"></p>
+
         <p>
           <img alt="Slashdot" src="http://blog.lotas-smartman.net/wp-content/uploads/2008/03/topicslashdot.gif" align="left" border="0" /></a>
         </p>

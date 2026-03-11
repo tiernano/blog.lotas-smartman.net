@@ -12,17 +12,17 @@ its been a while since I did a proper gadget bag upgrade, and because it has bee
 
 **Every Day Stuff**
 
-**(Current) main phone: Nokia 6234. **basic cheap phone for making calls with. got this working with iSync on OSX, and it allows me to sync contacts, etc. Also, nice feature of being able to send SMS messages from Contacts in OSX. Reason for this being marked as current main phone will be explained next Saturday, hopefully. 
+**(Current) main phone: Nokia 6234.**basic cheap phone for making calls with. got this working with iSync on OSX, and it allows me to sync contacts, etc. Also, nice feature of being able to send SMS messages from Contacts in OSX. Reason for this being marked as current main phone will be explained next Saturday, hopefully.
 
-**Main Data Device: iMate JasJar**** and ****Secondary Data Device: Huawei E220 HSDPA modem. **The data SIM I have at the moment offers me 5Gb of data per month. I am not paying very much for this (15 for the first 3 months, 30 after that) and this has its advantages. the SIM will stay in the JasJar for 90% of the time, and allow me to use it for all my main email, and also as [a WiFi router][1] for some devices, but when faster Internet is needed, I will pop it into the modem and plug it into my laptop (more on that in a min). 
+**Main Data Device: iMate JasJar****and ****Secondary Data Device: Huawei E220 HSDPA modem.**The data SIM I have at the moment offers me 5Gb of data per month. I am not paying very much for this (15 for the first 3 months, 30 after that) and this has its advantages. the SIM will stay in the JasJar for 90% of the time, and allow me to use it for all my main email, and also as [a WiFi router][1] for some devices, but when faster Internet is needed, I will pop it into the modem and plug it into my laptop (more on that in a min).
 
 **Pocketable Camera: Kodak EasyShare V1253**. I bought this camera a couple of weeks back based on [this OSNews Review][2]. It was quite cheap at just under $220, and I also picked up a 4Gb SDHC memory card. great little camera, and little being the important word. I have a proper SLR camera (Canon 350D) but its big, and weighs a fair amount. plus, its not the kind of camera you want to be bringing to parties/drinking sessions/pubs, and since this is where all the mad images would be caught, its a shame to miss them. So, this was purchased.
 
-**Music: In Car: 60Gb Apple iPod video. Pocket: 16Gb iPod Touch. Video: 30Gb 1st Gen Zune.** My 60Gb iPod has been relegated to being left in the car. It stays in the car, plugged into power and the stereo, and just plays music while I am driving. the iPod Touch is carried around with me while shopping, travelling with out the car or when working. The Zune is currently being used for storing and watching Video on. 
+**Music: In Car: 60Gb Apple iPod video. Pocket: 16Gb iPod Touch. Video: 30Gb 1st Gen Zune.** My 60Gb iPod has been relegated to being left in the car. It stays in the car, plugged into power and the stereo, and just plays music while I am driving. the iPod Touch is carried around with me while shopping, travelling with out the car or when working. The Zune is currently being used for storing and watching Video on.
 
 **Not so every day stuff**&nbsp;
 
-**Laptop: Apple 15&#8243; PowerBook G4**: I still have the aging power book, and it still works. used for large amounts of email on the move, basic work with photos, etc. 
+**Laptop: Apple 15&#8243; PowerBook G4**: I still have the aging power book, and it still works. used for large amounts of email on the move, basic work with photos, etc.
 
 **travel WiFi: Apple Airport Express:** great little device. used to create WiFi networks in places that only have Cat5 network. also handy for streaming music around a hotel room if you have speakers.
 

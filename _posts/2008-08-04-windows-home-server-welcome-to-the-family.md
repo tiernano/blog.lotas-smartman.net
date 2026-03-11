@@ -10,7 +10,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-So, i finally got around to building a [Windows Home Server][1]. Last week some time, while looking for something in my room, i found 2 motherboard boxes. both of which where heavy. so, being a bit courious, i opened them and found 2 full motherboards with processors, heatsinks and one having memory. one had an AMD 64 processor, the other a Dual core Intel. So, i decided since there was a dual core system lying idle, i decided to built it into a Home Server. I havent decided what to do with the other one yet, but stay tuned&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+So, i finally got around to building a [Windows Home Server][1]. Last week some time, while looking for something in my room, i found 2 motherboard boxes. both of which where heavy. so, being a bit courious, i opened them and found 2 full motherboards with processors, heatsinks and one having memory. one had an AMD 64 processor, the other a Dual core Intel. So, i decided since there was a dual core system lying idle, i decided to built it into a Home Server. I havent decided what to do with the other one yet, but stay tuned&#8230; :)
 
 So, the machine i ended up building is definatly a frankinbox. it has a Dual core 1.6Gz Core 2 Duo processor (E2140), 512Mb RAM (of which, 8mb is used for the onboard graphics) and a total of 4 internal hard drives, soon to be 6. it will also get 2 external hard drives, one of which is currently connected, the other i am currently backing up the contents of.
 

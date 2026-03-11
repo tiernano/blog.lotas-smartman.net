@@ -16,7 +16,7 @@ The Atom Life:
 
 The BT-338 GPS unit:
 
-&nbsp;![][4] 
+&nbsp;![][4]
 
 The plan for these is simple. the Atom Life will be my Data Device. It will have my HSDPA/G3 SIM from my Vodafone Broadband package, and will be used for email and Internet on the go. It will either Tether to my Laptops via Bluetooth, or Wifi (with the help of [WMWifiRouter][5], which is now not free&#8230;).
 

@@ -8,19 +8,19 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-![][1] 
+![][1]
 
-Sweet! There where rumors going around that [Nokia][2] where about to drop a new Internet Tablet. these rumors where backed up by some US retailers dropping the price of the original [N800][3]. 
+Sweet! There where rumors going around that [Nokia][2] where about to drop a new Internet Tablet. these rumors where backed up by some US retailers dropping the price of the original [N800][3].
 
-I have been waiting for a while to pull the trigger on this one, and have had the cash burning a hole in by back pocket, but the reason i haven&#8217;t bought yet is 3 fold: 
+I have been waiting for a while to pull the trigger on this one, and have had the cash burning a hole in by back pocket, but the reason i haven&#8217;t bought yet is 3 fold:
 
-  * [Expansys][4]&nbsp;is currently out of stock, and will have them back on October 31.
-  * With the price drop in the US, i was waiting for it to come here&#8230;
-  * where the rumors true?
+* [Expansys][4]&nbsp;is currently out of stock, and will have them back on October 31.
+* With the price drop in the US, i was waiting for it to come here&#8230;
+* where the rumors true?
 
 Well, now we know the rumors are true, and man, the specs are sweet:
 
-built in GPS, 2Gb storage (onboard, without the extra memory card slots), 802.11B and G and the screen is 20% brighter. I think i found my new birthday present to my self! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> This drops in November, which is right in time! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+built in GPS, 2Gb storage (onboard, without the extra memory card slots), 802.11B and G and the screen is 20% brighter. I think i found my new birthday present to my self! :) This drops in November, which is right in time! :)
 
 [Article on Engadget with specs and info][5]&nbsp;and [Hands on photos][6].
 

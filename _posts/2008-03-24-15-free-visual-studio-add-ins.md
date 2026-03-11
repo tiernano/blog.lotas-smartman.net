@@ -10,7 +10,7 @@ categories:
 ---
 Check out this post by Carl J with links to [15 free Visual Studio add ins][1]. Some of the ones I am interested in, and have just installed:
 
-[Code Style Enforcer][2]: very cool! make your code more friendly! 
+[Code Style Enforcer][2]: very cool! make your code more friendly!
 
 [GhostDoc][3]: auto generation of XML Documentation.
 

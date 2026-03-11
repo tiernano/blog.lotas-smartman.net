@@ -6,17 +6,17 @@ permalink: /apple-replaces-homepage-with-message-to-tsunami-victims/
 categories:
   - Uncategorized
 ---
-[apple.com has been replaced with a message to Tsunami victims][1]. I seriously dont know what to say. They also have the following links, which i might as well post just to help. 
+[apple.com has been replaced with a message to Tsunami victims][1]. I seriously dont know what to say. They also have the following links, which i might as well post just to help.
 
 Help survivors and their families by making monetary donations to these organizations:
 
-  * American Red Cross [International Response Fund][2] 
-      * AmeriCares [South Asia Earthquake Relief Fund][3] 
-          * Direct Relief International [International Assistance Fund][4] 
-              * MÃ©decins Sans FrontiÃ¨res International [Tsunami Emergency Appeal][5] 
-                  * Oxfam [Asian Earthquake & Tsunami Fund][6] 
-                      * Sarvodaya [Relief Fund for Tsunami Tragedy][7] 
-                          * UNICEF [South Asia Tsunami Relief Efforts][8]
+* American Red Cross [International Response Fund][2]
+  * AmeriCares [South Asia Earthquake Relief Fund][3]
+    * Direct Relief International [International Assistance Fund][4]
+      * MÃ©decins Sans FrontiÃ¨res International [Tsunami Emergency Appeal][5]
+        * Oxfam [Asian Earthquake & Tsunami Fund][6]
+          * Sarvodaya [Relief Fund for Tsunami Tragedy][7]
+            * UNICEF [South Asia Tsunami Relief Efforts][8]
 
  [1]: http://www.apple.com
  [2]: https://www.redcross.org/donate/donation-form.asp

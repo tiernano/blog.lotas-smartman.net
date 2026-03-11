@@ -6,7 +6,7 @@ permalink: /using-webdav-with-iis/
 categories:
   - Uncategorized
 ---
-<div class=Section1> 
+<div class=Section1>
 
 <font face="Times New Roman" size=3><span style="FONT-SIZE: 12pt">Hmmm. Isn&#8217;t the .Mac iDisk thing based on WebDAV? If so, I could cheat a lot because my .Mac account expires tomorrow and I&#8217;m not going to renew it because, well other then the online drive space, its not really useful to me. Now don&#8217;t get me wrong. It is useful to others, just not me. Speaking of which, there is an interesting <a title=http://www.drijf.net/dototto/index.html href="http://www.drijf.net/dototto/index.html"><font color=#0000ff>article here on how to create a fake .Mac web server</font></a> so you can have your own iDisk and use backup too. But, back to the article linked to below. <a title=http://www.windowsnetworking.com/articles_tutorials/WebDAV-IIS.html href="http://www.windowsnetworking.com/articles_tutorials/WebDAV-IIS.html">Using WebDAV with IIS</a>. I have to read this, especially if I want my own potentially unlimited (well not really) iDisk!<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></span></font>
 

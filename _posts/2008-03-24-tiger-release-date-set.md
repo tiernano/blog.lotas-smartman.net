@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Looks like Tiger will be released on April 29th. Apples webiste [has changed big time][1] with the announcement. More info [on the OSX homepage][2]. I want this for my powerbook, now! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Looks like Tiger will be released on April 29th. Apples webiste [has changed big time][1] with the announcement. More info [on the OSX homepage][2]. I want this for my powerbook, now! :)
 
  [1]: http://www.apple.com/
  [2]: http://www.apple.com/macosx/

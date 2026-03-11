@@ -22,7 +22,7 @@ You upload the show to your [iDisk][5] and tell the world with your [iBlog][6] (
 
 You make some money thru [BitPass][7] micropayments, but because your shows a real hit, you decide to milk it for all its worth (hey, all the big boys are doing it) and put out a Complete Series DVD with [iDVD][8].
 
-This isn&rsquo;t some crazy far-off future world in some Cory Doctorow novel where the rebel forces of goodness and light topple the media empires. This is today. It&rsquo;s [Homestar Runner][9], it&rsquo;s [Red vs. Blue][10], it&rsquo;s weblogs, it&rsquo;s peer-to-peer. It&rsquo;s a fundamentally new world where people may money off their creativity not by encrypting it as many times as they can but by giving as much away as possible. 
+This isn&rsquo;t some crazy far-off future world in some Cory Doctorow novel where the rebel forces of goodness and light topple the media empires. This is today. It&rsquo;s [Homestar Runner][9], it&rsquo;s [Red vs. Blue][10], it&rsquo;s weblogs, it&rsquo;s peer-to-peer. It&rsquo;s a fundamentally new world where people may money off their creativity not by encrypting it as many times as they can but by giving as much away as possible.
 
 People keep telling me copyright law is needed because people are naturally stupid and evil, and they won&rsquo;t pay for things unless you make them, and no one will make anything unless they get paid. Sure looks like they were wrong.
 

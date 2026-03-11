@@ -14,7 +14,7 @@ Complain about recording this for the 7th time tonight!
 
 [.text 0.96 source][3] <p align=left>
 
-[FeedBurner][4]</p> 
+[FeedBurner][4]</p>
 
 [RapidBox Skype Adapter][5]
 

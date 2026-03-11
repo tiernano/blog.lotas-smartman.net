@@ -13,7 +13,7 @@ A few days ago, i got an email from Elara telling me they had some HP Proliant s
 
 [<img border="0" alt="21082008068" width="240" height="180" src="http://farm4.static.flickr.com/3246/2784417655_9214f9f06e_m.jpg" />][3]
 
-I was trying to get it to boot off the internal network, but building Windows Install Images using WAIK got me confused, so i just burned the DVD and installed it normally. So far, i have also upgraded the HDD (got a 500Gb for it, bring it to 750gb total) and i also ordered 4Gb more memory, to bring it to 5. it should be a nice Hyper-V host once the memory arrives&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+I was trying to get it to boot off the internal network, but building Windows Install Images using WAIK got me confused, so i just burned the DVD and installed it normally. So far, i have also upgraded the HDD (got a 500Gb for it, bring it to 750gb total) and i also ordered 4Gb more memory, to bring it to 5. it should be a nice Hyper-V host once the memory arrives&#8230; :)
 
  [1]: http://www.elara.ie/products/detailsfull.asp?productcode=ECE1466838
  [2]: http://www.elara.ie/products/detailsfull.asp?productcode=ECE1574355

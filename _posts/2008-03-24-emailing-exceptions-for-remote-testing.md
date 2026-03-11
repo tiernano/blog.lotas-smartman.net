@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Ok. Something I want in some of my applications, mainly web apps, is the ability for me to get an email when an unhandled exception is found, or any exception is found. So, here is some code I just hacked up as a test to show you how it works. Firstly, the actual exception handling code. The reason I made this into a function is because it will be called a lot in the web application, so a function will make life easer for me. 
+Ok. Something I want in some of my applications, mainly web apps, is the ability for me to get an email when an unhandled exception is found, or any exception is found. So, here is some code I just hacked up as a test to show you how it works. Firstly, the actual exception handling code. The reason I made this into a function is because it will be called a lot in the web application, so a function will make life easer for me.
 
 <p class="MsoNormal" style="text-autospace:none">
   <span style="font-size:10.0pt;<br />

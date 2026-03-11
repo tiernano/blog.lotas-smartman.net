@@ -10,7 +10,6 @@ categories:
 ---
 From [this article on ZDNet][1]  
 
-
 > SCO said Wednesday that it has filed subpoenas with the U.S. District Court in Utah, targeting six different individuals or organizations. Those include Novell; Linus Torvalds, creator of the Linux kernel; Richard Stallman of the Free Software Foundation; Stewart Cohen, chief executive of the Open Source Development Labs; and John Horsley, general counsel of Transmeta.</p>
 Hmmm. When will this finish? like, ibm may end up buying SCO for cheaper then it would be to bring them to court or settle. In older news, [IBM Subpoenas SCO Investors, Analysts][2], [SCO Will Pay You Not to Use Linux][3] and the most interesting one explaining money: [SCO&#8217;s Lawyers Analyzed][4]. Slashdot have a lot of SCO related stuff [here][5].
 

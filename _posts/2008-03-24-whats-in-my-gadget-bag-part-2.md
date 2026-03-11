@@ -40,6 +40,6 @@ Bluetooth GPS device (see above)
 Creative Zen 6Gb&nbsp;Micro (Main music MP3/WMA player. 6Gb of music from napster (legal) installed on this)  
 Apple 60 iPod 5th Gen (Podcasting device, some videos)
 
-So there you have it. im lucky i drive a car or i wouldent be able to carry all this stuff with me! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+So there you have it. im lucky i drive a car or i wouldent be able to carry all this stuff with me! :)
 
  [1]: http://blog.lotas-smartman.net/archive/2005/07/30/11944.aspx

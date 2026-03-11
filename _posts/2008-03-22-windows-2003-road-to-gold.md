@@ -10,9 +10,9 @@ categories:
 ---
 Here is the full Windows 2003 road to gold write up:
 
-  * [Part 1][1]
-  * [Part 2][2]
-  * [Part 3][3]
+* [Part 1][1]
+* [Part 2][2]
+* [Part 3][3]
 
 Interesting Read.
 

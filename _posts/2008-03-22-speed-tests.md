@@ -10,7 +10,7 @@ I mentioned before that i would get you benchmarks, and have i ever lied to you?
 
 <!--more-->
 
-Ok. here are the basic info for you. the old tests are [here][2] and [here][3] and the new ones are here.   
+Ok. here are the basic info for you. the old tests are [here][2] and [here][3] and the new ones are here.
 **CPU Arithmetic Benchmarks:**
 
 Dhrystone ALU: 14963 MIPS

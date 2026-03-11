@@ -10,7 +10,6 @@ categories:
 ---
 Looks like Microsoft are brining Media center to more countries, including Ireland, as stated in this [article from news.com.com][1].  
 
-
 > &#8220;Microsoft will sell versions of Media Center in Belgium, the Czech Republic, Denmark, Finland, India, Ireland, Mexico, New Zealand, Norway, Poland, Portugal, Russia, Singapore, Slovakia, South Africa, Spain, Sweden, Taiwan and Turkey. Those countries and Hong Kong will get the new operating system later in 2005.&#8221;</p>
 This is cool, as it will get my EPG on my media center working, hopefully&#8230;.
 

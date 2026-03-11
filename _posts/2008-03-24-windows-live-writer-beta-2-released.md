@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-You may have noticed my last post being &#8220;Posted in the future using Windows Live Writer&#8221; and wondered what that was about. Well, BETA 2 of Windows Live Writer was released a [few days back][1], and because today (Monday 4th June) is a bank holiday, I though I would write up my posts the night before (this one is being written at 3.50am) and post over the course of the day. 
+You may have noticed my last post being &#8220;Posted in the future using Windows Live Writer&#8221; and wondered what that was about. Well, BETA 2 of Windows Live Writer was released a [few days back][1], and because today (Monday 4th June) is a bank holiday, I though I would write up my posts the night before (this one is being written at 3.50am) and post over the course of the day.
 
 some nice features! (robbing these off the post above)
 
@@ -16,8 +16,8 @@ some nice features! (robbing these off the post above)
   <tr>
     <td>
       <p>
-        <strong>New Authoring Capabilities</strong> 
-        
+        <strong>New Authoring Capabilities</strong>
+
         <ul>
           <li>
             Inline spell checking <li>

@@ -8,7 +8,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-I posted about [waste][1] [here][2] and shortly after[ it was removed.][3] Well becasue the software was GPLed, it is now available [here][4] for free. so why not check it out. i would run a mirror of it, but lack of bandwidth is not helpfull. check it out.
+I posted about [waste][1] [here][2] and shortly after[it was removed.][3] Well becasue the software was GPLed, it is now available [here][4] for free. so why not check it out. i would run a mirror of it, but lack of bandwidth is not helpfull. check it out.
 
  [1]: http://www.nullsoft.com/free/waste/
  [2]: http://www.lotas-smartman.net/blog/archives/000331.php

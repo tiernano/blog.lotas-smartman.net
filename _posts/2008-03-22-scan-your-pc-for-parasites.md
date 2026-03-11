@@ -11,8 +11,8 @@ categories:
 <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#cccccc" border="0">
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
-      &nbsp;<a href="http://DotNetWebLogs.com"><b><font color="black">Feed: </b>Aggregated posts from .NET Weblogs</a><br />&nbsp;<a class="black" href="http://dotnetweblogs.com/jezell/posts/6533.aspx"><b><font color="black">Title: </b>Me Too!</a></font> </td> 
-      
+      &nbsp;<a href="http://DotNetWebLogs.com"><b><font color="black">Feed: </b>Aggregated posts from .NET Weblogs</a><br />&nbsp;<a class="black" href="http://dotnetweblogs.com/jezell/posts/6533.aspx"><b><font color="black">Title: </b>Me Too!</a></font> </td>
+
       <td align="right" style="font-family: Verdana,Sans-serif; font-size: 10pt">
         <b>Author: </b>Jesse Ezell <br />&nbsp;
       </td></tr> 

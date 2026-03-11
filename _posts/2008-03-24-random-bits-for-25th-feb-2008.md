@@ -11,7 +11,7 @@ categories:
 ---
 Three Ireland are to launch a Mobile Broadband package which requires no contract. In other words, [Prepaid Mobile Broadband][1]. 1 day, 500mb costs 5EUR, 1 week, 2Gb package cost 10EUR and a month 10Gb cost 25EUR. 49c per MB after that. interesting idea&#8230; Wonder if Bit Torrent is allowed? You could buy a couple of these, leave them seeding a podcast or video cast or something, and cheap (ish) fast (ish, 3.6mb/s down and 384k up) bandwidth&#8230; and its mobile!
 
-[CacheMan][2]: a fast distributed hash table for Windows! basically [Memcached][3] in .NET. Very cool stuff. 
+[CacheMan][2]: a fast distributed hash table for Windows! basically [Memcached][3] in .NET. Very cool stuff.
 
 [6 core Xeon&#8217;s on the way?][4] SWEET!
 

@@ -13,8 +13,8 @@ categories:
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
       <p>
-        <a style="color: #66c; text-decoration: none" href="http://www.wired.com/"></p> 
-        
+        <a style="color: #66c; text-decoration: none" href="http://www.wired.com/"></p>
+
         <p>
           <img alt="Wired News" src="http://static.wired.com/news/images/netcenterb.gif" align="left" border="0" /></a>
         </p>

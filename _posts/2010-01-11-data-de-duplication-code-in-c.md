@@ -13,14 +13,14 @@ categories:
 ---
 So, i have been looking at Data De-Duplication, and have built a little demo app in C# for this idea&#8230; [The code is on GitHub][1] and if you have better ideas around the code, please leave comments or update the block.
 
-**This code is not intended for Production use. it is purely experimental! **
+**This code is not intended for Production use. it is purely experimental!**
 
 One idea i would like to look into though is using a proper backing store for this data: MSSQL DB, Amazon S3, RackSpace Cloud Storage, Azure Blob Storage, etc. the theory would go as follows:
 
-  * user points de-dupe tool to a folder
-  * folder is processed &#8211; each file is broken into 512byte blocks (could be more or less, configurable in code) and check-summed (currently using SHA512, but been told its over kill!) an Index file is created for every &#8220;real&#8221; file on the system. they contain the block IDs in order for the given real file.
-  * after each block is check-summed, it is checked against the backing store. If the checksum exists in the backing store, the id is written to the index file. if not, a new block is added to the backing store and that ID is added to the index.
-  * When a user wants the file, the index file is checked, all the blocks are pulled from the correct locations, and built up for the user to work with. Any changes go though the same process. if the user only changes a couple of sections at the end of a file, only those couple of sections should be changed&#8230;
+* user points de-dupe tool to a folder
+* folder is processed &#8211; each file is broken into 512byte blocks (could be more or less, configurable in code) and check-summed (currently using SHA512, but been told its over kill!) an Index file is created for every &#8220;real&#8221; file on the system. they contain the block IDs in order for the given real file.
+* after each block is check-summed, it is checked against the backing store. If the checksum exists in the backing store, the id is written to the index file. if not, a new block is added to the backing store and that ID is added to the index.
+* When a user wants the file, the index file is checked, all the blocks are pulled from the correct locations, and built up for the user to work with. Any changes go though the same process. if the user only changes a couple of sections at the end of a file, only those couple of sections should be changed&#8230;
 
 You get some problems with changes, in that you dont really want to change all instances of that particular block, incase you break something else&#8230; you also need to have something cleaning blocks also, just to remove dead or orphaned blocks&#8230;
 

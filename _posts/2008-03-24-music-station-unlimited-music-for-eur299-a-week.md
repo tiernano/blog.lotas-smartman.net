@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Enn is [reporting][1] that a company, called [Omnifone][2], will be releasing a service, called music station, which will allow users to download and listen to music from a large catalog, for EUR2.99&nbsp;a week. This is cool! Ireland is listed as a country, but no info on what network, or when. Very cool idea. wonder if Windows Mobile phones are capable?</p> 
+Enn is [reporting][1] that a company, called [Omnifone][2], will be releasing a service, called music station, which will allow users to download and listen to music from a large catalog, for EUR2.99&nbsp;a week. This is cool! Ireland is listed as a country, but no info on what network, or when. Very cool idea. wonder if Windows Mobile phones are capable?</p>
 
 Tags: <a href="http://technorati.com/tag/Music,Mobilephones,Omnifone,MusicStation" rel="tag">Music, Mobile phones, Omnifone, MusicStation</a>
 

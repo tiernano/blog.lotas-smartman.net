@@ -14,7 +14,7 @@ I am looking into building a virtual cluster for testing. the main testing is fo
 
 [Clustering Windows 2003 R2][4]
 
-[Clustering SQL Server 2005][5]<div class=wlWriterSmartContent id=scid:0767317B-992E-4b12-91E0-4F059A8CECA8:fc75c717-584b-4585-86a9-0031eb4be579 style="PADDING-RIGHT:0px;DISPLAY:inline;PADDING-LEFT:0px;FLOAT:none;PADDING-BOTTOM:0px;MARGIN:0px;PADDING-TOP:0px;">Technorati Tags: <a href="http://technorati.com/tags/SQL%20Server" rel=tag>SQL Server</a>, <a href="http://technorati.com/tags/Clustering" rel=tag>Clustering</a>, <a href="http://technorati.com/tags/Windows%20Server" rel=tag>Windows Server</a></div> 
+[Clustering SQL Server 2005][5]<div class=wlWriterSmartContent id=scid:0767317B-992E-4b12-91E0-4F059A8CECA8:fc75c717-584b-4585-86a9-0031eb4be579 style="PADDING-RIGHT:0px;DISPLAY:inline;PADDING-LEFT:0px;FLOAT:none;PADDING-BOTTOM:0px;MARGIN:0px;PADDING-TOP:0px;">Technorati Tags: <a href="http://technorati.com/tags/SQL%20Server" rel=tag>SQL Server</a>, <a href="http://technorati.com/tags/Clustering" rel=tag>Clustering</a>, <a href="http://technorati.com/tags/Windows%20Server" rel=tag>Windows Server</a></div>
 
 &nbsp;
 

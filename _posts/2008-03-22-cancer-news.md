@@ -8,8 +8,8 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-  * [Sniffing out cancer][1] [[Slashdot][2]]
-  * [Butter helps against breat cancer][3] [[News.scotsman..com][4]]
+* [Sniffing out cancer][1] [[Slashdot][2]]
+* [Butter helps against breat cancer][3] [[News.scotsman..com][4]]
 
  [1]: http://slashdot.org/article.pl?sid=03/05/08/1638247
  [2]: http://www.slashdot.org

@@ -10,7 +10,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-Sorry for not talking about this yesterday, but i haven been busy with lots of stuff, and life just got in the way of blogging. Yesterday morning at 8.50, London was hit by 4 bombs. 3 on the Tube and 1 on a Bus. 37 people where killed, and many injured. my thoughs are with the families of thouse who where injured and killed. There are lots of links to difference places with news. 
+Sorry for not talking about this yesterday, but i haven been busy with lots of stuff, and life just got in the way of blogging. Yesterday morning at 8.50, London was hit by 4 bombs. 3 on the Tube and 1 on a Bus. 37 people where killed, and many injured. my thoughs are with the families of thouse who where injured and killed. There are lots of links to difference places with news.
 
 <a class=tsh href="http://news.bbc.co.uk/1/hi/uk/4662395.stm">Massive hunt for London bombers </a>
 
@@ -20,7 +20,7 @@ Sorry for not talking about this yesterday, but i haven been busy with lots of s
 
 <a class=bodl href="http://news.bbc.co.uk/1/shared/spl/hi/uk/05/london_blasts/html/default.stm">**<font color=#002c99>In detail: What happened</font>**</a>
 
-<font color=#002c99>[London blasts in pictures][1]</font> 
+<font color=#002c99>[London blasts in pictures][1]</font>
 
 <a id=r-5_1099848334 href="http://www.bloomberg.com/apps/news?pid=10000102&sid=aBWz6ydblBj4&refer=uk"><font color=#0000cc>**London** Subway System, Buses Resume Services After Bomb Attacks</font></a>
 

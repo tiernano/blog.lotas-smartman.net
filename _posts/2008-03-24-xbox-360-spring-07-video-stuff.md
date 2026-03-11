@@ -61,7 +61,7 @@ Xbox 360 supports the following for WMV:
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Audio Profiles: WMA7/8, WMA 9 Pro (stereo and 5.1), WMA lossless
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Audio Max Bitrate: No restrictions. See question number 6 for more information. 
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Audio Max Bitrate: No restrictions. See question number 6 for more information.
 
 &nbsp;
 

@@ -20,7 +20,7 @@ fsmgmt.msc: Shared Folders
 gpedit.msc: Group Policy  
 lusrmgr.msc: Local Users and groups  
 ntmsmgr.msc: Removable Storage  
-ntmsoprq.msc: Removable Storage Operator Requests   
+ntmsoprq.msc: Removable Storage Operator Requests
 perfmon.msc: Performance Monitor  
 secpol.msc: Security Settings  
 services.msc: services  

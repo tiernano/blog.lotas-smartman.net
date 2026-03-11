@@ -14,15 +14,15 @@ finally released a Boot ISO for [Redhat][1] 9 install over the internet. its
 
 3.6mb and has all the stuff you need to install
 
-</p> 
+</p>
 
 Redhat 9</a> on your machine. This makes things so much easer for me. I now
 
 don&#8217;t have to look for floppies when I need to install a copy of Linux
 
-somewhere. my mother wants it on her PC. I&#8217;m going to burn the ISO (Avaible</p> 
+somewhere. my mother wants it on her PC. I&#8217;m going to burn the ISO (Avaible</p>
 
-here</a>, but check the</p> 
+here</a>, but check the</p>
 
 mirrors</a>). I&#8217;m going to burn it to a CDRW now so i can format the disk after!
 

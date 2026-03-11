@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I installed [ Redhat 9.0][1] last night over the Internet. It was easer then expected.
+I installed [Redhat 9.0][1] last night over the Internet. It was easer then expected.
 
 Read more for details.
 
@@ -30,9 +30,9 @@ haven&#8217;t a clue exactly what it is! (Intel network card that came onboard w
 
 it&#8217;s pretty cool. No problems.&nbsp;
 
-Going to install [ VMWare][2] and Windows under it for development and testing, and also messing. Its installing the updates from the redhat network site and also
+Going to install [VMWare][2] and Windows under it for development and testing, and also messing. Its installing the updates from the redhat network site and also
 
-[ Ximian Desktop 2][3]. They should work by tonight.
+[Ximian Desktop 2][3]. They should work by tonight.
 
  [1]: http://www.redhat.com
  [2]: http://www.vmware.com

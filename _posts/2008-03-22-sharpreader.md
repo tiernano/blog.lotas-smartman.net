@@ -10,7 +10,7 @@ categories:
 ---
 This is the second time today, and about 3rd this week, i have changed news
 
-aggriator. </p> 
+aggriator. </p>
 
 SharpReader</a> is the new one im using, and it rocks! It looks cool, has OPML
 

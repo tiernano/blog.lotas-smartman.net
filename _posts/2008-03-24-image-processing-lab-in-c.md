@@ -8,8 +8,8 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-check out [this code project article with info on image processing in C#][1]. very cool stuff. extreamly handy. now if only it could read RAW images&#8230;   
-bk_keywords: photography, C# 
+check out [this code project article with info on image processing in C#][1]. very cool stuff. extreamly handy. now if only it could read RAW images&#8230;
+bk_keywords: photography, C#
 
 [<img src="http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://www.codeproject.com/cs/media/Image\_Processing\_Lab.asp" border=0>][2]
 

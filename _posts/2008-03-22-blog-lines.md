@@ -12,7 +12,7 @@ categories:
 ---
 Right, check out [BlogLines][1]. Its an online RSS aggregator. pretty sweet! so, if you want to subscribe to my blog using that site, click the image below!
 
-</p> 
+</p>
 
 <img src="http://www.bloglines.com/images/sub_modern1.gif" border="0" /></a>
 

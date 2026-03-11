@@ -15,7 +15,7 @@ Software Voices.com has a post about how to use [Amazon EC2 as a proxy sever for
 
 This is very cool. Could of things I have found out:
 
-  1. because of the encryption and over head, your max download speed will be reduced slightly. Normally, on my 6mb connection, I can download at about 725-750kbps.with this, its down to about 650-675&#8230; 
+  1. because of the encryption and over head, your max download speed will be reduced slightly. Normally, on my 6mb connection, I can download at about 725-750kbps.with this, its down to about 650-675&#8230;
   2. sites in Europe may load slower, but US files may load faster. this is because EC2 servers are hosted in the States. Since my connection is homed in Europe, my requests are going a lot further.
   3. interestingly. sites like [Pandora][2], which don&#8217;t work with my normal connection, do work with this. So, in theory, any site limited to US only connections should work.
 

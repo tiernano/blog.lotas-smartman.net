@@ -10,7 +10,7 @@ categories:
 ---
 **Production notes for the LSN PodCast number 6 on Friday 31 2004**
 
-[PodCast Link][1] and [bit torrent link][2]. 
+[PodCast Link][1] and [bit torrent link][2].
 
 **Last podcast for 2004**
 

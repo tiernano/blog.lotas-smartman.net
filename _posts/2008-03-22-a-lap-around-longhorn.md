@@ -10,7 +10,6 @@ categories:
 ---
 [This eppisode of the MSDN TV][1] is named a lap around longhorn.  
 
-
 > Chris Anderson and Don Box provide a code-centric high level walk through of the main pillars of Longhorn. </p>
 shows you programmer tools under windows codename longhorn. and they use [EMACS][2]! haha. MS show [EMacs][2].
 

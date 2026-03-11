@@ -14,27 +14,27 @@ Gordon&#8217;s go-kart, but it could help propel Steve Bennett towards a histori
 
 flight in space.
 
-Space fanatic unveils</p> 
+Space fanatic unveils</p>
 
 rocket he wants to fly into orbit</a> Ananova
 
-</p> 
+</p>
 
 X-Prize Competitor Unveils Manned Space Capsule</a> Space.com
 
 [MSNBC][1]&nbsp;&#8211;
 
-</p> 
+</p>
 
 Reuters</a>&nbsp;&#8211;
 
-</p> 
+</p>
 
 **and&nbsp;8&nbsp;related&nbsp;Â»**</a>
 
-</p> 
+</p>
 
-http://www.dailytelegraph.co.uk/news/main.jhtml?xml=/news/2003/04/04/nspace04.xml&sSheet=/news/2003/04/04/ixhome.html</a>
+<http://www.dailytelegraph.co.uk/news/main.jhtml?xml=/news/2003/04/04/nspace04.xml&sSheet=/news/2003/04/04/ixhome.html></a>
 
 Cool!
 

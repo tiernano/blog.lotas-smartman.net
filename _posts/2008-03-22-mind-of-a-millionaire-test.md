@@ -9,6 +9,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[this test on BBC][1] asks questions and tells you weather you have the potential to be a millionaire. i have! now all i need is the money <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[this test on BBC][1] asks questions and tells you weather you have the potential to be a millionaire. i have! now all i need is the money :P
 
  [1]: http://www.bbc.co.uk/science/humanbody/mind/surveys/millionaire1/

@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I just got hit by some weird virus/backdoor thingy. probably got it by email or something. never installed antivirus when i reinstalled my system but norton cant get rid of it yet. found nearly 800 files infected with some weird crap. <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" /> hopefully its gone now.
+I just got hit by some weird virus/backdoor thingy. probably got it by email or something. never installed antivirus when i reinstalled my system but norton cant get rid of it yet. found nearly 800 files infected with some weird crap. :( hopefully its gone now.

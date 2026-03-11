@@ -11,7 +11,7 @@ categories:
 ---
 &nbsp;
 
-[Link to Unicode Optical Character Recognition &#8211; The Code Project &#8211; C# Algorithms][1] 
+[Link to Unicode Optical Character Recognition &#8211; The Code Project &#8211; C# Algorithms][1]
 
 extreamly interesting article over at the Code Project about Neural Networks and OCR. Very cool, and complicated, stuff!
 

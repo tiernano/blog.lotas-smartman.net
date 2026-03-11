@@ -10,7 +10,7 @@ categories:
 ---
 I mentioned in
 
-this earlier</p> 
+this earlier</p>
 
 post</a> that I was downloading Redhat 9 for the 4th time this week. every time
 

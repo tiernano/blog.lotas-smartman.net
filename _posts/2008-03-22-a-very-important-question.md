@@ -12,4 +12,4 @@ I wrote this in my sisters jurnal. she is finishing her last year in school. Thi
 
 <!--more-->
 
-&#8220;If a tree falls in the forest and lands on the head of a squirrell who in turn spontainiasly combusts, runs around setting fire to other squirrells, who cares?&#8221; I though that up all my slef! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> The second one says: a person once said go nuts. i did.
+&#8220;If a tree falls in the forest and lands on the head of a squirrell who in turn spontainiasly combusts, runs around setting fire to other squirrells, who cares?&#8221; I though that up all my slef! :P The second one says: a person once said go nuts. i did.

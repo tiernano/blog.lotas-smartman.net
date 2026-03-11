@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Aethera][1] is a linux pim, PDR, messaging and groupware suite. the [screen shots][2] look prertty class</a>. cant wait to get linum on my machine to test this! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[Aethera][1] is a linux pim, PDR, messaging and groupware suite. the [screen shots][2] look prertty class</a>. cant wait to get linum on my machine to test this! :P
 
  [1]: http://www.thekompany.com/projects/aethera/
  [2]: http://www.thekompany.com/projects/aethera/screenshots.php3

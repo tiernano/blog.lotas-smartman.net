@@ -8,9 +8,9 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Right, this could be very handy for me to play with. Check out this post by Jon Galloway who talks about [passing lists to SQL Server 2005 with XML parameters][1]. Interesting read, and handy too! 
+Right, this could be very handy for me to play with. Check out this post by Jon Galloway who talks about [passing lists to SQL Server 2005 with XML parameters][1]. Interesting read, and handy too!
 
-XML: Is there anything it cant do? <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p> 
+XML: Is there anything it cant do? :)</p>
 
 **Technorati Tags:** <a href="http://technorati.com/tag/XML" rel="tag">XML</a> &#8211; <a href="http://technorati.com/tag/SQL%20Server" rel="tag">SQL Server</a> &#8211; <a href="http://technorati.com/tag/programming" rel="tag">programming</a>
 

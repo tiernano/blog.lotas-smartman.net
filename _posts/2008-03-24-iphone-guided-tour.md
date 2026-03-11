@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-![][1] 
+![][1]
 
 Apple has just posted a 20 min, or so, video of the [guided tour of the iPhone][2]. this is very interesting. I am starting to like the look of this. but the lack of a full SDK for proper programming of the iPhone (not this web/Ajax stuff) is a bit worrying. It will be a while before it comes to Europe, from what I can gather&#8230;
 

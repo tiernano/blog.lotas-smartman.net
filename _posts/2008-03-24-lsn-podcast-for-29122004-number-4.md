@@ -10,7 +10,7 @@ categories:
 ---
 **Production notes for the LSN PodCast number 4 on Wednesday 29 2004**
 
-[PodCast Link][1] and [bit torrent link][2]. 
+[PodCast Link][1] and [bit torrent link][2].
 
 **$500 Mac**
 

@@ -8,53 +8,53 @@ categories:
 ---
 Cisco Systems has 12 new RSS feeds.
 
-</p> 
+</p>
 
 Latest News Releases</a>,
 
-</p> 
+</p>
 
 Content Networking</a>,
 
-</p> 
+</p>
 
 Partner</a>,
 
-</p> 
+</p>
 
 Routing</a>,
 
-</p> 
+</p>
 
 Security</a>,
 
-</p> 
+</p>
 
 Software</a>,
 
-</p> 
+</p>
 
 Standards</a>,
 
-</p> 
+</p>
 
 Storage Networking</a>,
 
-</p> 
+</p>
 
 Switching</a>,
 
-</p> 
+</p>
 
 Voice</a>,
 
-</p> 
+</p>
 
 Wireless</a>,
 
-</p> 
+</p>
 
-Features</a>. Apple </p> 
+Features</a>. Apple </p>
 
 has</a> [four][1] new
 
@@ -64,29 +64,29 @@ has</a> [four][1] new
 
 Thanks to [Steven Garrity][4]
 
-for the pointer. 
+for the pointer.
 
-MSDN finally has official RSS feeds! 
+MSDN finally has official RSS feeds!
 
-Here are the URIs: 
+Here are the URIs:
 
-  * Recently published on all of 
-    
-    MSDN</a>![][5]</li> 
-    
-      * [Visual Basic .NET][6]![][5] 
-      * [Visual C# .NET][7]![][5] 
-      * [Visual C++ .NET][8]![][5] 
-      * [Visual Studio .NET][9]![][5] 
-      * [.NET Framework][10]![][5] 
-      * [XML Web Services][11]![][5] 
-        </p> 
-        
-        <img height="9" alt="permalink" src="http://www.gotdotnet.com/team/tewald/perm.gif" width="6" border="0" /></a></li> </ul> 
-        
+* Recently published on all of
+
+    MSDN</a>![][5]</li>
+
+  * [Visual Basic .NET][6]![][5]
+  * [Visual C# .NET][7]![][5]
+  * [Visual C++ .NET][8]![][5]
+  * [Visual Studio .NET][9]![][5]
+  * [.NET Framework][10]![][5]
+  * [XML Web Services][11]![][5]
+        </p>
+
+        <img height="9" alt="permalink" src="http://www.gotdotnet.com/team/tewald/perm.gif" width="6" border="0" /></a></li> </ul>
+
         So. 3 big companies now support RSS. Hmmmm. my content managment system is
-        
-        going to have to do RSS, WML, XHTML and a few other things too! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+
+        going to have to do RSS, WML, XHTML and a few other things too! :P
 
  [1]: http://www.apple.com/main/rss/hotnews/pr.rss
  [2]: http://www.apple.com/main/rss/downloads/downloads.rss

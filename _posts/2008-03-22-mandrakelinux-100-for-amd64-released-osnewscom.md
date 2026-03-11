@@ -10,7 +10,6 @@ categories:
 ---
 [Mandrakelinux 10.0 for AMD64 Released &#8211; OSNews.com][1]  
 
-
 > Mandrakelinux 10.0 for AMD64 delivers all the features and robustness of Mandrakelinux 10.0 Official to the 64-bit platform from AMD, with an average performance gain of 20% compared to the IA32 version.</p>
 Wonder is it available to download for free off the web. Still need an Athlon 64 or Opteron though.
 

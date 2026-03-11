@@ -13,7 +13,7 @@ I just found Flock. this is one very interesting web browser. there are more bui
 
 Still playing around with it, but there are some very nice features&#8230; I do like the web clip board feature, allowing you to take notes by dragging them into the side bar. they can then be used in your blog posts if you want later on. Very cool stuff! And its powered by Mozilla, so the rendering engine is quite cool too&#8230; check it out if your into that sort of thing
 
-<a target="_blank" id="flock-home" href="http://www.flock.com/">Flock | the Social Web Browser</a> 
+<a target="_blank" id="flock-home" href="http://www.flock.com/">Flock | the Social Web Browser</a>
 
 <div class="flockcredit" style="text-align: right; color: #CCC; font-size: x-small;">
   Blogged with the <a href="http://www.flock.com/blogged-with-flock" style="color: #999; font-weight: bold;" target="_new" title="Flock Browser">Flock Browser</a>

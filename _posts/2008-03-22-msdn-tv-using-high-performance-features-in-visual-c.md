@@ -16,7 +16,7 @@ categories:
       <p class="MsoNormal">
         Learn how to make use of some new features added to Visual C++ in Visual Studio 2005. These include adding OpenMP to your application, optimizing your application with Profile-Guided Optimization, and building a 64-bit application.
       </p>
-      
+
       <p class="ngrelatedlinks" align="right" style='text-align:right'>
         <a href="http://services.newsgator.com/subscriber/Related.aspx?relurl=http%3a%2f%2fmsdn.microsoft.com%2fmsdntv%2fepisode.aspx%3fxml%3depisodes%2fen%2f20040408VisualCKG%2fmanifest.xml">Related&#8230;</a>
       </p>

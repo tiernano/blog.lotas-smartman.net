@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-![QRCode][1] 
+![QRCode][1]
 
 [QuickMark][2] is a very cool idea. say you have a business card, and you cant fit enough stuff on to it. with quick mark, you would put info emended in an image, like the one at the top of this post, and if you have the software, which is available for a [lot of phones here][3] (registration required) you can read the info very easily. you also have the option of using QRCodes, which seem to be a bit more open. For example, check out this site for info on [how to build QRCodes][4]. and as an example of a QRCode, here is my site, QRCoded:
 

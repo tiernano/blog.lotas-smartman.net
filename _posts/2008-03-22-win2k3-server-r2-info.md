@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.winsupersite.com/faq/win2003_r2.asp\">Windows super site has some info on Release 2 of win2k3 server</a>. there seems to be a lot on the site too. <a href=\"http://www.winsupersite.com/reviews/windowsxp\_sp2\_preview2.asp\">the preview of SP2 for winxp</a> has some interesting info.
+<a href=\"<http://www.winsupersite.com/faq/win2003_r2.asp\">Windows> super site has some info on Release 2 of win2k3 server</a>. there seems to be a lot on the site too. <a href=\"<http://www.winsupersite.com/reviews/windowsxp\_sp2\_preview2.asp\">the> preview of SP2 for winxp</a> has some interesting info.

@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-theodp</a> writes *</p> 
+theodp</a> writes *</p>
 
 "The Detroit Free Press
 
@@ -16,7 +16,7 @@ theodp</a> writes *</p>
 
 on the damages
 
-sought</p> 
+sought</p>
 
 by the RIAA</a> from the Michigan Technological University student. The total?
 
@@ -24,7 +24,7 @@ About $97.8 trillion&#8211;yes, trillion with a T&#8211;or enough money to buy e
 
 sold in America last year over again for the next 120,000 years, according to
 
-RIAA statistics."</i> **Update: 04/05 21:58 GMT** by **</p> 
+RIAA statistics."</i> **Update: 04/05 21:58 GMT** by **</p>
 
 [M][2]</b>: The Free Press can do
 

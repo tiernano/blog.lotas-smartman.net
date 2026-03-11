@@ -12,15 +12,15 @@ So, over the last couple of days I have been thinking about rebuilding the photo
 
 Binary Serialization. So, they theory is simple. each photo that is uploaded is a single entity. it has sub entities (versions, which are resized versions of the photo, meta data, which is basically a value and a name, and a tag, which is just used for easy tagging of the photos). So, the theory is that once the object is fully created (after the processing stage, which I will go into in a minute) the data is dumped into a binary blob, and uploaded to S3. If, for some reason, something goes wrong, the app can go looking for these blogs of data, import them, and be able to regenerate the DB from scratch, or at least from a blank DB. this also makes life easier for migrating to different boxes.
 
-The next section is the processing stage. At the moment, a photo is uploaded in all its full glory (if taken with my 350D, its about 8MP in size and weighs in at roughly 4mb). this is placed in the processing queue. at the moment, the server does all the work. this is grand for the moment because there are very few photos uploaded at a time. but, it takes time. so, next idea: a proper queuing system. this is where [Amazon SQS][2] comes in. so, the solution. A photo hits the web server to get processed. server uploads the original to S3, and generates a GUID based on this, which is placed in the SQS queue. a client then connects to the queue, and gets an item to process (there could be multiple clients so they shouldn&#8217;t get the same item). once it gets the item, it then downloads the original photo, does its processing (pull out all Meta Data, resize to the new sizes, upload to S3, place the binary blob on to S3 and then place data into the DB). 
+The next section is the processing stage. At the moment, a photo is uploaded in all its full glory (if taken with my 350D, its about 8MP in size and weighs in at roughly 4mb). this is placed in the processing queue. at the moment, the server does all the work. this is grand for the moment because there are very few photos uploaded at a time. but, it takes time. so, next idea: a proper queuing system. this is where [Amazon SQS][2] comes in. so, the solution. A photo hits the web server to get processed. server uploads the original to S3, and generates a GUID based on this, which is placed in the SQS queue. a client then connects to the queue, and gets an item to process (there could be multiple clients so they shouldn&#8217;t get the same item). once it gets the item, it then downloads the original photo, does its processing (pull out all Meta Data, resize to the new sizes, upload to S3, place the binary blob on to S3 and then place data into the DB).
 
-Lets see what we can build over the weekend, shall we? <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Lets see what we can build over the weekend, shall we? :)
 
 [update] Another interesting idea Flickr has for their API is [Machine Tags][3]. So, for example, you could have the following types of tags (from the flickr site):
 
 medium:paint=oil
 
-or 
+or
 
 medium:photo=digital
 
@@ -28,7 +28,7 @@ camera:model=&#8221;Canon 350D&#8221;
 
 or anything.
 
-this can then be queried using their API. I&#8217;m wondering how open my API should be&#8230;</p> 
+this can then be queried using their API. I&#8217;m wondering how open my API should be&#8230;</p>
 
 Tags: <a href="http://technorati.com/tag/AmazonSQS" rel="tag">Amazon SQS</a> <a href="http://technorati.com/tag/AmazonS3" rel="tag">Amazon S3</a> <a href="http://technorati.com/tag/Photographysite" rel="tag">Photography site</a> <a href="http://technorati.com/tag/programming" rel="tag">programming</a>
 

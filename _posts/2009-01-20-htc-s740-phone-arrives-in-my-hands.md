@@ -11,9 +11,9 @@ categories:
 ---
 A couple of days ago, i decided to get rid of my trusty [Nokia N95 8Gb][1] and get myself a new Windows Mobile Smartphone, namley the [HTC S740][2]. I pre-sold the N95 on Thursday, ordered the S740 20min later, and it arrived last night. Couple of things i have noticed since.
 
-  * It is georgous! it is one hell of a nice device.
-  * the OS is great. i had a Windows Mobile Smartphone before, but it was a 2003 edition. this one still has the nice things of 2003 (the start typing someones name on the home screen and find their contact quickly bit) but has some very nice new pieces (push email, which is invaluable!)
-  * keyboard is different to the one on the [Kaiser][3] (my other phone) but still very usable.
+* It is georgous! it is one hell of a nice device.
+* the OS is great. i had a Windows Mobile Smartphone before, but it was a 2003 edition. this one still has the nice things of 2003 (the start typing someones name on the home screen and find their contact quickly bit) but has some very nice new pieces (push email, which is invaluable!)
+* keyboard is different to the one on the [Kaiser][3] (my other phone) but still very usable.
 
 So, photos. click below to see the whole set. add comments if you have questions.
 

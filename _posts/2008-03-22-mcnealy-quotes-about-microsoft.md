@@ -8,4 +8,4 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.zdnet.com.au/news/hardware/0,2000061702,39143931,00.htm\">Scott McNealy quotes about Microsoft, from ZDNet</a>. and they gave him 2billion, why?
+<a href=\"<http://www.zdnet.com.au/news/hardware/0,2000061702,39143931,00.htm\">Scott> McNealy quotes about Microsoft, from ZDNet</a>. and they gave him 2billion, why?

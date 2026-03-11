@@ -10,6 +10,6 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-[this is the way offices should be!][1] Sweet. if only we had that kind of a hang out too! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[this is the way offices should be!][1] Sweet. if only we had that kind of a hang out too! :P
 
  [1]: http://www.joelonsoftware.com/articles/BionicOffice.html

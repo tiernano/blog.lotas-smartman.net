@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.museumofhoaxes.com/aprilfool/\">the top 100 april fools pranks</a> site has some good ones. like Guinness saying that GMT now ment Guinness Mean Time. loads of ideas for Thursday!!!
+<a href=\"<http://www.museumofhoaxes.com/aprilfool/\">the> top 100 april fools pranks</a> site has some good ones. like Guinness saying that GMT now ment Guinness Mean Time. loads of ideas for Thursday!!!

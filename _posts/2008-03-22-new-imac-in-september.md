@@ -10,7 +10,6 @@ categories:
 ---
 [Apples imac site has this peice of text][1] on it:  
 
-
 > Apple has stopped taking orders for the current iMac as we begin the transition from the current iMac line to an all-new iMac line which will be announced and available in September. We planned to have our next generation iMac ready by the time the inventory of current iMacs runs out in the next few weeks, but our planning was obviously less than perfect. We apologize for any inconvenience to our customers. </p>
 . wonder will this be a G5 imac? maybe a dual processor G4? could it be like the [emac 2 that was ment to come out][2]?
 

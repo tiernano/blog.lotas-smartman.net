@@ -18,7 +18,7 @@ categories:
       <p>
         I&#8217;m posting an old utility I wrote back in 2001 that displays your system&#8217;s uptime transparently on your desktop in response to a <a href="http://blogs.msdn.com/gusperez/archive/2004/03/12/88964.aspx#91276" title="http://blogs.msdn.com/gusperez/archive/2004/03/12/88964.aspx#91276">request made by Joku in my comments section</a>.&nbsp; It&#8217;s a C++ Win32 app, so no C# love happening on this one.&nbsp; Here&#8217;s a now ancient screenshot that demonstrates what the app actually does:
       </p>
-      
+
       <p align="center" style='text-align:center'>
         <span style=''><img border="0" width="185" height="92" id="_x0000_i1025" src="http://opus80.com/discnode/ut2k_typical.jpg" /></span>
       </p>

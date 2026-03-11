@@ -52,7 +52,7 @@ so far today i have used 1mb of the 3mb data i got free. It costs .7 per MB
 
 after the first 3, or 0.7c per kilobyte. Actually, on
 
-their site</p> 
+their site</p>
 
 here</a> they say its .3 per Mb over the 3mb. they said on the phone that it was
 

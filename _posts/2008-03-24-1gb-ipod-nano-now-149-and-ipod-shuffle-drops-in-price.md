@@ -11,4 +11,3 @@ categories:
 Apple have released a new [iPod Nano][1]: the 1Gb. this now sells for $149. the [Shuffle][2] has dropped in price, too, and now starts at $69 for the 512Mb and $99 for the 1Gb.
 
  [1]: http://www.apple.com/ipodnano/
- [2]: http://www.apple.com/ipodshuffle/

@@ -22,7 +22,7 @@ Right, i have an idea for a website, which i wont be announcing for a few days (
 
 &nbsp;
 
-Now, there are a lot more bits up there about this, but since i am still finding them, and trying to work out my best plan of action, i will leave it at that&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p> 
+Now, there are a lot more bits up there about this, but since i am still finding them, and trying to work out my best plan of action, i will leave it at that&#8230; :)</p>
 
 <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:22ce1b66-3721-4a21-928a-0b6a23bce9fc" style="padding-right:0px;display:inline;padding-left:0px;padding-bottom:0px;margin:0px;padding-top:0px;">
   Technorati Tags: <a href="http://technorati.com/tags/EC2" rel="tag">EC2</a>, <a href="http://technorati.com/tags/S3" rel="tag">S3</a>, <a href="http://technorati.com/tags/MySQL" rel="tag">MySQL</a>

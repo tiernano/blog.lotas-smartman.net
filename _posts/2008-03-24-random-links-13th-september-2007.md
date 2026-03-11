@@ -10,14 +10,14 @@ categories:
 ---
 I have been extremely busy over the last few days, so that&#8217;s why there is a serious lack of posts here. So, here are my Random Links for today.
 
-  * [DIY Solar powered PC][1]: Interesting, but since most of my work is done at night, when its dark, there might be a problem there&#8230;
-  * [$89 Pentium Dual Core that runs at 3.2Gz][2]: Overclockers dream, by the looks of things!
-  * [Progress indication while uploading/downloading files using WCF][3]
-  * [DateTime calculations the right way][4]
-  * [Software is not made of bricks][5]
-  * [Programming Silverlight 1.0 with C# &#8211; Photo Carousel (part 1)][6]
-  * [CS2: a personal source code search engine][7]
-  * [how to get more than 3Gb of RAM in Windows Vista 32-bit Edition][8]
+* [DIY Solar powered PC][1]: Interesting, but since most of my work is done at night, when its dark, there might be a problem there&#8230;
+* [$89 Pentium Dual Core that runs at 3.2Gz][2]: Overclockers dream, by the looks of things!
+* [Progress indication while uploading/downloading files using WCF][3]
+* [DateTime calculations the right way][4]
+* [Software is not made of bricks][5]
+* [Programming Silverlight 1.0 with C# &#8211; Photo Carousel (part 1)][6]
+* [CS2: a personal source code search engine][7]
+* [how to get more than 3Gb of RAM in Windows Vista 32-bit Edition][8]
 
 [tags:DIY, Solar, Links, Pentium, Dual Core, OverClock, WCF, DateTime, Silverlight, Programming, C#, RAM, 32Bit, Windows Vista]
 

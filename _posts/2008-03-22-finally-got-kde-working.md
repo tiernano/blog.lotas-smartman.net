@@ -10,8 +10,8 @@ categories:
 ---
 So, i finally got [KDE][1] running properly. It took 20Hours to compile!!! madness. Openoffice has been building since this morning, so it should be done later. So here are a few quick links:
 
-  * [[Toms hardware] WinFS Info][2]
-  * [[The Register] US Senator would destory MP3 Traiders PC&#8217;s][3] Funny. like thats going to happen.
+* [[Toms hardware] WinFS Info][2]
+* [[The Register] US Senator would destory MP3 Traiders PC&#8217;s][3] Funny. like thats going to happen.
 
 Thats about it. more later probably.
 

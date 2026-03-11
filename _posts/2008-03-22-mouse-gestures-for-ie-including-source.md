@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.codeproject.com/atl/MouseGestures.asp\">this project on the Code project</a> has source and an addon to IE to allow use of mouse gestures. sweet. makes surfing all the easer!
+<a href=\"<http://www.codeproject.com/atl/MouseGestures.asp\">this> project on the Code project</a> has source and an addon to IE to allow use of mouse gestures. sweet. makes surfing all the easer!

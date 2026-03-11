@@ -6,44 +6,44 @@ permalink: /tiernan%e2%80%99s-podcast-saturday-25th-january-2006/
 categories:
   - Uncategorized
 ---
-[Download direct here][1], or subscribe to the [RSS feed here][2]. Use any of the PodCast links at the side of the main <span class=SpellE>blog site to subscribe with many different <span class=SpellE>PodCatchers.</p> 
+[Download direct here][1], or subscribe to the [RSS feed here][2]. Use any of the PodCast links at the side of the main <span class=SpellE>blog site to subscribe with many different <span class=SpellE>PodCatchers.</p>
 
 New Workstation
 
-  * [Geeks.com][3]
-  * [Dabs.com][4]
-  * [Shop4memory.com][5]
-  * [IWill ZMaxDP dual Opteron Small Form Factor PC][6]
-  * [2 Opteron 2Gz 246 Processors][7] 
-  * 2Gb RAM
-  * [NVIDIA][8] GeForce 6600 Graphics card
+* [Geeks.com][3]
+* [Dabs.com][4]
+* [Shop4memory.com][5]
+* [IWill ZMaxDP dual Opteron Small Form Factor PC][6]
+* [2 Opteron 2Gz 246 Processors][7]
+* 2Gb RAM
+* [NVIDIA][8] GeForce 6600 Graphics card
 
 New phone
 
-  * <span class=SpellE>Scoble phone (AKA AudioVox SMT 5600, [Orange][9] SPV C500, [I-Mate][10] SP3, HTC Typhoon etc) 
-    
-      * Very cool little phone
+* <span class=SpellE>Scoble phone (AKA AudioVox SMT 5600, [Orange][9] SPV C500, [I-Mate][10] SP3, HTC Typhoon etc)
+
+  * Very cool little phone
     Apple rumours
-    
-      * [New Mac mini?][11]
-      * [New ibook/mac book?][12]
-      * [New ipod video touch screen or Tablet Mac?][13]
-      * [Updated rumour] [defiantly a Mac mini, not the ibook/mac book…][14]
-    
+
+  * [New Mac mini?][11]
+  * [New ibook/mac book?][12]
+  * [New ipod video touch screen or Tablet Mac?][13]
+  * [Updated rumour] [defiantly a Mac mini, not the ibook/mac book…][14]
+
     VOIP
-    
-      * [Blueface.ie][15]
-      * [Linksys PAP2][16]
-      * [Asterisk@home][17]
-    
-    Music played from the [Pod Safe music network][18]: 
-    
-      * [Mike Errico &#8211; Skimming][19]
-      * [Brother Love – Push][20]
-      * [Brother Love – There she goes][21] 
-    
-    </span></a></li> </ul> 
-    
+
+  * [Blueface.ie][15]
+  * [Linksys PAP2][16]
+  * [Asterisk@home][17]
+
+    Music played from the [Pod Safe music network][18]:
+
+  * [Mike Errico &#8211; Skimming][19]
+  * [Brother Love – Push][20]
+  * [Brother Love – There she goes][21]
+
+    </span></a></li> </ul>
+
     </span></span></a>
 
  [1]: http://media.libsyn.com/media/lotas/tiernanspodcast-25022006-01.mp3

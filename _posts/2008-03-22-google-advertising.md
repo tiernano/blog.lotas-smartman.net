@@ -15,8 +15,8 @@ categories:
         <tr>
           <td vAlign="top" align="left" width="100%" height="1">
             <p>
-              <font color="#000000"></p> 
-              
+              <font color="#000000"></p>
+
               <table cellSpacing="0" cellPadding="0" width="100%" border="0">
                 <tr>
                   <td vAlign="top" bgColor="#006666">

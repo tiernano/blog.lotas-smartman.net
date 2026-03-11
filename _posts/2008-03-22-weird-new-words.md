@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a HREF="http://www.askoxford.com/pressroom/archive/odenewwords">check out these new weird new words</a> these have been added to the oxford dictionary. Example: *antidisestablishmentarianism</p> 
+<a HREF="http://www.askoxford.com/pressroom/archive/odenewwords">check out these new weird new words</a> these have been added to the oxford dictionary. Example: *antidisestablishmentarianism</p>
 
 . noun [mass noun] rare opposition to the disestablishment of the Church of England.
 

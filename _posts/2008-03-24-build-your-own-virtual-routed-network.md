@@ -10,7 +10,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-What to play with routed networking, but don&#8217;t want 6 extra machines in your lab (or bedroom in my case)? Then why not play with Virtual PC or Virtual Server? Check out this article over at [oreillynet showing you how to set one up][1]. Very handy! 
+What to play with routed networking, but don&#8217;t want 6 extra machines in your lab (or bedroom in my case)? Then why not play with Virtual PC or Virtual Server? Check out this article over at [oreillynet showing you how to set one up][1]. Very handy!
 
 Bk_keywords: virtual server, virtual pc
 

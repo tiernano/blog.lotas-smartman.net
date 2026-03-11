@@ -11,8 +11,8 @@ categories:
 <table cellSpacing="0" cellPadding="0" width="100%" bgColor="#cccccc" border="0" id="table1">
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
-      &nbsp;<a class="black" href="http://www.theregister.co.uk"><b>Feed:</p> 
-      
+      &nbsp;<a class="black" href="http://www.theregister.co.uk"><b>Feed:</p>
+
       <p>
         </b>The Register</a>
       </p>
@@ -102,5 +102,5 @@ categories:
                       </p>
                       
                       <p>
-                        other 750,000 for the OS! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+                        other 750,000 for the OS! :P
                       </p>

@@ -8,7 +8,7 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-the offices of Sharman Networks, the makers of [Kazaa][1], [was raided by the Music Industry Piracy Investigations][2]. Execs of several ISPs where raided too. 
+the offices of Sharman Networks, the makers of [Kazaa][1], [was raided by the Music Industry Piracy Investigations][2]. Execs of several ISPs where raided too.
 
 *MIPI obtained an Anton Pilar order Ã¢.. which allows a copyright holder to enter a premises to search for and seize material that breaches copyright without alerting the target through court proceedings.*
 

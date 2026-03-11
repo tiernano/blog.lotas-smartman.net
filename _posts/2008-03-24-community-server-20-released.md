@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Looks like [Community Server 2.0 has been released][1]. i will have to install this on my site soon. I hope it works well! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Looks like [Community Server 2.0 has been released][1]. i will have to install this on my site soon. I hope it works well! :)
 
  [1]: http://communityserver.org/forums/ShowPost.aspx?PostID=516103

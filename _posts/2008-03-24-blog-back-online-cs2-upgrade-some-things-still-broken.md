@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Right. i have gotten the site back online after about 8 hrs of down time! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" /> while it was down (actually the reason it was down was) i upgraded to CS2.0 RTM. Comments are now working, i think, and there are some other things i have to work on, like the blog URL. RSS feed has changed slightly, but i have rewritten to make migrating easer! lets hope it works correctly&#8230;
+Right. i have gotten the site back online after about 8 hrs of down time! :( while it was down (actually the reason it was down was) i upgraded to CS2.0 RTM. Comments are now working, i think, and there are some other things i have to work on, like the blog URL. RSS feed has changed slightly, but i have rewritten to make migrating easer! lets hope it works correctly&#8230;

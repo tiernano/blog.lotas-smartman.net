@@ -12,7 +12,7 @@ categories:
 ---
 a few weeks back, I talked about using [Squid as a reverse proxy for the site][1]. well, a guy named Robert, also from Ireland, posted a comment and mentioned that he had used a similar idea, and [gave details on his blog on how to do it][2]. He also has a [Wiki Page with more info about the setup][3]. Well, a few minutes ago, after some shouting at some of my servers, I decided to enable this on my network. All web traffic is now flowing though my Squid proxy server (only some is actually getting cached, like images, CSS and some java script). not only that, but it now knows about other servers in the house. so, some sites are being served off the Opteron, and another is being served from my main workstation.
 
-This is now very cool. for testing, I can fire up a Virtual Server box, copy content to it, and a quick change of a squid instance, and we are all good. handy! 
+This is now very cool. for testing, I can fire up a Virtual Server box, copy content to it, and a quick change of a squid instance, and we are all good. handy!
 
 By the way, congratulations [to Sylwia and Robert on their baby Boy, Lucas][4]. And while we are at it, to [Mo and Scott on the arrival of their baby boy Thabo][5].
 

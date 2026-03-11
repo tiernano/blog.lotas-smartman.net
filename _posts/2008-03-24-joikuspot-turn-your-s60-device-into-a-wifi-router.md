@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-A few months back I started using [WMWifiRouter][1], which was a very nice piece of software that allows your Windows Mobile device act as a WiFi Router. This allowed me connect to it though the iPod touch, iPhone, Laptop or any other WiFi enabled device. Well now, S60 users can do the same with [JoikuSpot][2]. There is some [documentation here][3] (PDF link) and a video here on [how to get the iPhone talking to it][4]. This is pretty interesting. There are a few more HSDPA enabled S60 devices around, and this would mean faster Internet surfing speeds on all your devices. 
+A few months back I started using [WMWifiRouter][1], which was a very nice piece of software that allows your Windows Mobile device act as a WiFi Router. This allowed me connect to it though the iPod touch, iPhone, Laptop or any other WiFi enabled device. Well now, S60 users can do the same with [JoikuSpot][2]. There is some [documentation here][3] (PDF link) and a video here on [how to get the iPhone talking to it][4]. This is pretty interesting. There are a few more HSDPA enabled S60 devices around, and this would mean faster Internet surfing speeds on all your devices.
 
 Unfortunately, there are some limitations. I know WMWifiRouter only supported one connecting user at a time. Not sure if JoikuSpot will be limited too&#8230; the next problem is why cant they build a wireless router into the HSDPA modem anyway? have it act as a USB device as standard, but with the flick of a switch it becomes a Wireless Router? it would make my life a lot easer!
 

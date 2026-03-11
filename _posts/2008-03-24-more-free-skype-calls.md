@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Skype are offering [10 more free minuites of calls, for free][1]. this place really is cool! i have skype on my XDA2s, which is cool! who though i could make phone calls on my phone <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Skype are offering [10 more free minuites of calls, for free][1]. this place really is cool! i have skype on my XDA2s, which is cool! who though i could make phone calls on my phone :)
 
  [1]: http://skype.com/campaigns/freeskypedays/

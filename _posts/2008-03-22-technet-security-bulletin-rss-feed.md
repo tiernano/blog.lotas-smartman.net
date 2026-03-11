@@ -20,7 +20,7 @@ categories:
       <p>
         Great news. TechNet now has a <a href="http://www.microsoft.com/technet/security/bulletin/secrss.aspx" title="http://www.microsoft.com/technet/security/bulletin/secrss.aspx">Security Bulletin RSS</a> feed.
       </p>
-      
+
       <p>
         <a href="http://msdn.microsoft.com/aboutmsdn/rss.asp" title="http://msdn.microsoft.com/aboutmsdn/rss.asp">This page</a> on MSDN describes the MSDN feeds available and has links to a few of the different feed readers. As always, the latest Security Bulletin information can be found on the <a href="http://www.microsoft.com/technet/security/current.aspx" title="http://www.microsoft.com/technet/security/current.aspx">Microsoft Security Bulletin Search</a> page.
       </p>

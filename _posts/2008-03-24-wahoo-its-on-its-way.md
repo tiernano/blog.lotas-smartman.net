@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-New gadget on the way. Will update once it arrives and add photos&#8230; 
+New gadget on the way. Will update once it arrives and add photos&#8230;
 
 ![][1]
 

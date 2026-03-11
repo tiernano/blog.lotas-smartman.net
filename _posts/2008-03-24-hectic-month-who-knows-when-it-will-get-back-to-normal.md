@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Right, its been an interesting month, and its only the first 12 days! Finally got my Dev Box at home running fairly ok, and will be working on some projects with new technologies that i have wanted to play with for a while ([LINQ][1], [ASP.NET MVC framework][2], and anything else cool out there). 
+Right, its been an interesting month, and its only the first 12 days! Finally got my Dev Box at home running fairly ok, and will be working on some projects with new technologies that i have wanted to play with for a while ([LINQ][1], [ASP.NET MVC framework][2], and anything else cool out there).
 
 So, with that out of the way, I want a&nbsp; [Sandwich][3], and a [couple of these bad boys][4] in a RAID Array, and did i mention i like [Sandwiches][3]?
 

@@ -28,7 +28,7 @@ GPS unit
 
 Sorry about the &#8220;flowery&#8221; background&#8230; Don&#8217;t ask&#8230; Anyway, some info. Not sure if the iPhone has me spoilt, but it seems that the device is not responding quickly enough for me&#8230; I could be wrong, and my next task is to look for a newer firmware and OS release. Its working grand though. i turned it on with my Vodafone HSDPA SIM, it asked me did i want to auto-configure the settings, but i declined. took me 2 min to set the settings anyway. once set up, asked me for Email account details (Exchange server in work) and about 2 minutes later I had email on it. Works great!
 
-I have not played fully with the GPS unit. have to install some GPS software on the Atom, which is harder than it sounds (not sure where my memory card reader lives, and i have to find the JasJar since the maps are on its memory card). I will have a fuller review of that once I get it working. 
+I have not played fully with the GPS unit. have to install some GPS software on the Atom, which is harder than it sounds (not sure where my memory card reader lives, and i have to find the JasJar since the maps are on its memory card). I will have a fuller review of that once I get it working.
 
 Anyway, so far so good.
 

@@ -9,6 +9,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Gizmodo are reporting ][1] that apple has hit the (best doctor evil impression!) 100 million songs (end doctor evil impression) mark.
+[Gizmodo are reporting][1] that apple has hit the (best doctor evil impression!) 100 million songs (end doctor evil impression) mark.
 
  [1]: http://www.gizmodo.com/archives/100000000-itunes-sold-017487.php

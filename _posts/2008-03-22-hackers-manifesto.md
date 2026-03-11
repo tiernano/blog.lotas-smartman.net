@@ -12,7 +12,7 @@ categories:
   I was just watching the film hackers and i heard them
 </p>
 
-mention this. i found it on the net and its quite good. Interesting read. 
+mention this. i found it on the net and its quite good. Interesting read.
 
 <p class="MsoNormal">
   HACKERS MANIFESTO

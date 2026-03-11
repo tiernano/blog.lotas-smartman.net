@@ -12,8 +12,8 @@ categories:
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
       <p>
-        <a class="black" href="http://diveintomark.org/"><b>Feed: </b>dive into</p> 
-        
+        <a class="black" href="http://diveintomark.org/"><b>Feed: </b>dive into</p>
+
         <p>
           mark</a>
         </p>

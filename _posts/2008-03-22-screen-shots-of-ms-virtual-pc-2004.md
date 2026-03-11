@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[MSFN.org hhave screen shots of][1] [MS Virtual PC][2]. they have removed the titles for linux, solaris, freebsd and netbsd. hope their still supported. even if they aint, im on linux now! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[MSFN.org hhave screen shots of][1] [MS Virtual PC][2]. they have removed the titles for linux, solaris, freebsd and netbsd. hope their still supported. even if they aint, im on linux now! :P
 
  [1]: http://www.msfn.org/comments.php?id=5516&catid=1
  [2]: http://www.microsoft.com/virtualpc

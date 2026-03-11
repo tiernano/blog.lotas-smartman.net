@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Something I need to implement in a website I am working on is linking data to users. my original plan involved some &#8220;tweaking&#8221; to the DB.&nbsp;a user registered with ASP.NET membership, and then, when the hit the next page, a stored proc kicked off and wrote their unique user ID into a new table, which I had setup, and entered the custom info my application needed in there. I talk about that in the past tense, but in reality its still done this way. I am, however interested in custom ASP.NET Profile Providers, and [this one over at TheServerSide.NET][1] may do the job I want it to do. 
+Something I need to implement in a website I am working on is linking data to users. my original plan involved some &#8220;tweaking&#8221; to the DB.&nbsp;a user registered with ASP.NET membership, and then, when the hit the next page, a stored proc kicked off and wrote their unique user ID into a new table, which I had setup, and entered the custom info my application needed in there. I talk about that in the past tense, but in reality its still done this way. I am, however interested in custom ASP.NET Profile Providers, and [this one over at TheServerSide.NET][1] may do the job I want it to do.
 
 Also, Arno Nel has&nbsp;a LOAD of links to different sites with info about [ASP.NET 2.0 Security, Roles, Membership and Profile Provider][2]. Very handy stuff, and the link above is there too!
 

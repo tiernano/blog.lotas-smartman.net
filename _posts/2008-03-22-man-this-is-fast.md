@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Ok. i just got the system running grand and it is FAST!!!! Ill have pics and benchies soon. sorry for the delay. havin toooo much fun with this!!! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> **[Update]** photos uploaded here<a /> benchmarks soon, hopefully.</p>
+Ok. i just got the system running grand and it is FAST!!!! Ill have pics and benchies soon. sorry for the delay. havin toooo much fun with this!!! :P **[Update]** photos uploaded here<a /> benchmarks soon, hopefully.</p>

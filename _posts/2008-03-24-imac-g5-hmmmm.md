@@ -9,11 +9,11 @@ categories:
   - Uncategorized
 ---
 > [iMac G5 Spy Shot?][1]
-> 
+>
 > <img class="center border" height=266 alt="pastedGraphic8_sm.jpg image" src="http://blog.lotas-smartman.net/wp-content/imacg5.jpg" width=398>Thanks for all the well wishing, guys. I think it&#8217;s the first time I&#8217;ve ever gotten a &#8220;get well soon&#8221; card that used the term &#8220;shitload.&#8221;
-> 
+>
 > But I can&#8217;t sit eating crackers all morning, so you guys get some news. How about this picture of what may be the iMac G5? A faithful reader sent in this pic with the story that it was surreptitiously snapped in an elevator at Charles de Gualle. If I weren&#8217;t feeling crappy, this would be the part where I make a joke about Apple and unsecured AirPorts.
-> 
+>
 > **Related**  
 > [This Last Hour In iMac][2] [Gizmodo]  
 > [Apple Plays Nice, Announces New iMac Early; Details Slim][3] [Gizmodo]  

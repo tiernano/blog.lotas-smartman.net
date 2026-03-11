@@ -10,4 +10,4 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.microsoft.com/presspass/press/2004/mar04/03-29ConsolePriceDropPR.asp\">this press release from microsoft</a> has info on the new price point for the XBox: $149. wonder when or if the price drop is comming to europe?
+<a href=\"<http://www.microsoft.com/presspass/press/2004/mar04/03-29ConsolePriceDropPR.asp\">this> press release from microsoft</a> has info on the new price point for the XBox: $149. wonder when or if the price drop is comming to europe?

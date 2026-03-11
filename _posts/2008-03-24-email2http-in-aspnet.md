@@ -14,11 +14,11 @@ Right, so here is some sample code and tutorial to get [Email2HTTP][1] to work w
 
 First, sign up for an account at [Email2HTTP.com][1]. Once you have your account, set up a domain or use the sample on they give you when you sign up:
 
-<img src="http://images.lotas-smartman.net/image.ashx?id=916b9f29-1794-4949-b755-b9fa62d8ffb9" mce_src="http://images.lotas-smartman.net/image.ashx?id=916b9f29-1794-4949-b755-b9fa62d8ffb9"> 
+<img src="http://images.lotas-smartman.net/image.ashx?id=916b9f29-1794-4949-b755-b9fa62d8ffb9" mce_src="http://images.lotas-smartman.net/image.ashx?id=916b9f29-1794-4949-b755-b9fa62d8ffb9">
 
-Once your domain is setup (I used the sample, so everything, including MX records and DNS was already setup. if you are using a different one, you will need to follow the instructions) you need to add a Target URL. this is where email gets redirected to. 
+Once your domain is setup (I used the sample, so everything, including MX records and DNS was already setup. if you are using a different one, you will need to follow the instructions) you need to add a Target URL. this is where email gets redirected to.
 
-<img src="http://images.lotas-smartman.net/image.ashx?id=9fe0e5a0-9c1f-4a2c-a9af-6f4e67b92d9a" mce_src="http://images.lotas-smartman.net/image.ashx?id=9fe0e5a0-9c1f-4a2c-a9af-6f4e67b92d9a"> <p mce_keep="true">&nbsp;</p> 
+<img src="http://images.lotas-smartman.net/image.ashx?id=9fe0e5a0-9c1f-4a2c-a9af-6f4e67b92d9a" mce_src="http://images.lotas-smartman.net/image.ashx?id=9fe0e5a0-9c1f-4a2c-a9af-6f4e67b92d9a"> <p mce_keep="true">&nbsp;</p>
 
 Name your target and add the URL you want to receive the email. next, we you are going to want to write the code.
 
@@ -36,9 +36,9 @@ public void ProcessRequest (HttpContext context) {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; context.Response.Write(&#8220;Body: &#8221; + body);  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; context.Response.Write(&#8220;<br>&#8221;);  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; context.Response.Write(&#8220;Subject: &#8221; + subject);  
-&nbsp;&nbsp; }<p mce_keep="true">&nbsp;</p> 
+&nbsp;&nbsp; }<p mce_keep="true">&nbsp;</p>
 
-Anything that is written back gets emailed back to the user. So, if you emailed, say a stock symbol, you could call a web service, get some information and send it back to the user via email. 
+Anything that is written back gets emailed back to the user. So, if you emailed, say a stock symbol, you could call a web service, get some information and send it back to the user via email.
 
 This is very cool! Couple of things that would be nice: instead of calling the webserver directly with all the posted data, which is done now and could be &#8220;spoofed&#8221;, call the webserver and post a key, which could be used then by the server to call the service and get the information. this could also be handy for servers which are inside a network: they could poll the service every, say, 5 minutes and pull information down. It would not be real time, but it would allow &#8220;hidden&#8221; servers to use the service.
 

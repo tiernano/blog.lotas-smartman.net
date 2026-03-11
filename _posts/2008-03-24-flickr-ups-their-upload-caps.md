@@ -9,4 +9,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Flickr, the photo sharing site, which i use a lot, has just upped their upload caps. Originally, there was a limit of 20mb on free accounts and 2Gb on Pro accounts. Free accounts can now upload 100mb, and pro accounts now have no limit! sweet! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Flickr, the photo sharing site, which i use a lot, has just upped their upload caps. Originally, there was a limit of 20mb on free accounts and 2Gb on Pro accounts. Free accounts can now upload 100mb, and pro accounts now have no limit! sweet! :)

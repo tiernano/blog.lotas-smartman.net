@@ -14,7 +14,7 @@ trust Microsoft&#8217;s software to be secure, despite the fact that nine out of
 
 admit using it to run mission-critical applications.
 
-</p> 
+</p>
 
 IT managers don &#8216; t trust MS</a> News&nbsp;Interactive
 
@@ -24,7 +24,7 @@ CNET&nbsp;News.com
 
 [iT News][2]&nbsp;&#8211;
 
-</p> 
+</p>
 
 InternetWeek.com</a>&nbsp;&#8211;
 
@@ -32,13 +32,13 @@ InternetWeek.com</a>&nbsp;&#8211;
 
 [Baku Today][4]&nbsp;&#8211;
 
-</p> 
+</p>
 
 **and&nbsp;33&nbsp;related&nbsp;Â»**
 
-</a></p> 
+</a></p>
 
-http://www.vnunet.com/News/1139896</a>
+<http://www.vnunet.com/News/1139896></a>
 
  [1]: http://news.com.com/2100-12-994878.html
  [2]: http://www.itnews.com.au/storycontent.cfm?ID=17&Art_ID=11780

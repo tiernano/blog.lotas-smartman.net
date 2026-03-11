@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Sky News has a [video showing an Irish company][1], called [Steorn][2], who have found accidentally found a way of producing free energy. This is defiantly crazy, and very mad! Only the Irish could break the laws of physics, and accidentally! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Sky News has a [video showing an Irish company][1], called [Steorn][2], who have found accidentally found a way of producing free energy. This is defiantly crazy, and very mad! Only the Irish could break the laws of physics, and accidentally! :)
 
 Technorati Tags: [Free Energy][3], [Irish][4], [Video][5], [Steorn][6]
 

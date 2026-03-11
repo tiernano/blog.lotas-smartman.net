@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[I Like!][1] <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[I Like!][1] :)
 
  [1]: http://www.secretgeek.net/macho_programming.asp

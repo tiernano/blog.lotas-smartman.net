@@ -10,8 +10,8 @@ categories:
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
       <p>
-        <a style="color: #66c; text-decoration: none" href="http://www.news.com/"></p> 
-        
+        <a style="color: #66c; text-decoration: none" href="http://www.news.com/"></p>
+
         <p>
           <img height="31" alt="CNET News.com" src="http://blog.lotas-smartman.net/wp-content/uploads/2008/03/rss_logo.gif" width="88" align="left" border="0" /></a>
         </p>
@@ -53,5 +53,5 @@ categories:
                     he can do the trick again. </td> </tr> </table> 
                     
                     <p>
-                      Hmmmm. Opteron! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Sweet!
+                      Hmmmm. Opteron! :) Sweet!
                     </p>

@@ -9,19 +9,19 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Two peices of sun related news. 
+Two peices of sun related news.
 
 eWeek &#8211; Sun Microsystems Inc. has announced a series of technologies and initiatives to help developers build applications and Web services more effectively and enjoy a better overall development experience.  
 [PC vendors eye Java][1] InfoWorld  
 [PC Makers Keep Their Eye on Java][2] PC World  
-[ZDNet.com][3] &#8211; [ZDNet.co.uk][4] &#8211; [Cnet Asia][5] &#8211; [**and 15 related Â»**][6] 
+[ZDNet.com][3] &#8211; [ZDNet.co.uk][4] &#8211; [Cnet Asia][5] &#8211; [**and 15 related Â»**][6]
 
 <http://www.eweek.com/article2/0,3959,985545,00.asp>
 
 The Register &#8211; Sun Microsystems' branded Linux distribution has been extinguished before it ever even caught a light.  
 [Sun abandons its own Linux flavour][7] VNUNet  
 [Sun Drops Linux Distro][8] Slashdot  
-[eWeek][9] &#8211; [Computerwire.info (subscription)][10] &#8211; [The Age][11] &#8211; [InternetNews.com][12] &#8211; [**and 25 related Â»**][13] 
+[eWeek][9] &#8211; [Computerwire.info (subscription)][10] &#8211; [The Age][11] &#8211; [InternetNews.com][12] &#8211; [**and 25 related Â»**][13]
 
 <http://www.theregister.co.uk/content/4/30005.html>
 

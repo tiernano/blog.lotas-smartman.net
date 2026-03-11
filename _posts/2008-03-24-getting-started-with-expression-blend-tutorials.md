@@ -15,7 +15,7 @@ there are 3 courses:
 
 [3 Hours Expression Blend (RTM)][3]&nbsp;Getting started
 
-[3 Hours Expression Blend (BETA)][4]&nbsp;Preview 
+[3 Hours Expression Blend (BETA)][4]&nbsp;Preview
 
 [6 hours Expression Design Getting started][5]
 

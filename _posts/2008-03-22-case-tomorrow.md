@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Im getting my case tomorrow!!! Wehay! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> ill post phots, probably, tomorrow. may be saturday before i get them in, but ill post them soon!!!
+Im getting my case tomorrow!!! Wehay! :P ill post phots, probably, tomorrow. may be saturday before i get them in, but ill post them soon!!!

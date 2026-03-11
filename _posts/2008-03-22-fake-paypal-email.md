@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I just got this email from what looked like varify@paypal.com. Took me a while to find out it actually wasent them. not sure who sent it, but its not from a paypal server. also the URL looks like paypal.com but it is actually worldISP.com Thier Security cert is owned by them too. looks fairly real. i just emailed webmaster@paypal.com about this, but not sure what else to do. first one of these i found. I just sent it to the bugtraq mailing list. This is the source of the email.
+I just got this email from what looked like <varify@paypal.com>. Took me a while to find out it actually wasent them. not sure who sent it, but its not from a paypal server. also the URL looks like paypal.com but it is actually worldISP.com Thier Security cert is owned by them too. looks fairly real. i just emailed <webmaster@paypal.com> about this, but not sure what else to do. first one of these i found. I just sent it to the bugtraq mailing list. This is the source of the email.
 
 <!--more-->
 
@@ -76,7 +76,7 @@ link (or if you use AOL), copy and paste the link into the address bar of
 
 your web browser.
 
-https://www.paypal.com:ac=Aw1I5HUK5eOc3VMm84Xvzw87FjdLvHSTJieOuKMe2C9@**n9iTe3.WoRlDiSpNeTwOrK.cOm/**iN77.cGi?webmaster@lotas-smartman.net
+<https://www.paypal.com:ac=Aw1I5HUK5eOc3VMm84Xvzw87FjdLvHSTJieOuKMe2C9@**n9iTe3.WoRlDiSpNeTwOrK.cOm/**iN77.cGi?webmaster@lotas-smartman.net>
 
 The link will take you to our Verify Your Identity page. Fill in the
 

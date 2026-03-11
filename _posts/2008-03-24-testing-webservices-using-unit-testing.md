@@ -31,9 +31,9 @@ after you instantiate your webservice object, you need to call the following:
 
 <pre class="code"><span>WebServiceHelper</span>.TryUrlRedirection(target, testContextInstance, <span>"WebServiceName"</span>);</pre>
 
-This will tell Visual Studio to use the the ASP.NET test web server for testing. 
+This will tell Visual Studio to use the the ASP.NET test web server for testing.
 
-[<img alt="kick it on DotNetKicks.com" src="http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://blog.lotas-smartman.net/archive/2007/08/04/testing-webservices-using-unit-testing.aspx" border="0" />][3] 
+[<img alt="kick it on DotNetKicks.com" src="http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http://blog.lotas-smartman.net/archive/2007/08/04/testing-webservices-using-unit-testing.aspx" border="0" />][3]
 
 <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:32e05881-b913-4240-8d5d-52d14b4ebbad" style="padding-right:0px;display:inline;padding-left:0px;padding-bottom:0px;margin:0px;padding-top:0px;">
   Technorati Tags: <a href="http://technorati.com/tags/WebServices" rel="tag">WebServices</a>, <a href="http://technorati.com/tags/Testing" rel="tag">Testing</a>, <a href="http://technorati.com/tags/Unit%20Testing" rel="tag">Unit Testing</a>, <a href="http://technorati.com/tags/WebMethod" rel="tag">WebMethod</a>, <a href="http://technorati.com/tags/Visual%20Studio" rel="tag">Visual Studio</a>, <a href="http://technorati.com/tags/MSDN" rel="tag">MSDN</a>, <a href="http://technorati.com/tags/AspNetDevelopmentServerAttribute" rel="tag">AspNetDevelopmentServerAttribute</a>

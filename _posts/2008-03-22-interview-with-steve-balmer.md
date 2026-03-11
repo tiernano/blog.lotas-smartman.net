@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://news.com.com/2008-1012_3-5186219.html?part=rss&tag=feed&subj=news\">cnet has an interview with Steve Balmer</a>. Interesting read.
+<a href=\"<http://news.com.com/2008-1012_3-5186219.html?part=rss&tag=feed&subj=news\">cnet> has an interview with Steve Balmer</a>. Interesting read.

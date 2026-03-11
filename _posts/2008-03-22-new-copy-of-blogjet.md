@@ -6,15 +6,16 @@ permalink: /new-copy-of-blogjet/
 categories:
   - Uncategorized
 ---
-Wahoo! BlogJet beta 14 has been released. some nice improvments, but most important is the code view! handy. i just downloaded it and installed it. 
+Wahoo! BlogJet beta 14 has been released. some nice improvments, but most important is the code view! handy. i just downloaded it and installed it.
 
 > [Download][1]&nbsp;it here
-> 
+>
 > <a href="http://blogjet.com/download/" target=_blank>Release notes</a>:  
 > BlogJet 1.0.0.14 BETA Release Notes  
 > February 11, 2004
-> 
+>
 > FEATURES  
+>
 > * HTML source editor with highlighting and code completion.  
 > * Indent/Outdent (for those who use <BLOCKQUOTE>&#8217;s).  
 > * Link text and target in Insert Hyperlink dialog.  
@@ -25,9 +26,10 @@ Wahoo! BlogJet beta 14 has been released. some nice improvments, but most import
 > * New sweet icons for categories.  
 > * New About window.  
 > * DasBlog support.
-> 
+>
 > BUG FIXES  
-> * Fixed issues with View History in TypePad.   
+>
+> * Fixed issues with View History in TypePad.
 > * Deleting entry now forces blog republish.  
 > * Fixed issues with images path.  
 > * Fixed deleting post which is being edited.  

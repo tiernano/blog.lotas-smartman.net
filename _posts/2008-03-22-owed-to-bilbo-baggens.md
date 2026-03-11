@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[this music video][1] called owed to bilbo baggens is just stupidly funny. Leonard Nimoy singing is good too <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[this music video][1] called owed to bilbo baggens is just stupidly funny. Leonard Nimoy singing is good too :)
 
  [1]: http://homepage.mac.com/evanbaumgardner/iMovieTheater6.html

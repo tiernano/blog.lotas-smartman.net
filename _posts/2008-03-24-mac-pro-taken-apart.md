@@ -14,7 +14,7 @@ categories:
 
 Some has taken apart the new [Mac Pro][1]. photos are [available here][2].&nbsp;very cool stuff.
 
-[update] I really should do spell check before i post these&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[update] I really should do spell check before i post these&#8230; :)
 
 bk_keywords: mac pro, apple
 

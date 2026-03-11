@@ -18,7 +18,7 @@ categories:
       <p>
         <a href="http://www.mainsoft.com/" title="http://www.mainsoft.com/">Mainsoft</a> has a product called Visual MainWin. It appears to offer an extremely well integrated solution for taking your .NET enterprise apps (ASP.NET and ADO.NET) and integrating them into your J2EE environment seamlessly.
       </p>
-      
+
       <p>
         Watch this <a href="http://www.mainsoft.com/flashdemo/mainsoft.html" title="http://www.mainsoft.com/flashdemo/mainsoft.html">Flash movie</a> and tell me this isn&#8217;t a huge thing. The debugger blew my mind!
       </p>

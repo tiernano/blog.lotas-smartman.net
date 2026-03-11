@@ -10,14 +10,13 @@ categories:
 ---
 [a new MSDN subscription for students will begin in July][1]. Check out this for a price  
 
-
 > Register Now! And install Visual Studio on your lab machines  
-> and students&#8217; personal machines too!</p> 
-> 
+> and students&#8217; personal machines too!</p>
+>
 > $299 provides Visual Studio to  
 > every teacher,  
 > every student,  
-> every instructional computer in your school! 
+> every instructional computer in your school!
 
 Wish they had that back when i was in school!!!
 

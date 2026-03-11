@@ -9,6 +9,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Autoblog has some info about the new [M3 BMW][1], and also some photos. I WANT!! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Autoblog has some info about the new [M3 BMW][1], and also some photos. I WANT!! :)
 
  [1]: http://www.autoblog.com/2007/04/03/production-bmw-m3-revealed/

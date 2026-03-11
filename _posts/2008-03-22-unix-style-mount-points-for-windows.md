@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-cool. interesting idea there. wonder is there an app somewhere for blogging source code&#8230;. Anyway, i removed the code cause it was too long. the link is <a href=\"http://weblogs.asp.net/brada/archive/2004/04/01/105946.aspx\">here though.</a>
+cool. interesting idea there. wonder is there an app somewhere for blogging source code&#8230;. Anyway, i removed the code cause it was too long. the link is <a href=\"<http://weblogs.asp.net/brada/archive/2004/04/01/105946.aspx\">here> though.</a>

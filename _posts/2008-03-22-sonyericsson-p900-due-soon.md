@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[this register article][1] talks about the new [Sony Ericsson][2] P900, the sucessor to the P800, which is due out October 26th. Some info [here][3], [here][4] and [here][5]. Sweet looking phone!. 
+[this register article][1] talks about the new [Sony Ericsson][2] P900, the sucessor to the P800, which is due out October 26th. Some info [here][3], [here][4] and [here][5]. Sweet looking phone!.
 
 <a HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B0000YQ3PM/lotassmartman-21">Sony Ericsson P900 &#8211; SIM Free</a> [Amazon]  
 <a HREF="http://www.amazon.co.uk/exec/obidos/ASIN/B000094U58/lotassmartman-21">Sony Ericsson T68i SIM Free Mobile Phone&#8230;</a> [Amazon]  

@@ -25,7 +25,7 @@ New battery &#8220;longest lasting battery, ever&#8221;. 8 hours! Christ! Thats 
 
 and tis environmentally friendly&#8230; (meh)
 
-sounds like the battery is non removable&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" />
+sounds like the battery is non removable&#8230; :(
 
 whole machine uses less than 1/2 engery of single lightbulb (is that a 100w light bulb? i could say my Macpro uses the same as a single lightbulb too&#8230; if it where a 1kw lightbulb&#8230;)
 

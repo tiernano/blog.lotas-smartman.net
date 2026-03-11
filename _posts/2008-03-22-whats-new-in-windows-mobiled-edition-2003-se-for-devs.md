@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwm2k3/html/whatsnew2003se.asp\">this MSDN article has a whats new for devs in windows mobile 2003 SE</a>. some interesting new features. i especially like the screen rotation!
+<a href=\"<http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnwm2k3/html/whatsnew2003se.asp\">this> MSDN article has a whats new for devs in windows mobile 2003 SE</a>. some interesting new features. i especially like the screen rotation!

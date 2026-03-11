@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Vista RC1 is now publicly available to [download here][1]! Start your Downloaders! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Vista RC1 is now publicly available to [download here][1]! Start your Downloaders! :)
 
  [1]: http://download.windowsvista.com/preview/rc1/en/download.htm

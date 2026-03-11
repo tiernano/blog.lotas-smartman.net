@@ -8,7 +8,6 @@ categories:
 ---
 Watch out for this.  
 
-
 > A call for online vandals to take part in a Web site defacement contest has some companies warning clients to beware over the holiday weekend. [[CNet News.com]][1]
 
 Ok. all updates are on my server, so lets hope no one gets in.

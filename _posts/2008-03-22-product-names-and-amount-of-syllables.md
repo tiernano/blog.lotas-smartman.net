@@ -13,8 +13,8 @@ categories:
 <table cellSpacing="0" cellPadding="0" width="100%" bgColor="#cccccc" border="0">
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
-      &nbsp;<a class="black" href="http://DotNetWebLogs.com"><b>Feed:</p> 
-      
+      &nbsp;<a class="black" href="http://DotNetWebLogs.com"><b>Feed:</p>
+
       <p>
         </b>Aggregated posts from .NET Weblogs</a>
       </p>
@@ -81,7 +81,7 @@ categories:
                         </p>
                         
                         <p>
-                          21 at my count&#8230;I could be off though. <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> And Enterprise Developer
+                          21 at my count&#8230;I could be off though. :) And Enterprise Developer
                         </p>
                         
                         <p>

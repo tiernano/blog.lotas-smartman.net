@@ -9,11 +9,11 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-So, a while back, news came out that the Eye-Fi (an SD card with built in Wifi which allows you to send your photos over a wireless to your PC or other service, using a standard SD Enabled Camera) [started shipping][1]. 
+So, a while back, news came out that the Eye-Fi (an SD card with built in Wifi which allows you to send your photos over a wireless to your PC or other service, using a standard SD Enabled Camera) [started shipping][1].
 
 Well, this got me interested, but in reality, there are some issues. in [this Engadget post][2], they outline some of the issues with the card:&nbsp; trusted Wifi networks only, send ALL photos, not just some, etc. Well, it has been making me think: What would I like in my camera. Ideally, Bluetooth. it should also allow me to connect to another device and use its Internet connection (eg phone)&nbsp;to upload to services the camera knew about. wireless syncing to a laptop would be a bonus.
 
-The problem though with Bluetooth is its speed. since Bluetooth is roughly 1mb a second, and my DSLR camera is shooting 8mb raw photos, it would take a minute to upload the RAW image to a device. 
+The problem though with Bluetooth is its speed. since Bluetooth is roughly 1mb a second, and my DSLR camera is shooting 8mb raw photos, it would take a minute to upload the RAW image to a device.
 
 Maybe this is not a technology for DSLR cameras. maybe consumer cameras would be suites for this. just my random though for today&#8230;
 

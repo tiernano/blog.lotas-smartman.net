@@ -8,7 +8,6 @@ categories:
 ---
 [the new power books are here][1]! and there are new [ibooks too][2].  
 
-
 > iBook 1GHz/12.1&Prime;/256MB RAM/30GB HD/Combo Drive &#8211; $1,100  
 > iBook 1GHz/14.1&Prime;/256MB RAM/40GB HD/Combo Drive &#8211; $1,300  
 > iBook 1.2GHz/14.1&Prime;/256MB RAM/60GB HD/Combo Drive &#8211; $1,500  

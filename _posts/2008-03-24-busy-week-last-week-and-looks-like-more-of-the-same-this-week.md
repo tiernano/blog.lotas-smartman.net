@@ -10,10 +10,10 @@ categories:
 ---
 Sorry for the lack of posts this week, and i am pre-empting the same this week. So, here are a few quick links before the madness beings.
 
-  * [Try Windows Home Server free for 120 days][1]
-  * [ScottGu VS.net Performance tips for your machine][2]
-  * [Caching in 10 minutes][3]
-  * [new LUNQ provider for Flickr][4]
+* [Try Windows Home Server free for 120 days][1]
+* [ScottGu VS.net Performance tips for your machine][2]
+* [Caching in 10 minutes][3]
+* [new LUNQ provider for Flickr][4]
 
 I am going to leave it at that. Hopefully will get a chance to post more later&#8230;</p>
 

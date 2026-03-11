@@ -15,7 +15,7 @@ While at my (not so local) book store today, i bought me some cool second hand c
     <td width="46%" height="19" align="center">
       Name
     </td>
-    
+
     <td width="12%" height="19" align="center">
       ISBN
     </td>
@@ -27,8 +27,8 @@ While at my (not so local) book store today, i bought me some cool second hand c
   
   <tr>
     <td width="46%" height="19" align="left">
-      <a HREF="http://www.amazon.com/exec/obidos/ASIN/0078825008/lotassmartmann03"></p> 
-      
+      <a HREF="http://www.amazon.com/exec/obidos/ASIN/0078825008/lotassmartmann03"></p>
+
       <p>
         Windows NT Microsoft Cluster Server</a>
       </p></td> 

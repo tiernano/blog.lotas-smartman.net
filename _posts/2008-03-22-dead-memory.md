@@ -22,10 +22,10 @@ that the ram is capable of 146Mhz, not just 133Mhz. my board only has 133Mhz FSB
 
 for memory and CPU, and I&#8217;m not over clocking! So the info about it is
 
-</p> 
+</p>
 
 here</a>. Wahoo! 1gb of DDR 2100 memory in a few days, if everything goes well!
 
-<img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+:P
 
  [1]: http://www.pcstats.com/articleview.cfm?articleID=771

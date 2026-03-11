@@ -19,7 +19,7 @@ categories:
         <p>
           Brady & Associates, LLC. Firewall Reporting Tools
         </p>
-        
+
         <p>
           Linksys Router Security Alert!
         </p>

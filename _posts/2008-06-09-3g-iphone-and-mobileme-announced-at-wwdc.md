@@ -10,11 +10,11 @@ categories:
 ---
 <img align="right" src="http://images.lotas-smartman.net/image.ashx?id=023baa0f-88b4-4205-a93e-db3666e476cc" alt="3G iPhone" />So, the WWDC keynote has come and gone, and the [3G iPhone][1] was announced. Specs:
 
-  * 3G and HSDPA internet on the go
-  * A-GPS
-  * and all the features of the old iPhone, plus Firmware 2.0 update.
+* 3G and HSDPA internet on the go
+* A-GPS
+* and all the features of the old iPhone, plus Firmware 2.0 update.
 
-will be released 11 July, and will cost $199 for the 8Gb black model, and $299 for either a 16Gb white or black model. 
+will be released 11 July, and will cost $199 for the 8Gb black model, and $299 for either a 16Gb white or black model.
 
 one interesting thing though i found looking at the store&#8230; check out these 2 screen shots of the Requirements section from the Apple Store:
 

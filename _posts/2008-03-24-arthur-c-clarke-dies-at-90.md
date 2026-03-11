@@ -10,7 +10,7 @@ categories:
 ---
 ![][1]
 
-&#8220;*Any sufficiently advanced technology is indistinguishable from magic.*&#8221; 
+&#8220;*Any sufficiently advanced technology is indistinguishable from magic.*&#8221;
 
 Not a lot i can say. kind of speachless. Inventor of the Satellite, writer on 2001: A Space Odyssey. RIP. [[Via Engadget][2]]
 

@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Check out this Proof of concept over at Geek Technique showing you [how to turn your iPod into a flash based one][1]. The model used in the demo is an iPod Mini (discontinued) and it works well. they take the Micro Drive out and stick in a 4Gb CF card. and, after retting the firmware and drive, it works. now, if you could get [SD to SSD Convertor][2] to take larger cards, and work with a 1.8&#8243; disc, you could replace the drive in a standard iPod. Interesting&#8230;.</p> 
+Check out this Proof of concept over at Geek Technique showing you [how to turn your iPod into a flash based one][1]. The model used in the demo is an iPod Mini (discontinued) and it works well. they take the Micro Drive out and stick in a 4Gb CF card. and, after retting the firmware and drive, it works. now, if you could get [SD to SSD Convertor][2] to take larger cards, and work with a 1.8&#8243; disc, you could replace the drive in a standard iPod. Interesting&#8230;.</p>
 
 Tags: <a href="http://technorati.com/tag/iPod" rel="tag">iPod</a> <a href="http://technorati.com/tag/CompactFlash" rel="tag">Compact Flash</a> <a href="http://technorati.com/tag/SSD" rel="tag">SSD</a> <a href="http://technorati.com/tag/SD" rel="tag">SD</a>
 

@@ -16,7 +16,7 @@ And now for some new ones!
 [how USB Works][6]  
 [How bluetooth works][7]  
 [How lan switches work][8]  
-. ill have more later. their site at [howstuffworks.com][9] has lots. ill post when i find new, interesting ones! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+. ill have more later. their site at [howstuffworks.com][9] has lots. ill post when i find new, interesting ones! :P
 
  [1]: http://science.howstuffworks.com/blackout.htm
  [2]: http://computer.howstuffworks.com/flash-memory.htm

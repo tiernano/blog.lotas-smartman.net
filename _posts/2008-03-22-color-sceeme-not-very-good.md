@@ -9,4 +9,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Right. i now dont like this color sceeme. im going to attack the css file when i get home cause i have dreamweaver at home, and i dont have it here. ill hopefully make the site look that much better, well hopefully anyway! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+Right. i now dont like this color sceeme. im going to attack the css file when i get home cause i have dreamweaver at home, and i dont have it here. ill hopefully make the site look that much better, well hopefully anyway! :P

@@ -18,7 +18,7 @@ categories:
       <p class="MsoNormal">
         Iomega today began shipping its new Iomega REV 35GB/90GB drive, a removable storage alternative to t&#8230;
       </p>
-      
+
       <p class="ngrelatedlinks" align="right" style='text-align:right'>
         <a href="http://services.newsgator.com/subscriber/Related.aspx?relurl=http%3a%2f%2fwww.macnn.com%2fnews%2f24188">Related&#8230;</a>
       </p>

@@ -8,15 +8,15 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Dot Net Sample Chapters has a post with [links to Visual Studio 2008 BETA 2 Downloads][1]. 
+Dot Net Sample Chapters has a post with [links to Visual Studio 2008 BETA 2 Downloads][1].
 
-Here are a few, and the rest you will have to check their site! 
+Here are a few, and the rest you will have to check their site!
 
 [Visual Studio Team System 2008 BETA 2 Team Suite (VPC)][2]&nbsp;([Non VPC Version here][3])(i think the names are getting longer this time around&#8230;)
 
 [Visual Studio 2008 BETA 2 Team Foundation Server (VPC)][4]&nbsp;([non VPC version here][5])
 
-I am currently download the Team Suite VPC, TFS VPC and the Team Suite, non VPC. The total side is currently 13.4Gb, and i am getting 735KBytes a second&#8230;. So about 5 hours&#8230; Give or take. Hmmmm. I love boardband! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Though, i think may put me over the top on my Download Cap&#8230;. Hmmmm&#8230;. Ahhh, sure its worth it! 
+I am currently download the Team Suite VPC, TFS VPC and the Team Suite, non VPC. The total side is currently 13.4Gb, and i am getting 735KBytes a second&#8230;. So about 5 hours&#8230; Give or take. Hmmmm. I love boardband! :) Though, i think may put me over the top on my Download Cap&#8230;. Hmmmm&#8230;. Ahhh, sure its worth it!
 
 <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:ed3eb999-a66b-40cc-b8a1-30a1b86e8d24" style="padding-right:0px;display:inline;padding-left:0px;padding-bottom:0px;margin:0px;padding-top:0px;">
   Technorati Tags: <a href="http://technorati.com/tags/Visual%20Studio" rel="tag">Visual Studio</a>, <a href="http://technorati.com/tags/Visual%20Studio%202008%20BETA%202" rel="tag">Visual Studio 2008 BETA 2</a>, <a href="http://technorati.com/tags/VPC" rel="tag">VPC</a>, <a href="http://technorati.com/tags/Team%20Foundation%20Server" rel="tag">Team Foundation Server</a>, <a href="http://technorati.com/tags/Team%20Suite" rel="tag">Team Suite</a>, <a href="http://technorati.com/tags/Team%20System" rel="tag">Team System</a>

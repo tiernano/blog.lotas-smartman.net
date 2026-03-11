@@ -18,7 +18,7 @@ Ok, so, I am working on Developing some app&#8217;s for Windows Mobile devices (
 
 [update] The WM6 downloads are due on March 1st. <a class href="http://blogs.msdn.com/windowsmobile/archive/2007/02/14/where-are-the-windows-mobile-6-sdks.aspx">See this post for more</a>.
 
-The Windows Mobile 6 downloads are brand new today. Professional is the new name for Pocket PC Phone Edition, Standard is the new name for Smartphone, and there is a Classic which was Pocket PC edition (non phone). The Windows Mobile Team blog has some info on [what&#8217;s new for Developers][4]&nbsp;in WM6. I will post info about my up and coming app, once I have it figured out&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p> 
+The Windows Mobile 6 downloads are brand new today. Professional is the new name for Pocket PC Phone Edition, Standard is the new name for Smartphone, and there is a Classic which was Pocket PC edition (non phone). The Windows Mobile Team blog has some info on [what&#8217;s new for Developers][4]&nbsp;in WM6. I will post info about my up and coming app, once I have it figured out&#8230; :)</p>
 
 &nbsp;
 

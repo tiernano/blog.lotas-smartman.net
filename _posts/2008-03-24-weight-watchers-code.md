@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-So, the mammy and the sister has gone on the weight watchers plan, and brough me and the daddy along with them. so, i decided to see if i could find a forumula for getting the points in something. so here is some VB.NET code that does the job: 
+So, the mammy and the sister has gone on the weight watchers plan, and brough me and the daddy along with them. so, i decided to see if i could find a forumula for getting the points in something. so here is some VB.NET code that does the job:
 
 <p class="MsoNormal" style="text-autospace: none">
   <span style="font-size: 10.0pt; font-family: Courier New">&nbsp;&nbsp;&nbsp; <span style="color:blue">Private</span> <span style="color:blue">Sub</span> Form1_Load(<span style="color:blue">ByVal</span> sender <span style="color:blue">As</span> System.Object, <span style="color:blue">ByVal</span> e <span style="color:blue">As</span> System.EventArgs) <span style="color:blue">Handles</span> <span style="color:blue">MyBase</span>.Load</span>
@@ -81,6 +81,6 @@ So, the mammy and the sister has gone on the weight watchers plan, and brough me
 
 &nbsp;
 
-The website i got the info from, [Healthy Weight Forum][1] has the info i needed: the formula: P=(c/50)+(f/12)-(min(r,4)/5) where p = points, c=calories, f=fat grams and r=dietary fiber grams. the min(r/4) is the minimum of 4 or the fiber grams. Coding of a .NET app should be easer for you now! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> working on a PPC and Smartphone client just becasue i can!
+The website i got the info from, [Healthy Weight Forum][1] has the info i needed: the formula: P=(c/50)+(f/12)-(min(r,4)/5) where p = points, c=calories, f=fat grams and r=dietary fiber grams. the min(r/4) is the minimum of 4 or the fiber grams. Coding of a .NET app should be easer for you now! :) working on a PPC and Smartphone client just becasue i can!
 
  [1]: http://www.healthyweightforum.org/eng/articles/weight_watchers_points/

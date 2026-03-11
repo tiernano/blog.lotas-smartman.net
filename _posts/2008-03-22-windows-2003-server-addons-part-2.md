@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.windowsdevcenter.com/pub/a/windows/2004/03/09/ws_addons2.html\">the second part</a> of the series. read the first one ages ago. also posted a links. The first one is <a href=\"http://www.windowsdevcenter.com/pub/a/windows/2004/02/24/ws_addons.html\">here</a>.
+<a href=\"<http://www.windowsdevcenter.com/pub/a/windows/2004/03/09/ws_addons2.html\">the> second part</a> of the series. read the first one ages ago. also posted a links. The first one is <a href=\"<http://www.windowsdevcenter.com/pub/a/windows/2004/02/24/ws_addons.html\">here></a>.

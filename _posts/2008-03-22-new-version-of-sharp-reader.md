@@ -12,8 +12,8 @@ categories:
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
       <p>
-        <a style="color: #66c; text-decoration: none" href="http://aspnetweblog.com/"></p> 
-        
+        <a style="color: #66c; text-decoration: none" href="http://aspnetweblog.com/"></p>
+
         <p>
           Scott</a> wrote, of Luke writing:
         </p>

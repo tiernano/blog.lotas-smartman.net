@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I have to [get me one of these][1]! that is the coolest thing i have seen in ages! I want! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+I have to [get me one of these][1]! that is the coolest thing i have seen in ages! I want! :)
 
 [[via Bink][2]]
 

@@ -31,24 +31,24 @@ A while back i found this article over at O&#8217;Reilly Radar about the <a clas
 
 The idea is that on each page you want to count, you would use the following code:
 
-<font color="#2b91af" size="2"></p> 
+<font color="#2b91af" size="2"></p>
 
 <p>
-  Counter</font><font size="2"> c = </font><font color="#0000ff" size="2">new</font><font size="2"> </font><font color="#2b91af" size="2">Counter</font><font size="2">(context.Request);</p> 
+  Counter</font><font size="2"> c = </font><font color="#0000ff" size="2">new</font><font size="2"> </font><font color="#2b91af" size="2">Counter</font><font size="2">(context.Request);</p>
   
   <p>
     </font>
   </p>
   
   <p>
-    well, not exactly that code. this was used in an ASHX file. normally it would be&nbsp;<font color="#2b91af" size="2"></p> 
-    
+    well, not exactly that code. this was used in an ASHX file. normally it would be&nbsp;<font color="#2b91af" size="2"></p>
+
     <p>
       Counter</font><font size="2"> c = </font><font color="#0000ff" size="2">new</font><font size="2"> </font><font color="#2b91af" size="2">Counter</font><font size="2">(Request);</font>
     </p>
     
     <p>
-      <font size="2">the bl.pageview method only checks what is being entered. it makes sure anything that is being sent in is not null. then it just chucks it in the DB. the req.AnonymousID is the session ID, or at least i think it is. If I am wrong, which it has been known, please leave a comment. I will update the code accordingly&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></font>
+      <font size="2">the bl.pageview method only checks what is being entered. it makes sure anything that is being sent in is not null. then it just chucks it in the DB. the req.AnonymousID is the session ID, or at least i think it is. If I am wrong, which it has been known, please leave a comment. I will update the code accordingly&#8230; :)</font>
     </p>
     
     <p>

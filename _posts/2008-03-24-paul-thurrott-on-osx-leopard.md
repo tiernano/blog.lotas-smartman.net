@@ -9,7 +9,7 @@ categories:
   - Uncategorized
 ---
 [check out this post by Paul Thurrott on Leopard][1] and its &#8220;New&#8221; features. two favourite quotes:  
-* 
+*
 
 1. Time Machine. &#8220;With Mac OS X Leopard and Time Machine &#8230; you can go back in time to recover anything you’ve ever backed up. Time Machine’s time-based browser [lets you] see a snapshot of how your entire system looked on any given day — file by file.&#8221; Wow, neat. It was especially neat when Microsoft included it in Windows Server 2003 over three years ago and called it Volume Shadow Copy. And yes, Windows Vista has it too, built right-in. It even has the backup stuff. Obviously.
 

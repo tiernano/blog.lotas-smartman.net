@@ -26,7 +26,7 @@ Im going to do one of these for my Dell laptop and my Dell Axim over the next fe
 [Virex 7.5][12]&nbsp;(Free with [.Mac][13]&nbsp;see below)  
 [Windows Media Player][14]&nbsp;(Free)  
 [FreeFall Screen Saver][15] (Free with [.mac][13]&nbsp;see below)  
-[DivX 5.2][16]&nbsp;(Free download)   
+[DivX 5.2][16]&nbsp;(Free download)
 [iWork][17]&nbsp;(Boxed software see below)  
 [Palm Desktop][18]&nbsp;(came with my Treo 90)  
 Thats about all i can find at the moment.. Hopefully this helps someone. Links to products listed above:
@@ -36,10 +36,8 @@ Thats about all i can find at the moment.. Hopefully this helps someone. Links t
  [3]: http://www.microsoft.com/mac/products/office2004/office2004.aspx?pid=office2004
  [4]: http://blog.lotas-smartman.net/archive/2005/03/21/11237.aspx
  [5]: http://www.omnigroup.com/applications/omniweb/
- [6]: http://ranchero.com/netnewswire/
  [7]: http://www.yazsoft.com/
  [8]: http://www.panic.com/unison/
- [9]: http://www.panic.com/transmit/
  [10]: http://binaervarianz.de/projekte/programmieren/kismac/
  [11]: http://www.bitsonwheels.com/
  [12]: http://www.networkassociates.com/us/products/mcafee/antivirus/desktop/virex.htm

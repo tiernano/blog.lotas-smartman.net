@@ -10,15 +10,15 @@ categories:
 ---
 Mr Bink <a class href="http://bink.nu/Article9703.bink">has all the details</a>, and here is a list of the OS&#8217;s that are updated:
 
-&nbsp;•&nbsp; Windows Server 2003 with SP2   
+&nbsp;•&nbsp; Windows Server 2003 with SP2
 &nbsp;  
-•&nbsp; Windows Server 2003 R2 with SP2   
+•&nbsp; Windows Server 2003 R2 with SP2
 &nbsp;  
-•&nbsp; Windows Server 2003 x64 Editions with SP2   
+•&nbsp; Windows Server 2003 x64 Editions with SP2
 &nbsp;  
-•&nbsp; Windows Server 2003 R2 x64 Editions with SP2   
+•&nbsp; Windows Server 2003 R2 x64 Editions with SP2
 &nbsp;  
-•&nbsp; Windows Server 2003 for Itanium-based Systems with SP2   
+•&nbsp; Windows Server 2003 for Itanium-based Systems with SP2
 &nbsp;  
 •&nbsp; Windows XP Professional x64 Edition with SP2&nbsp;
 

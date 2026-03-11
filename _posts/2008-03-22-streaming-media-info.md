@@ -10,7 +10,7 @@ Im currently trying to learn streaming media because i could have a client who n
 [Streaming Media with Linux][1] [[O&#8217;Reilly Network][2]]  
 [Streaming media with Linux, Part 2][3] [[O&#8217;Reilly Network][2]]  
 [Internet radio the P2P way][4][[O&#8217;Reilly Network][2]]  
-[Industrial-Strength Webcasting with mod_mp3 ][5] [[O&#8217;Reilly Network][2]]  
+[Industrial-Strength Webcasting with mod_mp3][5] [[O&#8217;Reilly Network][2]]  
 [Real Streaming Audio][6] [[PCPlus][7]]  
 [Audio on the web: The Baics][8] [[PCPlus][7]]
 

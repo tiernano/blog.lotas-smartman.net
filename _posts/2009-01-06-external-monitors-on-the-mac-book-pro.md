@@ -17,7 +17,7 @@ anyway, the reason for this post is around using external monitors with my curre
 
 i have this currently setup in work and at home. all i need to do is plug in power, the monitor, and thats pretty much it. i use the keyboard and monitor of the &#8216;book, but might change that some day&#8230;
 
-anyway, i found the best way to have the monitor set up is in Portrait mode&#8230; 90 Deg turn. both the monitors i have in work and the monitors at home do this, and very well&#8230; here, for example, is a photo of the setup at home: 
+anyway, i found the best way to have the monitor set up is in Portrait mode&#8230; 90 Deg turn. both the monitors i have in work and the monitors at home do this, and very well&#8230; here, for example, is a photo of the setup at home:
 
 <div style="text-align:center;">
   <img src="http://farm4.static.flickr.com/3115/3174304043_f8aa62ab3e.jpg" alt="100_0824" border="0" width="282" height="500" />

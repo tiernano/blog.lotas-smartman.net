@@ -12,8 +12,8 @@ categories:
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
       <p>
-        <a class="black" href="http://www.theregister.co.uk"><b>Feed: </b>The</p> 
-        
+        <a class="black" href="http://www.theregister.co.uk"><b>Feed: </b>The</p>
+
         <p>
           Register</a>
         </p>

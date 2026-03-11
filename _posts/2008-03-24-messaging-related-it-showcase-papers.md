@@ -25,7 +25,7 @@ the exchange blog, You had me at EHLO, has a [post about some show case papers f
   </p>
 </blockquote>
 
-That is some cool info. 10million emails a day! 102k users! mad stuff!   
+That is some cool info. 10million emails a day! 102k users! mad stuff!
 bk_keywords: microsoft exchange, windows mobile, outlook
 
  [1]: http://msexchangeteam.com/archive/2006/07/05/428212.aspx

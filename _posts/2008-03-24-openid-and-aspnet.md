@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-&nbsp;<img src="http://images.lotas-smartman.net/image.ashx?id=1f2a01c5-cbf1-4fab-a8cd-a6c9a146ae8b" align="right" /> 
+&nbsp;<img src="http://images.lotas-smartman.net/image.ashx?id=1f2a01c5-cbf1-4fab-a8cd-a6c9a146ae8b" align="right" />
 
 A while back I was extremely interested in this [OpenID thing][1]. It seems very, very cool. but ASP.NET support was limited. Well, Mads over at .NET slave has the answer. He has created an [ASP.NET system for OpenID][2] which allows easy implementation. I have to use this.
 

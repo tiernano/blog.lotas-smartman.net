@@ -10,7 +10,7 @@ categories:
 ---
 some random links for you to gnaw over this morning:
 
-[How to convert VMWare machines to Microsoft Virtual Machines][1]. This is sweet! VMWare have a load of &#8220;[virtual Appliances][2]&#8221; which now can be used with [Virtual Server][3]. Nice! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[How to convert VMWare machines to Microsoft Virtual Machines][1]. This is sweet! VMWare have a load of &#8220;[virtual Appliances][2]&#8221; which now can be used with [Virtual Server][3]. Nice! :)
 
 [Visual Studio 2005 SP1 has been released][4].
 

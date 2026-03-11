@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-**A day after Sun Microsystems CEO Scott McNealy said open-source software is his company&#8217;s friend, a prominent advocate of the collaborative programming philosophy has called upon the server maker to open the code of Java. ** 
+**A day after Sun Microsystems CEO Scott McNealy said open-source software is his company&#8217;s friend, a prominent advocate of the collaborative programming philosophy has called upon the server maker to open the code of Java.**
 
 Eric S. Raymond, president of the [Open Source Initiative][1], said in an [open letter][2] Thursday that Sun needs to choose between controlling Java and seeing it spread as widely as possible.
 

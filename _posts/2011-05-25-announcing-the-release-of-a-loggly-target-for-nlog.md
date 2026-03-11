@@ -27,7 +27,6 @@ Anyway, I also like [NLog][4], an .NET open Logging tool. quite simple and easy 
 
  [1]: http://blog.lotas-smartman.net/end-of-year-2-in-college-start-of-the-summer
  [2]: https://www.loggly.com
- [3]: https://www.loggly.com/pricing/
  [4]: http://nlog-project.org/
  [5]: https://github.com/tiernano/LogglyNLoggerTarget
  [6]: http://www.dotnetkicks.com/kick/?url=http%3a%2f%2fblog.lotas-smartman.net%2fannouncing-the-release-of-a-loggly-target-for-nlog

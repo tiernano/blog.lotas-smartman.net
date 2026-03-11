@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://www.mini-itx.com/projects/windowsxpbox/\">this project shows you home someone managed to build a computer running windows xp into a windows xp box</a>. Using Mini-ITX, the project looks pretty sweet. and it has a CDROM drive too! Cool photos.
+<a href=\"<http://www.mini-itx.com/projects/windowsxpbox/\">this> project shows you home someone managed to build a computer running windows xp into a windows xp box</a>. Using Mini-ITX, the project looks pretty sweet. and it has a CDROM drive too! Cool photos.

@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Microsoft PopFly is a cool Silverlight based mashup site. I am not exactly sure what else to say about it other then it has a Duck as a logo! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Microsoft PopFly is a cool Silverlight based mashup site. I am not exactly sure what else to say about it other then it has a Duck as a logo! :)
 
 [<img alt="popfly" src="http://images.lotas-smartman.net/image.ashx?id=9425448b-2321-45ac-b3e6-d262a1e3946c" border="0" />][1]
 

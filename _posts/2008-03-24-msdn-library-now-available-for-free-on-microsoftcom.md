@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-You can now download the entire MSDN library, which used only to be available for MSDN subscribers, from [Microsoft.com here][1].&nbsp;More info is available from [Rob Caron&#8217;s Blog here][2]. Very cool stuff! Carefull downloading&#8230; It weighs in at a little over 1.6Gb! Definatly need more then just a 56k modem! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+You can now download the entire MSDN library, which used only to be available for MSDN subscribers, from [Microsoft.com here][1].&nbsp;More info is available from [Rob Caron&#8217;s Blog here][2]. Very cool stuff! Carefull downloading&#8230; It weighs in at a little over 1.6Gb! Definatly need more then just a 56k modem! :P
 
 bk_keywords: MSDN, visual studio
 

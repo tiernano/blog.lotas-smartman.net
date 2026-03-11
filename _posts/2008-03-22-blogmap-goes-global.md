@@ -18,7 +18,7 @@ categories:
       <p>
         Yes, I have been getting emails and comments that the BlogMap should really be global to support blogs from countries other than USA. Now you can&nbsp;submit rss/atom feeds from any country to my BlogMap!
       </p>
-      
+
       <p>
         See new BlogMap UI with enhanced search features here:
       </p>

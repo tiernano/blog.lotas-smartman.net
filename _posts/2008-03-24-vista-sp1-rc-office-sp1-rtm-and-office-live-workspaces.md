@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Running Vista on your machine? Want to check out the SP? [SP1 RC is available to download here][1]. this is quite a small download, at a little over 300k, and it downloads SP1 over Windows Update. 
+Running Vista on your machine? Want to check out the SP? [SP1 RC is available to download here][1]. this is quite a small download, at a little over 300k, and it downloads SP1 over Windows Update.
 
 Next is [SP1 of Office 2007][2]. Its a little bigger, at 218.3mb. Great work lads!
 

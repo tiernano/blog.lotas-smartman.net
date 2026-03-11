@@ -16,7 +16,7 @@ search support to the blog. If you have IE7 installed, you should now see the
 drop down button at the search bar light up, and when you click, you should see  
 Tiernans Comms Closet Search with a little asterisk beside it. you can add it as  
 a provider so you can search with it quickly. VERY Cool! How do you do this? [Check this  
-post by Erik Porter][2]. Very easy to impliment! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Good luck!
+post by Erik Porter][2]. Very easy to impliment! :) Good luck!
 
 Technorati Tags:&nbsp; <a href="http://www.technorati.com/tag/IE7" rel="tag">IE7</a>&nbsp; <a href="http://www.technorati.com/tag/Blogging" rel="tag">Blogging</a>&nbsp; <a href="http://www.technorati.com/tag/Search" rel="tag">Search</a>&nbsp; <a href="http://www.technorati.com/tag/TiernansCommsCloset" rel="tag">Tiernans<br /> Comms Closet</a>&nbsp; <a href="http://www.technorati.com/tag/OpenSearch" rel="tag">Open Search</a>&nbsp;
 

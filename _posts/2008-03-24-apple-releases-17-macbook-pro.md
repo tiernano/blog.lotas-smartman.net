@@ -11,9 +11,9 @@ categories:
 <img alt="17inch MacBookPro" hspace="0" src="http://static.flickr.com/51/134188730_bf1bccd5c1_m.jpg" align="right" border="0" />Right, [i was off by  
 a day][1], but what can you do! Apple has released a 17&#8243; version of their [MacBook Pro][2]. this beauty has a dual  
 core 2.16Gz Core Duo proc from intel, a gig of ram, 120Gb hdd, 8x dual layer  
-super drive, and some other sweet things. Very cool stuff! and it [can run Windows][3]! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> its about  
+super drive, and some other sweet things. Very cool stuff! and it [can run Windows][3]! :) its about  
 $300 more for the top end 17&#8243; model compaired to the top end 15&#8243; model.  
-definatly want one now! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> More links:
+definatly want one now! :) More links:
 
 [TUAW:  
 Apple introduces 17&#8243; MacBook Pro][4]

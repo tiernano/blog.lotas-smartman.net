@@ -18,7 +18,7 @@ A Windows system tray icon for easy access to Boot Camp information and actions
 Improved keyboard support&nbsp; for Korean, Chinese, Swedish, Danish, Norwegian, Finnish, Russian, and French Canadian  
 Improved Windows driver installation experience  
 Updated documentation and Boot Camp on-line help in Windows  
-Apple Software Update (for Windows XP and Vista) 
+Apple Software Update (for Windows XP and Vista)
 
 Cool beans man!  
 &nbsp;

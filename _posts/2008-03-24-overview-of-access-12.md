@@ -12,7 +12,7 @@ I have been subscribed to the [Access 12 blog][1] for a while using [newsgator][
 [Overview of access 12][3]  
 [Access&#8217;s commitment to Developers][4]  
 [Access Demos from the PDC][5]  
-[the new Access Data Engine][6] 
+[the new Access Data Engine][6]
 
 Why am i posting this? Well, i am the Access Engineer for Microsoft Ireland. Very cool stuff comming up, and hopefully in the new year, i will post more Access related stuff!
 

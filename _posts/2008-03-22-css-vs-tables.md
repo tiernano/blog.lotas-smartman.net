@@ -32,8 +32,8 @@ browsers/platforms, you only have to write one main one and some CSS files too.
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
       <p>
-        <a class="black" href="http://DotNetWebLogs.com"><b>Feed: </b>Aggregated</p> 
-        
+        <a class="black" href="http://DotNetWebLogs.com"><b>Feed: </b>Aggregated</p>
+
         <p>
           posts from .NET Weblogs</a>
         </p>

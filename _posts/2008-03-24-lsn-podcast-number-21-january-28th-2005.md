@@ -18,7 +18,7 @@ Available to [download here][1].
 
 [Eircom Music Store][4]
 
-[the google adwords API Beta is live][5]. 
+[the google adwords API Beta is live][5].
 
 [google adwords API blog][6]
 

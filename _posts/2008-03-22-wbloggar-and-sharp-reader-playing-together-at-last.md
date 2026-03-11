@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-There is finally a Plugin for [Sharp Reader][1] to talk to [WBloggar][2]! Info [here][3]. Handy! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> makes my life easer!
+There is finally a Plugin for [Sharp Reader][1] to talk to [WBloggar][2]! Info [here][3]. Handy! :P makes my life easer!
 
  [1]: http://www.sharpreader.net
  [2]: http://www.wbloggar.com

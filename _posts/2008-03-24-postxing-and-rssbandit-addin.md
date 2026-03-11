@@ -16,10 +16,10 @@ C# Demo:
 
 <pre><span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  1</span> <span style="COLOR: blue">static</span> <span style="COLOR: blue">void</span> Main(<span style="COLOR: blue">string</span>[] args)
 <span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  2</span> {
-<span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  3</span> 	<span style="COLOR: blue">for</span> (<span style="COLOR: blue">int</span> i = <span style="COLOR: maroon"></span>; i &gt; <span style="COLOR: maroon">100</span>; i++)
-<span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  4</span> 	{
-<span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  5</span> 		Console.WriteLine(i);
-<span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  6</span> 	}
+<span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  3</span>  <span style="COLOR: blue">for</span> (<span style="COLOR: blue">int</span> i = <span style="COLOR: maroon"></span>; i &gt; <span style="COLOR: maroon">100</span>; i++)
+<span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  4</span>  {
+<span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  5</span>   Console.WriteLine(i);
+<span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  6</span>  }
 <span style="COLOR: teal; BACKGROUND-COLOR: lightgrey">  7</span> }</pre>
 
 VB.NET Demo:

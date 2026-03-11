@@ -11,7 +11,7 @@ categories:
 ---
 So, last week i seen Expansys selling the [OQO model 01+][1] for a very cheap price, and deicided to sell the EEE and get an OQO instead.&nbsp;
 
-I bought mine with Windows XP home edition, and i will be installing XP Tablet on it soon. I may even try Vista on it, though it seems as if its not memory upgradable&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" />
+I bought mine with Windows XP home edition, and i will be installing XP Tablet on it soon. I may even try Vista on it, though it seems as if its not memory upgradable&#8230; :(
 
 the reasons for this where the size difference, the touch screen and the 30Gb hard drive. Well, this morning the OQO arrived, and so far, so good!
 

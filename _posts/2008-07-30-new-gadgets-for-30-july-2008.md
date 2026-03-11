@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Its wasent exactly planned, but this week and last has been a bumper 7 or so days for Gadgets for me&#8230; Last Saturday, i swapped my OQO Model 01+ for a HTC TyTN II with 8Gb SDHC and both a standard and extended battery. its a very nice device! Extreamly pleased so far with it. and last Wedesday, i got an email from a marketing company telling me i had won a Nokia N95, speakers and a 1 year subscription to the Nokia Music Store with unlimited streaming! So, as i said, completly unplanned, but very, erm&#8230;, rewarding&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Its wasent exactly planned, but this week and last has been a bumper 7 or so days for Gadgets for me&#8230; Last Saturday, i swapped my OQO Model 01+ for a HTC TyTN II with 8Gb SDHC and both a standard and extended battery. its a very nice device! Extreamly pleased so far with it. and last Wedesday, i got an email from a marketing company telling me i had won a Nokia N95, speakers and a 1 year subscription to the Nokia Music Store with unlimited streaming! So, as i said, completly unplanned, but very, erm&#8230;, rewarding&#8230; :)
 
 So, photos:
 

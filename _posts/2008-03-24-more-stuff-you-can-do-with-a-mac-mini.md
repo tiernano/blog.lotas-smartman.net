@@ -13,5 +13,4 @@ Earlier on in the week i had a link to the&nbsp;Nerd Vittles blog which had 3 ar
  [1]: http://blog.lotas-smartman.net/archive/2005/02/03/10949.aspx
  [2]: http://mundy.org/blog/index.php?p=27
  [3]: http://mundy.org/blog/index.php?p=15 "Permanent Link: Ultimate Home Automation Server: The $500 Mac Mini, Part II"
- [4]: http://mundy.org/blog/index.php?p=17 "Permanent Link: Ultimate Home Automation Server: The $500 Mac Mini, Part III"
  [5]: http://mundy.org/blog/index.php?p=19 "Permanent Link: Ultimate Computer Telephony Server: The $500 Mac mini"

@@ -56,7 +56,7 @@ RAZOR2\_CF\_RANGE\_91\_100 (1.2 points) BODY: Razor2 gives a spam confidence lev
 
 ASCII\_FORM\_ENTRY (0.8 points) BODY: Contains an ASCII-formatted form
 
-RAZOR2_CHECK (0.9 points) Listed in Razor2, see http://razor.sf.net/
+RAZOR2_CHECK (0.9 points) Listed in Razor2, see <http://razor.sf.net/>
 
 MSG\_ID\_ADDED\_BY\_MTA_3 (0.9 points) &#8216;Message-Id&#8217; was added by a relay (3)
 

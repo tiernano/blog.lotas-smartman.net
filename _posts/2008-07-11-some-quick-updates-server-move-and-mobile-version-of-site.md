@@ -14,8 +14,8 @@ First, the blog, which is currently [hosted in France][1], will be moving back h
 
 Next, a mobile version of the site is now live. Thanks to the guys at MoFuse, I have 2 versions. 1 for mobiles and one for iPhones. the links are as follows:
 
-  * Mobile version: <http://tiernano.mofuse.mobi/>
-  * iPhone Version <http://tiernano.mofuse.mobi/iPhone/>
+* Mobile version: <http://tiernano.mofuse.mobi/>
+* iPhone Version <http://tiernano.mofuse.mobi/iPhone/>
 
 I have been playing with it on the iPhone and it works quite well. So, hopefully, a more normal post schedule will return soon&#8230;
 

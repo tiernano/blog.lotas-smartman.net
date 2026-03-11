@@ -10,31 +10,31 @@ categories:
 
 New workstation
 
-  * noise problems 
-      * cooling problems 
-          * [fixed!][4]
+* noise problems
+  * cooling problems
+    * [fixed!][4]
         Apple Announcemnt
-        
-          * [Mac mini with Intel processors][5] 
-              * [Apple iPod hifi][6] 
-                  * [review 1][7] 
-                      * [review 2][8] 
-                          * [upgradable][9]
+
+    * [Mac mini with Intel processors][5]
+      * [Apple iPod hifi][6]
+        * [review 1][7]
+          * [review 2][8]
+            * [upgradable][9]
                         Windows Vista
-                        
-                          * 64 bit Vista&nbsp;&nbsp;&nbsp; 
-                              * Very cool so far 
-                                  * some issues, but extremely cool
+
+            * 64 bit Vista&nbsp;&nbsp;&nbsp;
+              * Very cool so far
+                * some issues, but extremely cool
                                 new camera
-                                
-                                  * [canon EOS 350D][10] 
-                                      * [photos taken with the camera][11] 
-                                          * RAW images
+
+                * [canon EOS 350D][10]
+                  * [photos taken with the camera][11]
+                    * RAW images
                                         This show has the following music from the [podsafe music network][12]:
-                                        
-                                        [THERE SHE GOES Brother Love][13]   
-                                        [2 Car Garage The Cool Waters Band][14]   
-                                        [Not on the Radio Geoff Smith ][15]  
+
+                                        [THERE SHE GOES Brother Love][13]
+                                        [2 Car Garage The Cool Waters Band][14]
+                                        [Not on the Radio Geoff Smith][15]  
                                         &nbsp;
 
  [1]: http://media.libsyn.com/media/lotas/tiernanspodcast-08032006-01.mp3
@@ -49,6 +49,3 @@ New workstation
  [10]: http://www.canon-europe.com/For_Home/Product_Finder/Cameras/Digital_SLR/EOS_350C/index.asp?ComponentID=270585&SourcePageID=164046#1
  [11]: http://web.mac.com/tiernanotoole/iWeb/Site/Post%20to%20flickr.html
  [12]: http://music.podshow.com/
- [13]: http://music.podshow.com/music/listeners/artistdetails.php?BandHash=8aae87c75cf4d26e0e49eda11627628f
- [14]: http://music.podshow.com/music/listeners/artistdetails.php?BandHash=cf506084d4bcd74d0d65238cadc508f9
- [15]: http://music.podshow.com/music/listeners/artistdetails.php?BandHash=91f6bc9ba66421768cc215f33ad693b7

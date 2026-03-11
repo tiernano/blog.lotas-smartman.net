@@ -13,7 +13,7 @@ categories:
     <td>
       <img src="http://images.quizfarm.com/1130268344BATMAN.jpg" />
     </td>
-    
+
     <td>
       You scored as <b>Batman, the Dark Knight</b>. As the Dark Knight of Gotham, Batman is a vigilante who deals out his own brand of justice to the criminals and corrupt of the city. He follows his own code and is often misunderstood. He has few friends or allies, but finds comfort in his cause.</p> 
       

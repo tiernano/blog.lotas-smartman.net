@@ -8,4 +8,4 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-<a href=\"http://news.com.com/2100-1012_3-5185211.html?tag=nefd.top\">cnet are reporting that</a> MS Office 2004 for the mac will be launched in May. i seen this at the Apple confrence in January (cant think of the name of the confrence. it will come to me though, probably) and it looks sweet. some of the things that Word can do looks class. wonder will it run on my iMac?
+<a href=\"<http://news.com.com/2100-1012_3-5185211.html?tag=nefd.top\">cnet> are reporting that</a> MS Office 2004 for the mac will be launched in May. i seen this at the Apple confrence in January (cant think of the name of the confrence. it will come to me though, probably) and it looks sweet. some of the things that Word can do looks class. wonder will it run on my iMac?

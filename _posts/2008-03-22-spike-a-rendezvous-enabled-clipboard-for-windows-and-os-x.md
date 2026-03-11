@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Spike is a Rendezvous-enabled clipboard for Windows and OS X][1]. it allows you to share clip boards between many machines. sweet idea. i definatly have to try this out at home. copy and paste between machines is now a lot easer! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+[Spike is a Rendezvous-enabled clipboard for Windows and OS X][1]. it allows you to share clip boards between many machines. sweet idea. i definatly have to try this out at home. copy and paste between machines is now a lot easer! :P
 
  [1]: http://www.porchdogsoft.com/products/spike/

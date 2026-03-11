@@ -11,7 +11,7 @@ categories:
 ---
 Ok. When playing with Blue tooth on my Linux box
 
-last night, my system died. Don?t know how. I was installing Ximian</p> 
+last night, my system died. Don?t know how. I was installing Ximian</p>
 
 Desktop 2</a> and it was uninstalling loads of stuff, about 500 packages, if I
 

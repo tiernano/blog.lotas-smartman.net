@@ -18,7 +18,7 @@ categories:
       <p class="MsoNormal">
         Intego&#8217;s security annoucement about the viability of a Trojan horse for Mac OS X has turned out to be a case of FUD.
       </p>
-      
+
       <p class="ngrelatedlinks" align="right" style='text-align:right'>
         <a href="http://services.newsgator.com/subscriber/Related.aspx?relurl=http%3a%2f%2farstechnica.com%2fnews%2fposts%2f1081623266.html">Related&#8230;</a>
       </p>

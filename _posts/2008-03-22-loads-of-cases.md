@@ -8,7 +8,7 @@ categories:
 ---
 Toms hardware is reviewing 24 cases. very interesting. im looking for a new
 
-case if i get my dual processor AMD board, like i want! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" /> i need 450watt power
+case if i get my dual processor AMD board, like i want! :P i need 450watt power
 
 supply i thinks. anyway, check the
 

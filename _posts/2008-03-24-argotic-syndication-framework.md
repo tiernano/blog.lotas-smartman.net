@@ -10,33 +10,33 @@ categories:
 ---
 [Argotic][1] is a .NET Framework for consuming or generating RSS and Atom feeds. Just reading the front page of their CodePlex site, here are some of the features:
 
-> **<u>Overview of Features</u>** 
-> 
->   * Consume or generate RSS and Atom syndication feeds. 
->       * Provides an extensible framework for processing any syndication specification extension. 
->           * Support for auto-discovery of syndication services. 
->               * Supports consumption of secure/authenticated syndication services. 
->                   * Implements a provider model for storing/retrieving syndication information to your back-end data store of choice. 
->                       * Supports conditional get of syndication services data. </ul> 
->                     **<u>Implemented Syndication Specifications</u>** 
->                     
->                       * [RSS 2.0][2] syndication feeds. 
->                           * [Atom 1.0][3] syndication feeds. 
->                               * [OPML 2.0][4] outline processing. 
->                                   * [RSD 1.0][5] syndication discoverability. </ul> 
->                                 **<u>Implemented Syndication Extensions</u>** 
->                                 
->                                   * [blogChannel][6] 
->                                       * [creativeCommons][7] 
->                                           * [Dublin Core][8] 
->                                               * [Basic Geo (WGS84 lat/long)][9] 
->                                                   * [iTunes][10] 
->                                                       * [Media][11] 
->                                                           * [Pingback][12] 
->                                                               * [Simple Sharing Extensions][13] 
->                                                                   * [Slash][14] 
->                                                                       * [Trackback][15] 
->                                                                           * [Well Formed Web (wfw)][16]</ul> </blockquote> 
+> **<u>Overview of Features</u>**
+>
+> * Consume or generate RSS and Atom syndication feeds.
+>   * Provides an extensible framework for processing any syndication specification extension.
+>     * Support for auto-discovery of syndication services.
+>       * Supports consumption of secure/authenticated syndication services.
+>         * Implements a provider model for storing/retrieving syndication information to your back-end data store of choice.
+>           * Supports conditional get of syndication services data. </ul>
+>                     **<u>Implemented Syndication Specifications</u>**
+>
+>           * [RSS 2.0][2] syndication feeds.
+>             * [Atom 1.0][3] syndication feeds.
+>               * [OPML 2.0][4] outline processing.
+>                 * [RSD 1.0][5] syndication discoverability. </ul>
+>                                 **<u>Implemented Syndication Extensions</u>**
+>
+>                 * [blogChannel][6]
+>                   * [creativeCommons][7]
+>                     * [Dublin Core][8]
+>                       * [Basic Geo (WGS84 lat/long)][9]
+>                         * [iTunes][10]
+>                           * [Media][11]
+>                             * [Pingback][12]
+>                               * [Simple Sharing Extensions][13]
+>                                 * [Slash][14]
+>                                   * [Trackback][15]
+>                                     * [Well Formed Web (wfw)][16]</ul> </blockquote>
 >                                                                         Cool! The [API is available to view here][17], and since its on CodePlex, source is [available too][18]!
 
  [1]: http://www.codeplex.com/Argotic

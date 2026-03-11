@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I have been wanting to install a TFS server in house for a while now. I am currently using a company called [Hosted Projects][1] to do my source control, and while looking for a way to migrate my data from SVN to TFS (which I still haven&#8217;t found) I found this article over on [Gurkan Yeniceri&#8217;s blog called Poor mans TFS][2]. It shows you how to build a TFS server on a really old box. Interesting theory, and if&nbsp;I cant get my TFS system working (still need a box&#8230;) i will try this on a Virtual Machine. Hmm. Virtual machines&#8230; that could be the answer&#8230;</p> 
+I have been wanting to install a TFS server in house for a while now. I am currently using a company called [Hosted Projects][1] to do my source control, and while looking for a way to migrate my data from SVN to TFS (which I still haven&#8217;t found) I found this article over on [Gurkan Yeniceri&#8217;s blog called Poor mans TFS][2]. It shows you how to build a TFS server on a really old box. Interesting theory, and if&nbsp;I cant get my TFS system working (still need a box&#8230;) i will try this on a Virtual Machine. Hmm. Virtual machines&#8230; that could be the answer&#8230;</p>
 
 &nbsp;
 

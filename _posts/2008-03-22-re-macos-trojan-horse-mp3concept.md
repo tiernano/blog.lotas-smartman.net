@@ -10,13 +10,12 @@ categories:
 ---
 Hmmm. MacOSX Trojan. now where did i put that antivirus for the mac again&#8230;.n  
 
-
 > <div>
->   UPDATED 
->   
+>   UPDATED
+>
 >   <p>
->     Damn! All this time I thought the Mac was safe. Now those virus writers are coming after (the rest of) us. It&#8217;s a MacOS X virus. It&#8217;s a paradigm shift for me, this malicious virus business on the Mac. 
->     
+>     Damn! All this time I thought the Mac was safe. Now those virus writers are coming after (the rest of) us. It&#8217;s a MacOS X virus. It&#8217;s a paradigm shift for me, this malicious virus business on the Mac.
+>
 >     <p>
 >       A company called Intego has released a <a href="http://www.intego.com/news/pr40.html" title="http://www.intego.com/news/pr40.html">security alert</a>:<br /> 
 >       

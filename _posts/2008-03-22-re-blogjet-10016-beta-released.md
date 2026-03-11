@@ -11,8 +11,9 @@ categories:
 ---
 > BlogJet 1.0.0.16 Beta Release Notes  
 > March 25, 2004
-> 
+>
 > FEATURES  
+>
 > * Multiple categories support.  
 > * Quick test of FTP settings.  
 > * pMachine support.  
@@ -27,8 +28,9 @@ categories:
 > &nbsp;&nbsp; &#8211; Ctrl+Shift+V &#8211; attach voice  
 > &nbsp;&nbsp; &#8211; Alt+D &#8211; select text in Title bar  
 > &nbsp;&nbsp; &#8211; F5 &#8211; change account
-> 
+>
 > BUG FIXES  
+>
 > * BlogJet This! did not work with long selection.  
 > * Draft files handling errors.  
 > * Login window when opening draft.  
@@ -41,9 +43,9 @@ categories:
 > * &#8220;Access violation at address 005489A4&#8243; fixed.  
 > * Some main window shortcuts worked in Login dialog.  
 > * Sometimes &#8220;t&#8221; didn&#8217;t work in editor &#8211; fixed.
-> 
+>
 > [Download here!][1]
-> 
+>
 > <img src ="http://weblogs.asp.net/mhawley/aggbug/96830.aspx" width = "1" height = "1" />
 
 *[Via [Weblogs @ ASP.NET][2]]* Blogjet is pretty cool, but i found [RSSBandit][3] and it has build in support for [WBloggar][4] so i just right click and article and hit post with w.Bloggar. Its a sweet addon.

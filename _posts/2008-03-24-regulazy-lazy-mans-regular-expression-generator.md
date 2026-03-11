@@ -12,7 +12,7 @@ categories:
 ---
 This is now very cool! I have always seen Regular Expressions, but never fully learned how to use them. I wanted to, but it was one of those things. anyway, Roy Osherove has made my live a lot easer, now with [Regulazy][1]:
 
-<img height="240" src="http://lsnbackup.nfshost.com/Regulazylazymansregularexpressiongenerat_1010F/RegulazyDemo11.gif" width="352" align="right" border="0" />&nbsp;as Roy says himself: 
+<img height="240" src="http://lsnbackup.nfshost.com/Regulazylazymansregularexpressiongenerat_1010F/RegulazyDemo11.gif" width="352" align="right" border="0" />&nbsp;as Roy says himself:
 
 *Regulazy is a visual Regex Creation tool for beginners. Easy point and click user interfaces, predictive technology and much more!*
 

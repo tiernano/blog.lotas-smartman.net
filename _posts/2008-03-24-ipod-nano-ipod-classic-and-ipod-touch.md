@@ -13,15 +13,15 @@ categories:
 ---
 Well, apple has updated the iPod line this morning, and there is a new name for an old classic (no pun intended) and a whole new product.
 
-So, First, the nano. The [iPod nano][1] has been updated to include Video. 320X240 display, 6,5mm thin, 4 and 8 gig models, has a new enhanced UI (including Cover Flow) and its pretty interesting. not my cup of tea though. 
+So, First, the nano. The [iPod nano][1] has been updated to include Video. 320X240 display, 6,5mm thin, 4 and 8 gig models, has a new enhanced UI (including Cover Flow) and its pretty interesting. not my cup of tea though.
 
-Next, the [iPod Classic][2]. yes, the original iPod is now renamed to Classic. this still has the large HDD (now in 80 and 160Gb models), cheaper ($249 and $349) the new UI and its got a full metal jacket! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Not sure if the screen is the usual scratch happy plastic, or the newer glass from the [iPhone][3], but, who knows. Battery is impressive: 80Gb model has 30hr audio and 5 hour video, and the 160gb is a staggering 40hr audio and 7hr video! 
+Next, the [iPod Classic][2]. yes, the original iPod is now renamed to Classic. this still has the large HDD (now in 80 and 160Gb models), cheaper ($249 and $349) the new UI and its got a full metal jacket! :) Not sure if the screen is the usual scratch happy plastic, or the newer glass from the [iPhone][3], but, who knows. Battery is impressive: 80Gb model has 30hr audio and 5 hour video, and the 160gb is a staggering 40hr audio and 7hr video!
 
 Now, the one I want to order! the [iPod Touch][4]. This is like the iPhone, without the phone. It has WWII, touch screen, Safari browser, and its only 8mm thin! it comes in either 8 or 16 GB editions, has the same 3.5&#8243; display as the iPhone, and with the Wifi connection, you can [download music from the iTunes store][5], wirelessly! one thing i wonder about that: is Video, TV and, most importantly, PodCasts included in this? i didn&#8217;t see them in the [walk though][6], but i suppose anything is possible.
 
 Other news: The shuffle now gets a [(RED) version][7], the iPhone drops to $399, gets [ring tones][8] and also gets the iTunes Wifi store soon.
 
-Lots of stuff today, but the iPod Touch is important. This now is a big &#8220;up yours&#8221; from Apple to at&t and the rest of the network providers. no one wants to drop 599 (or 399 now) on an iPod, which is tied into a 12+month contract, and in all fairness to the iPhone, the iPod features are the important part. from what i have read on the interweb, its a pretty basic phone. nothing special, other then the iPod features and the web browser. 
+Lots of stuff today, but the iPod Touch is important. This now is a big &#8220;up yours&#8221; from Apple to at&t and the rest of the network providers. no one wants to drop 599 (or 399 now) on an iPod, which is tied into a 12+month contract, and in all fairness to the iPhone, the iPod features are the important part. from what i have read on the interweb, its a pretty basic phone. nothing special, other then the iPod features and the web browser.
 
 Also, the iPod nano looks a bit silly. would you seriously want to watch 5 hours on that thing? and the ring tones? Who in their right mind would be spending money on Ring Tones, and $1.98 at that! I still have the default ring tone on my phone, and why the hell would i want to change it?
 

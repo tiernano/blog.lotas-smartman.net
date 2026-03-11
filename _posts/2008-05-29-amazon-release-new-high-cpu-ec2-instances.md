@@ -11,20 +11,18 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-[Amazon has released][1] some new EC2 instances which are aimed at users who require more CPU power. there are 2 new instances: 
+[Amazon has released][1] some new EC2 instances which are aimed at users who require more CPU power. there are 2 new instances:
 
-***High-CPU Medium Instance*** 
+***High-CPU Medium Instance***
 
 1.7 GB of memory  
 5 EC2 Compute Units (2 virtual cores with 2.5 EC2 Compute Units each)  
 350 GB of instance storage  
 32-bit platform  
-I/O Performance: Moderate   
+I/O Performance: Moderate
 **Price: $0.20 per instance hour**
 
-
-
-***High-CPU Extra Large Instance*** 
+***High-CPU Extra Large Instance***
 
 7 GB of memory  
 20 EC2 Compute Units (8 virtual cores with 2.5 EC2 Compute Units each)  

@@ -10,7 +10,6 @@ categories:
 ---
 [VNUNet are reporting][1] that Samba 3 is faster then win2k3 server.  
 
-
 > Tests by IT Week Labs show the latest version of the open-source Samba file and print server software is 2.5 times faster than Windows Server 2003 in the same role.</p>
 cool!
 

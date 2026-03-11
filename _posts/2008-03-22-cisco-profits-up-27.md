@@ -23,7 +23,7 @@ Cisco has posted profits of 27% but failed Wall Street Estimates and shares drop
 <span class="au">By Ben Klayman</span>
 
 <div class="ar">
-  CHICAGO (Reuters) &#8211; Cisco Systems Inc. (NasdaqNM:<a href="http://finance.yahoo.com/q?s=csco&d=t">CSCO</a></p> 
+  CHICAGO (Reuters) &#8211; Cisco Systems Inc. (NasdaqNM:<a href="http://finance.yahoo.com/q?s=csco&d=t">CSCO</a></p>
   
   <p>
     &#8211; <a href="http://biz.yahoo.com/n/c/csco.html">News</a>) on Tuesday said

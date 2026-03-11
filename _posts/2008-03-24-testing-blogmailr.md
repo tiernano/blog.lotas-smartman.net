@@ -8,8 +8,8 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-This is a test of <a><a href="http://www.blogmailr.com">http://www.blogmailr.com</a>&#8220;>BlogMailr</a>.   
-Interesting idea! Handy if i can get this working from my phone! 
+This is a test of <a><a href="http://www.blogmailr.com">http://www.blogmailr.com</a>&#8220;>BlogMailr</a>.
+Interesting idea! Handy if i can get this working from my phone!
 
 Published with [BlogMailr][1]
 

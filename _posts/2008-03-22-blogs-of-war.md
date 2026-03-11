@@ -16,27 +16,27 @@ there is never enough. Not content with switching between cable and free-to-air
 
 TV, &#8230;
 
-</p> 
+</p>
 
 Blogs of war</a> The&nbsp;Statesman
 
-Stanley Miller</p> 
+Stanley Miller</p>
 
 II</a> Milwaukee&nbsp;Journal&nbsp;Sentinel
 
 [Salon][1]&nbsp;&#8211;
 
-</p> 
+</p>
 
 Voice of America</a>&nbsp;&#8211;
 
-</p> 
+</p>
 
 **and&nbsp;5&nbsp;related&nbsp;Â»**</a>
 
-</p> 
+</p>
 
-http://www.abc.net.au/7.30/content/2003/s822028.htm</a>
+<http://www.abc.net.au/7.30/content/2003/s822028.htm></a>
 
 I like the name blogs of war. what a name for an article! i used it from the
 

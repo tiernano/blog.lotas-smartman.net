@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Richard Campbell has a post on his site called &#8220;[Falling from your own success][1]&#8220;. It talks about sites failing under load, and some ideas around coping with the issue. one very important thing he mentions is &#8220;Fail gracefully&#8221;.* *
+Richard Campbell has a post on his site called &#8220;[Falling from your own success][1]&#8220;. It talks about sites failing under load, and some ideas around coping with the issue. one very important thing he mentions is &#8220;Fail gracefully&#8221;.**
 
 *&#8220;<span><font color="#000000">Fail gracefully. As<br /> developers, we tend to think that the correct answer is always, “No<br /> bugs, we’ll just fix everything.</p>
 

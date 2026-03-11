@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-![Bill and Steve][1] 
+![Bill and Steve][1]
 
 Apple has posted the video and an audio version of the D5 interview of Bill Gates and Steve Jobs. Its on iTunes, and can be downloaded [here][2]. the Video is about a gig and the audio is 85mb. [Via TUAW]
 

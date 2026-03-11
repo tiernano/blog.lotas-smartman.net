@@ -9,11 +9,11 @@ categories:
   - Uncategorized
 ---
 <center>
-  <b>I&#8217;m an Atheist!</b></p> 
+  <b>I&#8217;m an Atheist!</b></p>
   
   <p>
-    <a href="http://robertandtim.topcities.com/quiz/christ/christquiz.html"><img border=1 src="http://blog.lotas-smartman.net/wp-content/uploads/2008/03/atheist.jpg"></p> 
-    
+    <a href="http://robertandtim.topcities.com/quiz/christ/christquiz.html"><img border=1 src="http://blog.lotas-smartman.net/wp-content/uploads/2008/03/atheist.jpg"></p>
+
     <p>
       <b>Which Enemy of the Christian Church Are You?</b></a>
     </p>

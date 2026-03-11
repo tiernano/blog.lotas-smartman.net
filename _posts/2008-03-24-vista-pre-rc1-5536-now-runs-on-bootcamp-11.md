@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Thats handy to know][1]! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[Thats handy to know][1]! :)
 
  [1]: http://home.mchsi.com/~khadzic/MyWebsite/files/cfc6211606c6ae86a4169400da828a6d-26.html

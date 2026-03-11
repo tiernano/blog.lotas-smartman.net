@@ -13,8 +13,8 @@ categories:
 <table cellSpacing="0" cellPadding="0" width="100%" bgColor="#cccccc" border="0" id="table1">
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
-      &nbsp;<a class="black" href="http://radio.weblogs.com/0113297/"><b>Feed:</p> 
-      
+      &nbsp;<a class="black" href="http://radio.weblogs.com/0113297/"><b>Feed:</p>
+
       <p>
         </b>Jeremy Allaire&#8217;s Radio</a>
       </p>

@@ -18,12 +18,12 @@ After a successful experiment serving wireless Internet access with its shakes a
 
 Related Posts:
 
-  * [Schlotzsky&#8217;s Deli Offers Free Wi-Fi Access][3] 
-      * [Major Brands Shift Ad Budgets Online][4] 
-          * [McDonald&#8217;s Uses Big Ads to Launch New Salads][5]</ul> 
+* [Schlotzsky&#8217;s Deli Offers Free Wi-Fi Access][3]
+  * [Major Brands Shift Ad Budgets Online][4]
+    * [McDonald&#8217;s Uses Big Ads to Launch New Salads][5]</ul>
         [[Up2Speed][6]]
-        
-        This would be soooo cool if they did this world wide!!! Your never very far away from a MacD! Road trips would rock cause every few miles you could check your mail, news, etc. and even get food! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+
+        This would be soooo cool if they did this world wide!!! Your never very far away from a MacD! Road trips would rock cause every few miles you could check your mail, news, etc. and even get food! :P
 
  [1]: http://www.up2speed.com/archives/mcdonalds_rolls_out_more_wifi.php
  [2]: http://reuters.com/newsArticle.jhtml?type=internetNews&storyID=3052120

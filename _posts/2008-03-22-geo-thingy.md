@@ -14,7 +14,7 @@ cool!!! My site should be on it cause im
 
 [GeoCoded][2], and also have the
 
-</p> 
+</p>
 
 RSS tag</a> and finally i ping [weblogs.com][3].
 

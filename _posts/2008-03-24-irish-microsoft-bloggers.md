@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I found [this post][1] asking where all the Irish Microsoft Bloggers where so, here is a list!   
+I found [this post][1] asking where all the Irish Microsoft Bloggers where so, here is a list!
 [me][2]  
 [Bill O&#8217;Brien][3]  
 [Paul Fallon][4]  

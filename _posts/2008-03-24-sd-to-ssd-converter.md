@@ -15,15 +15,15 @@ Check this out! An [SD to SSD (Solid State Disk) converter][1]. You plug in up t
 
 1: Why only 4? Technically, you could get another 4 on the other side, bringing the total to 8 SD Cards.
 
-2: Why only 2Gb max? There are 8Gb cards available now, and 4 Gig cards are only a fraction more then 2Gb cards. 
+2: Why only 2Gb max? There are 8Gb cards available now, and 4 Gig cards are only a fraction more then 2Gb cards.
 
-3: Price: at $258.50 for the sled with no cards, its not cheap! 
+3: Price: at $258.50 for the sled with no cards, its not cheap!
 
-4: Why not make a 3.5&#8243; model of this? That would rock! You could get, lets theorize here,&nbsp;24 cards in (4 rows of 3 cards, double sided) a 3.5&#8243; sled, each holding, say 8Gb? 192Gb storage? might cost a bit, but could be cheaper then actual SSD memory&#8230; 
+4: Why not make a 3.5&#8243; model of this? That would rock! You could get, lets theorize here,&nbsp;24 cards in (4 rows of 3 cards, double sided) a 3.5&#8243; sled, each holding, say 8Gb? 192Gb storage? might cost a bit, but could be cheaper then actual SSD memory&#8230;
 
-5: again, partly to do with part 2, but why no SDHC support? SDHC cards should be faster and larger&#8230; 
+5: again, partly to do with part 2, but why no SDHC support? SDHC cards should be faster and larger&#8230;
 
-Mind you, I can defiantly see a cool advantage to this. If they did managed to get this double sided, and also support larger cards, we could be talking laptop hard drive replacement here! 64 Gb out of 8 8Gb cards would be enough for most laptop users, and if your sporting a larger laptop, like mine, you could get 2 of these in! SWEET! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /></p> 
+Mind you, I can defiantly see a cool advantage to this. If they did managed to get this double sided, and also support larger cards, we could be talking laptop hard drive replacement here! 64 Gb out of 8 8Gb cards would be enough for most laptop users, and if your sporting a larger laptop, like mine, you could get 2 of these in! SWEET! :)</p>
 
 [[Via Engadget][2]]
 

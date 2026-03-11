@@ -10,11 +10,11 @@ categories:
 ---
 Just testing new new version of [BlogJet][1][(][1]1.6) which now comes with built in [Flickr][2] support!
 
-it also includes text replacing, which basically means if you type a word, like [Engadget][3], it will auto replace it with what you tell it to replace it with (i got [Engadget][3] to link to their site, same with [slashdot][4] and [Flickr][2]. Very cool stuff!&nbsp;<img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />&nbsp;Now testing the [Flickr][2] integration:
+it also includes text replacing, which basically means if you type a word, like [Engadget][3], it will auto replace it with what you tell it to replace it with (i got [Engadget][3] to link to their site, same with [slashdot][4] and [Flickr][2]. Very cool stuff!&nbsp;:)&nbsp;Now testing the [Flickr][2] integration:
 
 [<img src="http://static.flickr.com/28/64044175\_c2c2142305\_t.jpg" alt="Testing auto posting with flickr" border=0>][5]
 
-Works! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Works! :)
 
  [1]: http://blogjet.com/
  [2]: http://www.flickr.com/

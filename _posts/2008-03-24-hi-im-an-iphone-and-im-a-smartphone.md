@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[Very good][1]! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[Very good][1]! :)
 
  [1]: http://www.istartedsomething.com.nyud.net:8080/20070226/iphone-smartphone-ad/

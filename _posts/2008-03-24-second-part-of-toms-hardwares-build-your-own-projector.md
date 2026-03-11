@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[this article over at Toms Hardware][1] goes into a few more details about building your own Projector. I last posted about this [last month][2]. Looks like fun. now all i need is a spare flat panel monitor and a Overhead projector, and of cource, enough wall space! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+[this article over at Toms Hardware][1] goes into a few more details about building your own Projector. I last posted about this [last month][2]. Looks like fun. now all i need is a spare flat panel monitor and a Overhead projector, and of cource, enough wall space! :)
 
 <div class="media">
   [Listening to: Beautiful &#8211; <a href="http://www.windowsmedia.com/mg/search.asp?srch=Pharrell">Pharrell</a> &#8211; Paid tha Cost to Be da Bo$$ (04:58)]

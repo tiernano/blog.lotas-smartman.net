@@ -12,6 +12,6 @@ categories:
 
 > Quote: *I wasn&#8217;t expecting much overclocking from the Extreme Edition, due to die size, but 4GHz was a genuine surprise, especially at the voltage needed. It&#8217;s a shame the voltage mod on the EPoX didn&#8217;t quite work, I&#8217;d have been showing off at 4.2GHz+.*
 
-I want! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_razz.gif" alt=":P" class="wp-smiley" />
+I want! :P
 
  [1]: http://www.hexus.net/content/reviews/review.php?dXJsX3Jldmlld19JRD02NDAmdXJsX3BhZ2U9MQ==

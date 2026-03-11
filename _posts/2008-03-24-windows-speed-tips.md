@@ -10,9 +10,9 @@ categories:
 ---
 Check out these articles on Windows Speed tips:
 
-[10 Simple Ways To Speed Up Windows XP][1] 
+[10 Simple Ways To Speed Up Windows XP][1]
 
-[10 Intermediate Ways To Speed Up Windows XP][2] 
+[10 Intermediate Ways To Speed Up Windows XP][2]
 
 [More Ways to Speed up Windows&nbsp;XP][3]
 

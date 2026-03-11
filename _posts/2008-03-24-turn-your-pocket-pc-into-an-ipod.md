@@ -6,7 +6,7 @@ permalink: /turn-your-pocket-pc-into-an-ipod/
 categories:
   - Uncategorized
 ---
-Check out this post on how to turn your [Pocket PC into an iPod][1]. Very good tutorial <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Requirements:
+Check out this post on how to turn your [Pocket PC into an iPod][1]. Very good tutorial :) Requirements:
 
 <font size=3>(A) Hammer  
 (B) Large-tip permanent marker, black  

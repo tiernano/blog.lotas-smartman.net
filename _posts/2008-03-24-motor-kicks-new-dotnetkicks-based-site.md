@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I have just created a new DotNetKicks based site, called [MotorKicks][1]. Its a new site, which is aimed at car and motor lovers everywhere! into cars? Why not [join our Community][2]! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Hope to see you there!
+I have just created a new DotNetKicks based site, called [MotorKicks][1]. Its a new site, which is aimed at car and motor lovers everywhere! into cars? Why not [join our Community][2]! :) Hope to see you there!
 
 [<img alt="kick it on DotNetKicks.com" src="http://www.dotnetkicks.com/Services/Images/KickItImageGenerator.ashx?url=http%3a%2f%2fkicks.motorloggr.com%2f" border="0" />][3]
 

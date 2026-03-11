@@ -9,49 +9,49 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-the August CTP release of the next release of ADO.NET, vNext, has been released. the [announcement is here][1], on the ADO.NET Teams blog. and there is a lot of info here too:</p> 
+the August CTP release of the next release of ADO.NET, vNext, has been released. the [announcement is here][1], on the ADO.NET Teams blog. and there is a lot of info here too:</p>
 
-**Whitepapers**: 
+**Whitepapers**:
 
-[Next-Generation Data Access: Making the Conceptual Level Real][2] &#8211; José Blakeley, David Campbell, Jim Gray, S. Muralidhar, Anil Nori 
+[Next-Generation Data Access: Making the Conceptual Level Real][2] &#8211; José Blakeley, David Campbell, Jim Gray, S. Muralidhar, Anil Nori
 
 [The ADO.NET Entity Framework Overview][3]
 
-&nbsp;[ADO.NET Tech Preview: Entity Data Model][4] 
+&nbsp;[ADO.NET Tech Preview: Entity Data Model][4]
 
-**Channel 9** 
+**Channel 9**
 
-[Chatting about LINQ and ADO.NET Entities][5] &#8211; Anders Hejlsberg and Sam Druker 
+[Chatting about LINQ and ADO.NET Entities][5] &#8211; Anders Hejlsberg and Sam Druker
 
 [ADO.NET Entity Framework on Channel 9][6] – Pablo Castro, Mike Pizzo and Britt Johnston
 
-**Screencasts** 
+**Screencasts**
 
-<u>[ADO.NET vNext&nbsp;CTP &#8211; tools and screencast][7]</u>, Sanjay Nagamangalam 
+<u>[ADO.NET vNext&nbsp;CTP &#8211; tools and screencast][7]</u>, Sanjay Nagamangalam
 
-[ADO.NET vNext screencast][8], Shyam Pather 
+[ADO.NET vNext screencast][8], Shyam Pather
 
-**Blogs**: 
+**Blogs**:
 
-[ADO.NET Team Blog][9] [Data blog][10] 
+[ADO.NET Team Blog][9] [Data blog][10]
 
-**Blog posts** 
+**Blog posts**
 
-[Announcing: The ADO.NET vNext August CTP][1], by Pablo Castro 
+[Announcing: The ADO.NET vNext August CTP][1], by Pablo Castro
 
-[Incremental Improvement, Important Milestones, and Complementary Goals][11], by Britt Johnston 
+[Incremental Improvement, Important Milestones, and Complementary Goals][11], by Britt Johnston
 
-[ADO.NET vNext: The Entity Framework, LINQ and more][12] by Pablo Castro 
+[ADO.NET vNext: The Entity Framework, LINQ and more][12] by Pablo Castro
 
-[Entities in Olympus and Channel 9&#8230;][13] by Britt Johnston 
+[Entities in Olympus and Channel 9&#8230;][13] by Britt Johnston
 
-[Conceptual Schema][14] by Britt Johnston 
+[Conceptual Schema][14] by Britt Johnston
 
-[ADO.NET vNext &#8211; feedback so far][15], by Alex Barnett 
+[ADO.NET vNext &#8211; feedback so far][15], by Alex Barnett
 
 [LINQ and ADO.NET innovations][16], by Somasega
 
-**MSDN Forum** 
+**MSDN Forum**
 
 [ADO.NET Technical Preview Forum][17]
 

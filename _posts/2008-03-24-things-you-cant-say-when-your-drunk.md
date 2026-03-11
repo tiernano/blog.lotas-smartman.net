@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-As a first test of the articles in dotTEXT, i will post this email i have gotten many times. im sure you more then likly got it before too. 
+As a first test of the articles in dotTEXT, i will post this email i have gotten many times. im sure you more then likly got it before too.
 
 I got this as an email, but its true!
 

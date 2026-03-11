@@ -12,7 +12,7 @@ Well, i say should, but you will have to confirm that. there are currently 2 vid
 
 [Blaise Aguera y Arcas: Photosynth demo at TED][1]
 
-and 
+and
 
 [Microsoft Surface Computing Demo][2]
 

@@ -10,4 +10,4 @@ dsq_needs_sync:
 categories:
   - Uncategorized
 ---
-<a href=\"http://blog.topix.net/archives/000016.html\">check out this write up on how google gets its power</a> to be able to index the web, and be able to offer users 1Gb of mail storge. Interesting article.
+<a href=\"<http://blog.topix.net/archives/000016.html\">check> out this write up on how google gets its power</a> to be able to index the web, and be able to offer users 1Gb of mail storge. Interesting article.

@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-now this is cool! Dr. Dobbs has an article titled [Synchronize Now!.][1] It shows you how to use .NET 2.0, [Amazon S3][2] and FTP to sync files between machines. Very cool stuff! 
+now this is cool! Dr. Dobbs has an article titled [Synchronize Now!.][1] It shows you how to use .NET 2.0, [Amazon S3][2] and FTP to sync files between machines. Very cool stuff!
 
 bk_keywords: amazon, web services, .net 2.0
 

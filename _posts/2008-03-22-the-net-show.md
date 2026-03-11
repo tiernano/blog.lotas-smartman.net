@@ -9,8 +9,8 @@ categories:
 <table cellSpacing="2" cellPadding="2" width="100%" border="0" id="table1">
   <tr>
     <td style="font-family: Verdana,Sans-serif; font-size: 10pt">
-      <em>In this</p> 
-      
+      <em>In this</p>
+
       <p>
         episode of "The .NET Show", will talk about Windows Server 2003, which
       </p>

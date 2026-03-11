@@ -20,7 +20,7 @@ tags:
 ---
 Right. so [OSNews has a post asking users to post their setup][1] they are currently using&#8230; I was going to post a comment with mine, but though it would take up too much space&#8230; so, here is mine. Leave a comment if you wish with your setup&#8230;
 
-**Main workstation: **There was a [series of posts about this machine][2], and the v.next has now become the v.current. This machine currently acts as Dev Workstation, Hyper-V Server, and anything else i need a big fast machine for (Photo processing, Video Editing and conversion, etc) Specs are as follows:
+**Main workstation:**There was a [series of posts about this machine][2], and the v.next has now become the v.current. This machine currently acts as Dev Workstation, Hyper-V Server, and anything else i need a big fast machine for (Photo processing, Video Editing and conversion, etc) Specs are as follows:
 
 Dual Xeon (Nehamam) 2.26Gz (Quad core, Hyper Threaded)  
 12Gb DDR 3 Memory  

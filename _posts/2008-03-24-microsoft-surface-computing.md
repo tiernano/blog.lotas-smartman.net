@@ -9,7 +9,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-I Want one of these! i dont care how much, that would be the most impressive coffee table ever! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+I Want one of these! i dont care how much, that would be the most impressive coffee table ever! :)
 
 <embed src="http://admin.brightcove.com/destination/player/player.swf" width="486" height="412" type="application/x-shockwave-flash" flashvars="allowFullScreen=true&initVideoId=933742930&servicesURL=http://www.brightcove.com&viewerSecureGatewayURL=https://www.brightcove.com&cdnURL=http://admin.brightcove.com&autoStart=false">
 </embed>

@@ -15,8 +15,8 @@ categories:
         <tr>
           <td vAlign="top" bgColor="#006666">
             <p>
-              <b></p> 
-              
+              <b></p>
+
               <p>
                 <a href="http://developers.slashdot.org/"></p> 
                 

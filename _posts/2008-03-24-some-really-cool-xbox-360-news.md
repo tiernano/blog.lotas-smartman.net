@@ -10,17 +10,17 @@ categories:
 ---
 Firstly, Engadget has [info about the new 360 Dashboard update][1], due out the week of May 7th. this includes:
 
-  * The update hits the beginning of the week of May 7th
-  * Your contact list will now integrate Windows Live Messenger, and show joinable session status
-  * Messenger contacts can see what game you&#8217;re playing, and your gamertag
-  * Marketplace will now have its own blade, which will be skinned independent of your theme
-  * Users will now get inline achievement updates (i.e. see what achievement you just unlocked and how much it&#8217;s worth).
-  * Low-power download mode and auto-shutdown
-  * Progressive download: watch, fast-forward, and rewind partially downloaded movies
-  * You can text chat messenger six friends playing games watching movies
-  * Multiple tweaks on the user interface
+* The update hits the beginning of the week of May 7th
+* Your contact list will now integrate Windows Live Messenger, and show joinable session status
+* Messenger contacts can see what game you&#8217;re playing, and your gamertag
+* Marketplace will now have its own blade, which will be skinned independent of your theme
+* Users will now get inline achievement updates (i.e. see what achievement you just unlocked and how much it&#8217;s worth).
+* Low-power download mode and auto-shutdown
+* Progressive download: watch, fast-forward, and rewind partially downloaded movies
+* You can text chat messenger six friends playing games watching movies
+* Multiple tweaks on the user interface
 
-Next is a [QWERTY keyboard attachment for it][2], which will allow you to talk to friends over Live Messenger. Very sweet! Finally, and definatly the most important part, [H.264, MPEG 4 and WMV Plays4Sure playing is now available][3]! Bring on the downloads! <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Next is a [QWERTY keyboard attachment for it][2], which will allow you to talk to friends over Live Messenger. Very sweet! Finally, and definatly the most important part, [H.264, MPEG 4 and WMV Plays4Sure playing is now available][3]! Bring on the downloads! :)
 
 &nbsp;
 

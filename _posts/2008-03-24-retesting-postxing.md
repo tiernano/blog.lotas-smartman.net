@@ -16,7 +16,7 @@ have access to the source. once this i would LOVE to have, and have been working
 on (not directly for PostXing, but could be used in it) is a Flickr add on, so  
 you could pick a photo from [Flickr][3], and add  
 it directly to your blog post. it would make life a lot easer. insted, i have to  
-hack some stuff to do it&#8230; <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+hack some stuff to do it&#8230; :)
 
 Technorati Tags:&nbsp; <a href="http://www.technorati.com/tag/PostXing" rel="tag">PostXing</a>&nbsp; <a href="http://www.technorati.com/tag/Blogging" rel="tag">Blogging</a>&nbsp; <a href="http://www.technorati.com/tag/BlogTools" rel="tag">Blog Tools</a>&nbsp; <a href="http://www.technorati.com/tag/CommunityServer" rel="tag">Community<br /> Server</a>&nbsp; <a href="http://www.technorati.com/tag/Programming" rel="tag">Programming</a>&nbsp;
 

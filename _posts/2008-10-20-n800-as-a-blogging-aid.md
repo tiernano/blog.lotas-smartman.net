@@ -13,7 +13,7 @@ So, last weekend, i got [my self a Nokia N800,][1] which i have been wanting for
 
 &nbsp;
 
-Couple of things i am looking forward to: Fennec (the new Mozilla browser), proper Bluetooth PAN Support (its currently a hack, and although it works, its flakey&#8230;) and a newer flash version. the version on the device plays youtube videos quite well, but other flash video sites stutter a lot&#8230; I have to get me a few extra memory cards for it (currently got a 1gb and a 256mb card, but it will take 16gb cards, i am told!). 
+Couple of things i am looking forward to: Fennec (the new Mozilla browser), proper Bluetooth PAN Support (its currently a hack, and although it works, its flakey&#8230;) and a newer flash version. the version on the device plays youtube videos quite well, but other flash video sites stutter a lot&#8230; I have to get me a few extra memory cards for it (currently got a 1gb and a 256mb card, but it will take 16gb cards, i am told!).
 
 Anyway, more on the N800 later. questions,, leave a comment.
 

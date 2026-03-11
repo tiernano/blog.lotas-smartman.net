@@ -14,7 +14,7 @@ up&nbsp;Apache][1], etc. [Part 2
 shows you how to setup mail servers][2], etc. final one on the site at the  
 moment is [how to setup MySQL][3].  
 Very interesting read. check it out. if its any consilation, i have an ISP in,  
-well, 3 machines&#8230; do i win? <img src="http://blog.lotas-smartman.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+well, 3 machines&#8230; do i win? :)
 
  [1]: http://mundy.org/blog/index.php?p=23
  [2]: http://mundy.org/blog/index.php?p=25

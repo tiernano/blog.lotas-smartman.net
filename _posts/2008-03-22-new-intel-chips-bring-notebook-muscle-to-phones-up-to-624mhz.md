@@ -16,7 +16,7 @@ categories:
       <p class="MsoNormal">
         Intel is releasing a&nbsp;new range of processors&nbsp;for mobile phones and PDAs this week.&nbsp; The new &#8220;Bulverde&#8221; chips will bring battery saving features and more performance to these portable devices.&nbsp; The fastest of the chips will run at a speedy 624MHz: Intel&#8217;s latest mobile processo&#8230;
       </p>
-      
+
       <p class="ngrelatedlinks" align="right" style='text-align:right'>
         <a href="http://services.newsgator.com/subscriber/Related.aspx?relurl=http%3a%2f%2fwww.anandtech.com%2fnews%2fshownews.html%3fi%3d21947">Related&#8230;</a>
       </p>

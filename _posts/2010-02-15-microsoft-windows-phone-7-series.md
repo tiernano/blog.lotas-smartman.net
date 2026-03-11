@@ -21,9 +21,9 @@ tags:
 ---
 So, today at the Mobile World Congress, Microsoft unvailed the Windows Phone Series 7. This is the next generation of Windows Phone devices. So, some quick links and some screen shots from around the web:
 
-  * There is a hands on Demo over at Channel 9 of the [Windows Phone 7 Series][1].  the OS is VERY SWEET! check it out.
-  * the main website is at [http://www.windowsphone7series.com/][2]. videos with demos and info also available there
-  * Another video on YouTube, with [demos of some of the features][3].
+* There is a hands on Demo over at Channel 9 of the [Windows Phone 7 Series][1].  the OS is VERY SWEET! check it out.
+* the main website is at [http://www.windowsphone7series.com/][2]. videos with demos and info also available there
+* Another video on YouTube, with [demos of some of the features][3].
 
 Quick Blurb from the Press Release:
 
@@ -45,13 +45,13 @@ Quick Blurb from the Press Release:
 
 ***Music + Video.** This hub creates an incredible media experience that brings the best of Zune, including content from a user’s PC, online music services and even a built-in FM radio into one simple place that is all about music and video. Users can turn their media experience into a social one with Zune Social on a PC and share their media recommendations with like-minded music lovers. The playback experience is rich and easy to navigate, and immerses the listener in the content.*
 
-***Marketplace.** This hub allows the user to easily discover and load the phone with certified applications and games. *
+***Marketplace.** This hub allows the user to easily discover and load the phone with certified applications and games.*
 
 ***Office.** This hub brings the familiar experience of the world’s leading productivity software to the Windows Phone. With access to Office, OneNote and SharePoint Workspace all in one place, users can easily read, edit and share documents. With the additional power of Outlook Mobile, users stay productive and up to date while on the go.*
 
 <img style="margin: 0px 20px;" src="http://images.lotas-smartman.net/image.ashx?id=b321b085-28ad-4457-9a37-1e60653a971a" alt="" width="450" height="273" />
 
-***Availability ***
+***Availability***
 
 *Partners from around the world have committed to include Windows Phone 7 Series in their portfolio plans. They include mobile operators AT&T, Deutsche Telekom AG, Orange, SFR, Sprint, Telecom Italia, Telefónica, Telstra, T-Mobile USA, Verizon Wireless and Vodafone, and manufacturers Dell, Garmin-Asus, HTC Corp., HP, LG, Samsung, Sony Ericsson, Toshiba and Qualcomm Inc. The first phones will be available by holiday 2010. Customers who would like to receive additional information about Windows Phone 7 Series and be notified when it is available can register at *[*http://www.windowsphone7series.com*][4]*.*
 
