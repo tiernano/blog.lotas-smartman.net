@@ -8,7 +8,7 @@ markdown: kramdown
 twitter_username: tiernano
 github_username:  tiernano 
 url: "https://blog.lotas-smartman.net"
-paginate: 5
+paginate: 10
 plugins: 
   -  jekyll-paginate
 
